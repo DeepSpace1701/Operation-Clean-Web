@@ -1,0 +1,15 @@
+!https://www.chip.de
+!do not use:
+!Download Info-Box:
+!www.chip.de##.copy-sm
+
+! 2023-12-18 https://www.amazon.de
+www.amazon.de##._follow-the-author-typ-card_style_cardContainer__MMvKu
+
+! 2023-12-20 https://www.businessinsider.de
+!do not use:
+!www.businessinsider.de##.wp-block-inline-teaser
+!www.businessinsider.de###main > .related-wrap
+
+! 2023-12-23 https://drive.google.com
+||ssl.gstatic.com/docs/doclist/images/empty_state_empty_folder.svg$image

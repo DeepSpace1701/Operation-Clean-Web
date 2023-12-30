@@ -24,6 +24,36 @@ www.chip.de##.mb-md.bg-b-l.bg-gray
 www.chip.de##i
 !useless line below footer
 www.chip.de###footer-white-global
+!Download Page
+!annoying fake download ads
+www.chip.de##.is-separated
+!fake download button
+www.chip.de##.Download-Button--Free
+www.chip.de##.js_download_button
+www.chip.de##.mt-xs-so.copy-md > li:nth-of-type(1)
+www.chip.de##.mt-xs-so.copy-md > li:nth-of-type(2)
+www.chip.de##.mt-xs-so.copy-md > li:nth-of-type(3)
+!yet another pointless player, but removes program picture as well (do not use)
+!www.chip.de##.ar-16-9
+!video title at least
+www.chip.de###xymaticoben
+!yet another shopping note
+www.chip.de##.is-shopping.Note
+!side info table
+www.chip.de##tr:nth-of-type(1) > td:nth-of-type(1)
+www.chip.de##tr:nth-of-type(1) > td:nth-of-type(2)
+www.chip.de##tr:nth-of-type(4)
+www.chip.de##tr:nth-of-type(10)
+www.chip.de##tr:nth-of-type(12)
+||www.chip.de/fec/assets/downloads/img/antivirus.png$image
+!second download button below
+www.chip.de##.mt-md.fb-align-content-start.fb
+www.chip.de##.ft-global-links
+!weird empty space, maybe ad
+www.chip.de##.Z3KsncGmWZPHcVQ4446446951
+www.chip.de##.newsletter-widget
+www.chip.de##.ft-footer-feeds
+www.chip.de##.Footer__Upper--Logo
 
 ! 2023-12-18 https://www.amazon.de
 www.amazon.de##._follow-the-author-typ-card_style_cardContainer__MMvKu

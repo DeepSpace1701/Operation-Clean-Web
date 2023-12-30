@@ -2,6 +2,19 @@
 !do not use:
 !Download Info-Box:
 !www.chip.de##.copy-sm
+! 2023-12-30 https://www.chip.de
+www.chip.de##.Breadcrumb
+!Top
+www.chip.de##.AD
+www.chip.de###R1C2
+!Sidebar
+www.chip.de##.News__Aside
+www.chip.de##.Ad
+!Ad Container Container after summary text
+www.chip.de##.FC
+!Disclaimer crap and side placeholder
+www.chip.de##aside
+www.chip.de##.Social
 
 ! 2023-12-18 https://www.amazon.de
 www.amazon.de##._follow-the-author-typ-card_style_cardContainer__MMvKu

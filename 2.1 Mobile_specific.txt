@@ -1,0 +1,23 @@
+! 2023-12-30 https://www.chip.de
+www.chip.de##.Breadcrumb
+!Search
+www.chip.de##.aa-Form
+!Header menu
+www.chip.de##.Header__Button
+!Ad and Ad Container Container, as in Desktop
+www.chip.de##.Ad
+www.chip.de##.FC
+!Disclaimer Crap
+www.chip.de##.is-shopping.Note
+!footer Ads
+www.chip.de##.Ad-hor-height
+www.chip.de##.News__Aside
+www.chip.de##.wrapper-safe-super
+!footer Social bar
+www.chip.de##.Social
+!the weird sticky footer ad
+www.chip.de##.StickyAd
+!footer
+www.chip.de##.Footer__Upper
+www.chip.de##.c-gray-d.bg-black
+

@@ -15,6 +15,15 @@ www.chip.de##.FC
 !Disclaimer crap and side placeholder
 www.chip.de##aside
 www.chip.de##.Social
+!Article info
+||www.chip.de/ii/1/2/6/7/7/0/9/2/7/Elektronik_Informationen_36px_Hoehe.svg$image
+www.chip.de##.p-summary
+!Crap Player container
+www.chip.de##.mb-md.bg-b-l.bg-gray
+!Article Info below post
+www.chip.de##i
+!useless line below footer
+www.chip.de###footer-white-global
 
 ! 2023-12-18 https://www.amazon.de
 www.amazon.de##._follow-the-author-typ-card_style_cardContainer__MMvKu

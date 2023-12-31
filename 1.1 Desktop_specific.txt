@@ -118,3 +118,103 @@ www.pcwelt.de##.author-icons-list
 www.pcwelt.de##.primaryFooter-return-top
 www.pcwelt.de##.primaryFooter-top
 www.pcwelt.de##.footer-base
+
+! 2023-12-31 https://www.computerbild.de
+!mainpage
+www.computerbild.de##.breadCrumb
+www.computerbild.de##.pageHeadline
+www.computerbild.de##.toTopButton__sticky
+www.computerbild.de##.superbannerBtfContainer
+www.computerbild.de##.introText
+www.computerbild.de##.jobbioTeaser
+www.computerbild.de##.footer__socialBar
+www.computerbild.de##.serviceLinkList
+!downloadpages
+www.computerbild.de##.adsbygoogle
+www.computerbild.de##.download__alternatives_swiper
+!newsletter article wall
+www.computerbild.de##.teaserBlocks
+www.computerbild.de##.footerLinkListExtra
+www.computerbild.de##.cmsLink
+
+! 2023-12-31 https://www.saechsische.de
+!pointless overlay
+www.saechsische.de##._ixs19o
+www.saechsische.de##.header__left
+www.saechsische.de##.header-link
+www.saechsische.de##.header__bottom
+www.saechsische.de##.d-tablet-none
+www.saechsische.de##.breadcrumbs
+www.saechsische.de##.article-remember-link
+www.saechsische.de##.article-detail-socials
+www.saechsische.de##.article-detail-title__reading-time
+www.saechsische.de##.vr
+www.saechsische.de##.related-articles
+www.saechsische.de##.footer__partner
+www.saechsische.de##.footer__navigation
+www.saechsische.de##.footer__socials
+
+! 2023-12-31 https://www.focus.de
+www.focus.de##.elements
+www.focus.de###menu-wrapper
+www.focus.de###special-header-v2
+www.focus.de##.emarf_da_edih
+www.focus.de###newsbreadcrumb
+!article partner
+www.focus.de##.pnsource
+!subheadline
+www.focus.de##.overhead
+www.focus.de###article-social-holder
+www.focus.de##.actions
+www.focus.de###sidebar
+www.focus.de##.mediaBlock
+!opinion
+www.focus.de###opinary-root
+www.focus.de##.cls_slot_xxoutstreamxx
+||cdn.pear.focus.de/clients/public/generated/deal_*.html$subdocument
+www.focus.de##div.textBlock [href]
+www.focus.de##.comments-banner
+www.focus.de##.teaserList2x2
+www.focus.de##.teaserList3x1
+www.focus.de##.created
+www.focus.de###tfm_admanagerTeaser
+www.focus.de##.cls_hor_prnt_am
+www.focus.de###footerv2-spacer
+www.focus.de###servicev2
+www.focus.de##.credits
+www.focus.de##.partners
+www.focus.de###footsearch
+www.focus.de##.small-logo
+
+! 2023-12-31 https://www.scinexx.de
+www.scinexx.de##.header-meta
+www.scinexx.de##.header-bottom
+www.scinexx.de##.hidden-sm.hidden-xs.header-top
+www.scinexx.de##.theme-headline
+www.scinexx.de##.herald-sidebar
+www.scinexx.de##.herald-goto-top
+www.scinexx.de##.rsbtn
+www.scinexx.de##strong
+www.scinexx.de##.meta-tags
+!footer social bar, but maybe too generic
+www.scinexx.de##div.clearfix
+!prevnext
+www.scinexx.de##.h6
+www.scinexx.de##.footer-widgets
+
+! 2023-12-31 https://www.n-tv.de
+www.n-tv.de##.header__nav__element
+www.n-tv.de###header__nav__timezones
+www.n-tv.de##.header__nav__push
+www.n-tv.de##.header__nav__search
+www.n-tv.de##.breadcrumb
+www.n-tv.de##.title--dark
+www.n-tv.de##.article__kicker
+www.n-tv.de##.article__audioicon
+www.n-tv.de##.sidebar
+www.n-tv.de##.article__share-wrapper
+www.n-tv.de##.article__tags
+www.n-tv.de##.ob_embed
+www.n-tv.de##.sitemap
+www.n-tv.de##.social
+||www.n-tv.de/auth/handler.html$subdocument

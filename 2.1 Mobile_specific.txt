@@ -26,7 +26,63 @@ www.chip.de##.News__Video
 ||www.chip.de/ii/1/2/6/7/7/0/9/2/7/Elektronik_Informationen_36px_Hoehe.svg$image
 www.chip.de##.p-summary
 www.chip.de##i
-
 www.chip.de##.amp-article-ad
 www.chip.de##.amp-footer-upper
 www.chip.de##.amp-footer-lower-copyright
+
+! 2023-12-31 https://www.businessinsider.de
+www.businessinsider.de##.bi-banner
+www.businessinsider.de##.header-nav__item--subscribe-button
+www.businessinsider.de##.breadcrumbs
+www.businessinsider.de##.social-share
+www.businessinsider.de##.bi-bulletpoints
+www.businessinsider.de##.bi-injected-ad
+www.businessinsider.de##.wp-block-inline-teaser
+www.businessinsider.de##.related-wrap
+www.businessinsider.de##.tags-wrap
+www.businessinsider.de##.adup-wrap
+www.businessinsider.de##.bi-inpage
+www.businessinsider.de##.social-container
+www.businessinsider.de##center
+www.businessinsider.de##.bi-sp-reject-all
+
+! 2023-12-31 https://www.t-online.de
+!search
+www.t-online.de##.css-lstucw
+!header stuff
+www.t-online.de##.css-imcp1n
+!magenta line
+www.t-online.de##.css-1i9epqp
+!ticker
+www.t-online.de##.css-yk5lvi
+!subheadline
+www.t-online.de##.css-4i5130
+!time to read
+www.t-online.de##span.css-1qrq0jm:nth-of-type(2)
+!socialbar
+www.t-online.de##.css-16w7hqw
+!adfield
+www.t-online.de##.css-12xre5y
+!ads below article
+www.t-online.de##.css-1fnsikk
+www.t-online.de##.css-1sqgcdq
+www.t-online.de##.css-e85yjp
+www.t-online.de###stickyfooter
+www.t-online.de##.css-qrqbal
+!co2 neutrale
+www.t-online.de##a.css-1mqt6yl > .css-zjik7 > .css-4zleql
+
+! 2023-12-31 https://www.pcwelt.de
+www.pcwelt.de###mobileNav-open-button
+www.pcwelt.de###siteSearch-open-button
+www.pcwelt.de###secondaryNav
+www.pcwelt.de##.affiliate-disclaimer
+www.pcwelt.de##.single-breadcrumb
+www.pcwelt.de##.entry-eyebrow
+www.pcwelt.de##.subheadline
+www.pcwelt.de##.subscribers-modal-container
+www.pcwelt.de##.author-icons-list
+www.pcwelt.de##.return-top-mobile
+www.pcwelt.de##.footer-base
+www.pcwelt.de##.primaryFooter-top-social
+www.pcwelt.de##.footer-base

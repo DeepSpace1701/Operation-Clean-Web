@@ -55,13 +55,66 @@ www.chip.de##.newsletter-widget
 www.chip.de##.ft-footer-feeds
 www.chip.de##.Footer__Upper--Logo
 
-! 2023-12-18 https://www.amazon.de
-www.amazon.de##._follow-the-author-typ-card_style_cardContainer__MMvKu
+! 2023-12-31 https://www.businessinsider.de
+!ad on top
+www.businessinsider.de##.superbanner-container
+!header
+www.businessinsider.de##.nav
+www.businessinsider.de##.header-container__gs-logo
+www.businessinsider.de##.header-nav__item--subscribe-button
+!site
+www.businessinsider.de##.bi-skyscraper-container
+www.businessinsider.de##.breadcrumbs
+www.businessinsider.de##.social-share
+www.businessinsider.de##.bi-injected-ad
+www.businessinsider.de##.bi-bulletpoints
+www.businessinsider.de##.wp-block-inline-teaser
+www.businessinsider.de##.tags-wrap
+www.businessinsider.de##.article-footer
+www.businessinsider.de##.related-wrap
+www.businessinsider.de##.social-container
+www.businessinsider.de##.bi-sp-reject-all
 
-! 2023-12-20 https://www.businessinsider.de
-!do not use:
-!www.businessinsider.de##.wp-block-inline-teaser
-!www.businessinsider.de###main > .related-wrap
+! 2023-12-31 https://www.t-online.de
+!top bar
+www.t-online.de##.css-1x2681d
+!search bar
+www.t-online.de##form
+!navigation crap
+www.t-online.de##.css-9uu57o
+!magenta line
+www.t-online.de##.css-1alt6ib
+!breadcrumbs
+www.t-online.de##.css-imcp1n
+!ad fields, top ad field
+www.t-online.de##.sdgSlotContainer
+www.t-online.de##.css-2k2lok
+!ticker
+www.t-online.de##.css-yk5lvi
+!sidebar
+www.t-online.de##.css-1vtmyv2
+!subheadline
+www.t-online.de##.css-4i5130
+!social bar
+www.t-online.de##.css-16w7hqw
+!ads below article
+www.t-online.de##.css-1sqgcdq
+www.t-online.de##.css-1fnsikk
+www.t-online.de##.css-e85yjp
+www.t-online.de##.css-qrqbal
+!co2 neutrale
+www.t-online.de##.css-14kyj6h > a.css-1mqt6yl:nth-of-type(2)
 
-! 2023-12-23 https://drive.google.com
-||ssl.gstatic.com/docs/doclist/images/empty_state_empty_folder.svg$image
+! 2023-12-31 https://www.pcwelt.de
+www.pcwelt.de##.subscribers-modal-container
+www.pcwelt.de##.primaryNav-menu-wrap
+www.pcwelt.de##.primaryNav-action--search
+www.pcwelt.de###secondaryNav
+www.pcwelt.de##.affiliate-disclaimer
+www.pcwelt.de##.single-breadcrumb
+www.pcwelt.de##.entry-eyebrow
+www.pcwelt.de##.subheadline
+www.pcwelt.de##.author-icons-list
+www.pcwelt.de##.primaryFooter-return-top
+www.pcwelt.de##.primaryFooter-top
+www.pcwelt.de##.footer-base

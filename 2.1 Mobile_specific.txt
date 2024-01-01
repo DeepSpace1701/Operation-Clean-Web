@@ -143,7 +143,7 @@ amp.focus.de##.card > [href]
 amp.focus.de##article.liveticker
 amp.focus.de##.copyright
 amp.focus.de##.app_buttons
-amp.focus.de##.i-amphtml-layout.i-amphtml-built.i-amphtml-sticky-ad-layout.i-amphtml-layout-nodisplay
+amp.focus.de##.i-amphtml-layout.i-amphtml-built.i-amphtml-sticky-ad-layout
 amp.focus.de###smartbanner_amp
 amp.focus.de##i-amphtml-sizer
 

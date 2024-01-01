@@ -120,31 +120,30 @@ www.saechsische.de##.footer__partner
 www.saechsische.de##.footer__navigation
 www.saechsische.de##.footer__socials
 
-! 2023-12-31 https://www.focus.de
-www.focus.de###menu-wrapper
-www.focus.de##.editorial
-www.focus.de###top-banner
-www.focus.de##.navigationTabs
-www.focus.de###newsbreadcrumb
-www.focus.de##.pnsource.pageTitle
-www.focus.de##.overhead
-www.focus.de##.actions
-www.focus.de##.mediaBlock
-www.focus.de###opinary-root
-www.focus.de##.cls_slot_xxoutstreamxx
-||cdn.pear.focus.de/clients/public/generated/deal_*.html$subdocument
-www.focus.de##[href="https://efahrer.chip.de/"]
-www.focus.de##div.textBlock [href]
-www.focus.de##.created
-www.focus.de###tfm_admanagerTeaser
-www.focus.de##.cls_hor_prnt_am
-www.focus.de##.teaserList3x1
-www.focus.de##.comments-banner
-www.focus.de##.teaserList2x2
-www.focus.de###servicev2
-www.focus.de##.credits
-www.focus.de##.partners
-www.focus.de##.small-logo
+! 2024-01-01 https://amp.focus.de
+amp.focus.de##.hamburger
+amp.focus.de##.special
+amp.focus.de###newsbreadcrumb
+amp.focus.de##.pageTitle
+amp.focus.de##.articleHead > h4
+amp.focus.de###player_1
+amp.focus.de##.ps-articlechild > .clearfix.caption
+amp.focus.de##.leadIn
+amp.focus.de##.ct_ampad
+amp.focus.de##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive
+amp.focus.de##.clearfix.caption
+amp.focus.de###AMP_scroll_to_top_wrapper
+amp.focus.de##.amp-flying-carpet-text-border
+amp.focus.de##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height
+amp.focus.de##.socialbar
+amp.focus.de##.nospace
+amp.focus.de##center
+amp.focus.de##.textBlock [href]
+amp.focus.de##.card > [href]
+amp.focus.de##article.liveticker
+amp.focus.de##.copyright
+amp.focus.de##.app_buttons
+amp.focus.de##.i-amphtml-layout.i-amphtml-built.i-amphtml-sticky-ad-layout.i-amphtml-layout-nodisplay
 
 ! 2023-12-31 https://www.scinexx.de
 www.scinexx.de##.herald-menu-popup-search

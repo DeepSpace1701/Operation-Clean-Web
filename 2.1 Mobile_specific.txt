@@ -181,3 +181,14 @@ www.n-tv.de##.article__tags
 www.n-tv.de##.ob_embed
 www.n-tv.de##.social
 ||www.n-tv.de/auth/handler.html$subdocument
+
+! 2024-01-01 https://futurezone.at
+futurezone.at##.navMain
+futurezone.at##.headerSearch
+futurezone.at##.article-header-meta
+futurezone.at##.adContainer
+futurezone.at##.newsletter
+futurezone.at##.article-social
+futurezone.at##.relatedArticles
+futurezone.at##.comments
+futurezone.at##.navFooter

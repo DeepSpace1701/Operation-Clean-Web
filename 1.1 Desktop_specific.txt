@@ -234,3 +234,46 @@ mail.google.com##.aeG
 mail.google.com##.gb_De
 !emoji reaction
 mail.google.com##.wrsVRe
+
+! 2024-01-01 https://futurezone.at
+futurezone.at##.navMain
+futurezone.at##.headerSearch
+futurezone.at##.article-header-meta
+futurezone.at##aside
+futurezone.at##.adContainer
+futurezone.at##.newsletter
+futurezone.at##.article-social
+futurezone.at##.relatedArticles
+futurezone.at##.comments
+futurezone.at##.siteFooter
+
+! 2024-01-01 https://www.xda-developers.com
+www.xda-developers.com##.nav-left
+!newsletter button
+www.xda-developers.com##.is-mobile-hidden.nav-elements
+www.xda-developers.com##.subnav-navigation
+||www.xda-developers.com/ads.txt$subdocument
+www.xda-developers.com###Y5FbppefNK
+www.xda-developers.com##.heading_breadcrumb
+www.xda-developers.com##.heading_excerpt
+www.xda-developers.com##.sidebar
+!adblocker message
+www.xda-developers.com##._4KvUwxDm
+www.xda-developers.com##.vAfm8xsH
+www.xda-developers.com##._8O9Z-ltD
+www.xda-developers.com##._2RuuJiGc
+www.xda-developers.com##.eX64Bioc
+www.xda-developers.com##._6Gy4an1f
+www.xda-developers.com##.aJVLc6uP
+www.xda-developers.com##.ad-zone
+www.xda-developers.com###\34 XU7jpFyQZ
+www.xda-developers.com##.ad-loading
+www.xda-developers.com##.w-newsletter-in_article
+www.xda-developers.com##.bottom.sharing
+www.xda-developers.com##.article-tags
+||images.getadmiral.com/*$image
+www.xda-developers.com##.cBpyFOmh
+!infinite scroll
+www.xda-developers.com##div.w-content
+!key takeaways
+www.xda-developers.com##.content-block-regular

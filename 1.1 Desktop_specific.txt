@@ -218,3 +218,19 @@ www.n-tv.de##.ob_embed
 www.n-tv.de##.sitemap
 www.n-tv.de##.social
 ||www.n-tv.de/auth/handler.html$subdocument
+
+! 2024-01-01 https://mail.google.com
+||ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_*x_r5.png$image
+!? top right
+mail.google.com##.zo
+!small sidebar
+mail.google.com##.aUx
+!button to unsubscribe
+mail.google.com##.aKS
+!hamburger
+mail.google.com##.gb_Ic
+!bottom crap
+mail.google.com##.aeG
+mail.google.com##.gb_De
+!emoji reaction
+mail.google.com##.wrsVRe

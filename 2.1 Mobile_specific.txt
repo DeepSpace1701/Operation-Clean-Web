@@ -144,6 +144,8 @@ amp.focus.de##article.liveticker
 amp.focus.de##.copyright
 amp.focus.de##.app_buttons
 amp.focus.de##.i-amphtml-layout.i-amphtml-built.i-amphtml-sticky-ad-layout.i-amphtml-layout-nodisplay
+amp.focus.de###smartbanner_amp
+amp.focus.de##i-amphtml-sizer
 
 ! 2023-12-31 https://www.scinexx.de
 www.scinexx.de##.herald-menu-popup-search

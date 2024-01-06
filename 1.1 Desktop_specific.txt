@@ -257,6 +257,7 @@ discord.com##.ready__61f2f
 discord.com##.nowPlayingColumn_f5023f
 
 ! 2024-01-06 https://www.golem.de
+www.golem.de##.link-search
 www.golem.de###header-nav-1 > ul
 www.golem.de###header-nav-2
 www.golem.de###gservices

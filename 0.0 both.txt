@@ -75,3 +75,23 @@ www.xda-developers.com##.space3d
 www.xda-developers.com##div.w-content
 !weird lock symbol bottom left
 www.xda-developers.com##.c8SND4df
+
+! 2024-01-06 https://www.pcmag.com
+!header and searchbar
+www.pcmag.com##.hidden.items-center.flex-row
+www.pcmag.com##.justify-self-end.lg\:max-w-sm.ml-4.w-full.relative
+www.pcmag.com##.overflow-x-hidden
+www.pcmag.com##.leading-tight.mb-4
+www.pcmag.com###breadcrumbs
+www.pcmag.com##.items-end
+www.pcmag.com##.zmgad-full-width
+!this will hopefully only block the newsletter box
+www.pcmag.com##.container-xs
+www.pcmag.com##.mt-8
+www.pcmag.com##.gap-4
+www.pcmag.com##.p-6
+www.pcmag.com##.py-8
+www.pcmag.com###zdcFloatingBtn
+www.pcmag.com##.showConsentTool
+www.pcmag.com##[href^="//privacy.truste.com/privacy-seal/validation"]
+www.pcmag.com##.pb-20

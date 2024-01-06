@@ -197,3 +197,43 @@ futurezone.at##.navFooter
 ! 2024-01-06 https://wabetainfo.com, mobile only, rest in 0.0 both
 wabetainfo.com##.fa-bars-staggered
 wabetainfo.com##.kenta-builder-column-2.kenta-builder-column
+
+! 2024-01-06 https://www.golem.de
+www.golem.de##.link-search
+www.golem.de##nav
+www.golem.de###screen > div
+www.golem.de##.head1
+www.golem.de##.social-tools
+www.golem.de##aside
+www.golem.de###breadcrumbs
+www.golem.de##.media__teaser-list
+www.golem.de##li:nth-of-type(3) > .gsnw-link__list-pages
+www.golem.de##li:nth-of-type(1) > .gsnw-link__list-pages
+www.golem.de##.link-to-top
+
+! 2024-01-06 https://www.druckerchannel.de
+www.druckerchannel.de###DCGT_SEL > label:nth-of-type(1)
+www.druckerchannel.de###DCGT_SEL > label:nth-of-type(2)
+www.druckerchannel.de###DCGT_SEL > label:nth-of-type(4)
+www.druckerchannel.de###DCGA_M_FAKT
+www.druckerchannel.de##.DCA_SCROLL
+www.druckerchannel.de##[href^="https://www.facebook.com/sharer/sharer.php"]
+www.druckerchannel.de##[href="#forum"]
+www.druckerchannel.de###DCGT_SEL_TO_TOP
+www.druckerchannel.de###socialBox
+www.druckerchannel.de###comment_feld
+www.druckerchannel.de###artikelKommentare
+www.druckerchannel.de###DCF_CONT > div > button
+www.druckerchannel.de##.more_link
+www.druckerchannel.de##.more_list
+www.druckerchannel.de###fussnote_global
+www.druckerchannel.de###div-dc-sdg-interstitial
+www.druckerchannel.de###DCF_OUTRO_LOGOS
+www.druckerchannel.de###DCGA_BM
+www.druckerchannel.de###DCGA_M_BOTTOM
+www.druckerchannel.de###div-dc-sdg-stickyfooter
+www.druckerchannel.de##.adsbygoogle
+||www.druckerchannel.de/bilder/bg/olbg.png$image
+www.druckerchannel.de###DCF_CONT > button
+www.druckerchannel.de###dcb_winnerlist
+www.druckerchannel.de###dcb_portal_stat

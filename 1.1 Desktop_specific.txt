@@ -255,3 +255,50 @@ futurezone.at##.siteFooter
 discord.com##.ready__61f2f
 !overview sidebar
 discord.com##.nowPlayingColumn_f5023f
+
+! 2024-01-06 https://www.golem.de
+www.golem.de###header-nav-1 > ul
+www.golem.de###header-nav-2
+www.golem.de###gservices
+www.golem.de###iqadtile3
+www.golem.de##.head1
+www.golem.de##.social-tools
+www.golem.de##aside
+www.golem.de###small-header-nav-1
+www.golem.de##.section-gplus
+www.golem.de###jtoc_next
+www.golem.de###jtoc_prev
+www.golem.de###breadcrumbs
+www.golem.de##.subscribe-newsletter
+www.golem.de##.wraptusplit
+www.golem.de##.list-articles
+www.golem.de##.specialletters
+www.golem.de##.topics
+
+! 2024-01-06 https://www.druckerchannel.de
+www.druckerchannel.de###div-dc-sdg-banner
+www.druckerchannel.de###DCGA_LEAD
+www.druckerchannel.de###DCF_RECHTS
+www.druckerchannel.de###DCGT_SEL > label:nth-of-type(1)
+www.druckerchannel.de###DCGT_SEL > label:nth-of-type(2)
+www.druckerchannel.de###DCGT_SEL > label:nth-of-type(4)
+www.druckerchannel.de###DCF_TOPMENU
+www.druckerchannel.de###dc_main_breadcrumb
+www.druckerchannel.de###DCA_TOP
+www.druckerchannel.de###DC_SOCIAL_TEILEN > div:nth-of-type(2)
+www.druckerchannel.de###DC_SOCIAL_TEILEN > div:nth-of-type(3)
+www.druckerchannel.de###DC_SOCIAL_TEILEN > div:nth-of-type(4)
+www.druckerchannel.de##.DCA_SCROLL
+www.druckerchannel.de###socialBox
+www.druckerchannel.de###comment_feld
+www.druckerchannel.de###artikelKommentare
+www.druckerchannel.de##div:nth-of-type(4) > button
+www.druckerchannel.de##.more_list
+www.druckerchannel.de##.more_link
+www.druckerchannel.de###DCA_BOTTOM
+www.druckerchannel.de###fussnote_global
+www.druckerchannel.de###DCF_OUTRO_LOGOS
+www.druckerchannel.de##[href^="https://www.facebook.com/sharer/sharer.php"]
+www.druckerchannel.de###dcb_winnerlist
+www.druckerchannel.de###dcb_portal_stat
+||www.druckerchannel.de/bilder/bg/olbg.png$image

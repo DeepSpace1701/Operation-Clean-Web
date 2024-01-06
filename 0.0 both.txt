@@ -49,3 +49,29 @@ wabetainfo.com##.quads-location
 wabetainfo.com##.styled-table
 wabetainfo.com##.channel_card
 wabetainfo.com##.sharedaddy
+
+! 2024-01-06 https://www.xda-developers.com, you might need to login at some point (after some refreshs)
+!pointless overlay
+www.xda-developers.com##.vAfm8xsH
+www.xda-developers.com##._8O9Z-ltD
+www.xda-developers.com##._2RuuJiGc
+www.xda-developers.com##._4KvUwxDm
+www.xda-developers.com##.eX64Bioc
+www.xda-developers.com##._6Gy4an1f
+www.xda-developers.com##.aJVLc6uP
+www.xda-developers.com##.nav-left
+www.xda-developers.com##.nav-newsletter
+www.xda-developers.com##.subnav-navigation
+||www.xda-developers.com/ads.txt$subdocument
+www.xda-developers.com##.heading_breadcrumb
+www.xda-developers.com##.affiliate-sponsored
+www.xda-developers.com##.ad-current
+www.xda-developers.com##.sidebar
+www.xda-developers.com##.w-newsletter-in_article
+www.xda-developers.com##.sharing-btn
+www.xda-developers.com##.article-tags
+www.xda-developers.com##.bio-social
+www.xda-developers.com##.space3d
+www.xda-developers.com##div.w-content
+!weird lock symbol bottom left
+www.xda-developers.com##.c8SND4df

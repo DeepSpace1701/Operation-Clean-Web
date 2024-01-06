@@ -194,3 +194,6 @@ futurezone.at##.comments
 futurezone.at##.navFooter
 
 !usage of 0.0 both.txt from here on
+! 2024-01-06 https://wabetainfo.com, mobile only, rest in 0.0 both
+wabetainfo.com##.fa-bars-staggered
+wabetainfo.com##.kenta-builder-column-2.kenta-builder-column

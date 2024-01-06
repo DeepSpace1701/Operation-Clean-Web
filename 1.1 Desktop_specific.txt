@@ -249,3 +249,9 @@ futurezone.at##.comments
 futurezone.at##.siteFooter
 
 !usage of 0.0 both.txt from here on
+! 2024-01-06 https://discord.com
+!loading animated logo
+||discord.com/assets/24aa06be5457e66bdd64.svg$image
+discord.com##.ready__61f2f
+!overview sidebar
+discord.com##.nowPlayingColumn_f5023f

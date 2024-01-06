@@ -192,3 +192,5 @@ futurezone.at##.article-social
 futurezone.at##.relatedArticles
 futurezone.at##.comments
 futurezone.at##.navFooter
+
+!usage of 0.0 both.txt from here on

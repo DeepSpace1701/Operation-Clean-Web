@@ -234,6 +234,7 @@ mail.google.com##.aeG
 mail.google.com##.gb_De
 !emoji reaction
 mail.google.com##.wrsVRe
+mail.google.com##[href^="http://ipe.chip.de/"]
 
 ! 2024-01-01 https://futurezone.at
 futurezone.at##.navMain
@@ -247,3 +248,4 @@ futurezone.at##.relatedArticles
 futurezone.at##.comments
 futurezone.at##.siteFooter
 
+!usage of 0.0 both.txt from here on

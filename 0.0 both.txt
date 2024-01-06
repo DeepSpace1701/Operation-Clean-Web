@@ -1,0 +1,51 @@
+!contains stuff that is the same for both Desktop and Mobile, or because it doesn't make sense to have it on mobile as well but just in case I ever visit it there
+! 2024-01-02 https://www.gog.com
+www.gog.com##.galaxy-section-wrapper
+www.gog.com##.order__related-games
+www.gog.com##.container.form__small-print.form--description
+www.gog.com##.footer-microservice-socials
+www.gog.com##.footer-microservice-download
+www.gog.com##.footer-microservice-secondary__copyrights
+www.gog.com##.survey-banner__container
+www.gog.com##.additional-items__label
+www.gog.com##.order__wallet-info
+www.gog.com##.order-product-row__historical-price
+
+! 2024-01-02 https://www.pokewiki.de
+www.pokewiki.de###gl-topbar-bg
+||www.pokewiki.de/skins/PokeWiki/resources/skins.pokewiki.styles.legacy/images/monsterball.png$image
+||www.pokewiki.de/skins/PokeWiki/resources/skins.pokewiki.styles.legacy/images/encypoke.png$image
+||www.pokewiki.de/skins/PokeWiki/resources/skins.pokewiki.styles.legacy/images/logo.png$image
+www.pokewiki.de###siteNotice
+www.pokewiki.de###ad1
+www.pokewiki.de###ad2
+www.pokewiki.de###footer-socialshare
+www.pokewiki.de###footer-icons
+www.pokewiki.de###footer-info-copyright
+www.pokewiki.de###discord-online
+www.pokewiki.de###uploadtext
+www.pokewiki.de###ca-ve-edit
+pokewiki.de###editpage-copywarn > div:nth-of-type(2)
+pokewiki.de###editpage-copywarn > p
+!/images/tv
+www.pokewiki.de##.foot
+
+! 2024-01-02 https://www.youtube.com
+www.youtube.com###country-code
+www.youtube.com###voice-search-button
+www.youtube.com###search-icon-legacy
+www.youtube.com##.ryd-tooltip
+www.youtube.com##.ytp-chrome-top
+www.youtube.com##.ytp-fullerscreen-edu-button
+www.youtube.com##.ytp-paid-content-overlay
+
+! 2024-01-02 https://wabetainfo.com
+wabetainfo.com###moove_gdpr_cookie_info_bar
+wabetainfo.com##.kenta-header-row-primary_navbar
+wabetainfo.com##.entry-categories
+wabetainfo.com##.wpra-reactions-wrap
+wabetainfo.com##.kenta-sidebar
+wabetainfo.com##.quads-location
+wabetainfo.com##.styled-table
+wabetainfo.com##.channel_card
+wabetainfo.com##.sharedaddy

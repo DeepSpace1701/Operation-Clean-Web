@@ -218,6 +218,10 @@ www.golem.de##.media__teaser-list
 www.golem.de##li:nth-of-type(3) > .gsnw-link__list-pages
 www.golem.de##li:nth-of-type(1) > .gsnw-link__list-pages
 www.golem.de##.link-to-top
+! 2024-01-11 https://www.golem.de
+www.golem.de##.amp-ad-container
+www.golem.de##.iqampcenter
+
 
 ! 2024-01-06 https://www.druckerchannel.de
 www.druckerchannel.de###DCGT_SEL > label:nth-of-type(1)

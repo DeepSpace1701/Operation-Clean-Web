@@ -54,6 +54,8 @@ www.chip.de##.Z3KsncGmWZPHcVQ4446446951
 www.chip.de##.newsletter-widget
 www.chip.de##.ft-footer-feeds
 www.chip.de##.Footer__Upper--Logo
+!from phone
+www.chip.de##.Post_MetaVisual
 
 ! 2023-12-31 https://www.businessinsider.de
 !ad on top
@@ -136,6 +138,12 @@ www.computerbild.de##.download__alternatives_swiper
 www.computerbild.de##.teaserBlocks
 www.computerbild.de##.footerLinkListExtra
 www.computerbild.de##.cmsLink
+! 2024-01-07 https://www.computerbild.de
+www.computerbild.de###newsletter-teaser-widget
+www.computerbild.de##.steam-react
+!from phone
+www.computerbild.de##.mrecContainer
+www.computerbild.de##.pageHeadline
 
 ! 2023-12-31 https://www.saechsische.de
 !pointless overlay

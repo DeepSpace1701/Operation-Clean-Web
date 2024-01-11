@@ -38,6 +38,8 @@ www.youtube.com##.ryd-tooltip
 www.youtube.com##.ytp-chrome-top
 www.youtube.com##.ytp-fullerscreen-edu-button
 www.youtube.com##.ytp-paid-content-overlay
+! 2024-01-07 https://www.youtube.com
+www.youtube.com##.ytd-guide-entry-renderer.style-scope.guide-entry-badge
 
 ! 2024-01-02 https://wabetainfo.com
 wabetainfo.com###moove_gdpr_cookie_info_bar
@@ -75,6 +77,8 @@ www.xda-developers.com##.space3d
 www.xda-developers.com##div.w-content
 !weird lock symbol bottom left
 www.xda-developers.com##.c8SND4df
+!from phone
+www.xda-developers.com##.emaki-custom-key-points
 
 ! 2024-01-06 https://www.pcmag.com
 !header and searchbar

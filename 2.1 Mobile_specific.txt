@@ -209,7 +209,7 @@ wabetainfo.com##.kenta-builder-column-2.kenta-builder-column
 ! 2024-01-06 https://www.golem.de
 www.golem.de##.link-search
 www.golem.de##nav
-www.golem.de###screen > div
+!www.golem.de###screen > div
 www.golem.de##.head1
 www.golem.de##.social-tools
 www.golem.de##aside

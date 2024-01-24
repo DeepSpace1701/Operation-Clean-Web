@@ -206,21 +206,22 @@ futurezone.at##.navFooter
 wabetainfo.com##.fa-bars-staggered
 wabetainfo.com##.kenta-builder-column-2.kenta-builder-column
 
-! 2024-01-06 https://www.golem.de
+! 2024-01-06/24 https://www.golem.de
+www.golem.de###screen > div:nth-of-type(1)
 www.golem.de##.link-search
 www.golem.de##nav
-!www.golem.de###screen > div
 www.golem.de##.head1
 www.golem.de##.social-tools
-www.golem.de##aside
+www.golem.de##.formatted aside
+www.golem.de###nativendo-middle
 www.golem.de###breadcrumbs
-www.golem.de##.media__teaser-list
-www.golem.de##li:nth-of-type(3) > .gsnw-link__list-pages
-www.golem.de##li:nth-of-type(1) > .gsnw-link__list-pages
+www.golem.de##.tags
+www.golem.de##.subscribe-newsletter
+www.golem.de##.clearfix:nth-of-type(3)
+www.golem.de###tusplit1
+www.golem.de###tusplit2
+www.golem.de##.highlight-box
 www.golem.de##.link-to-top
-! 2024-01-11 https://www.golem.de
-www.golem.de##.amp-ad-container
-www.golem.de##.iqampcenter
 
 
 ! 2024-01-06 https://www.druckerchannel.de

@@ -258,3 +258,7 @@ www.druckerchannel.de##.adsbygoogle
 www.druckerchannel.de###DCF_CONT > button
 www.druckerchannel.de###dcb_winnerlist
 www.druckerchannel.de###dcb_portal_stat
+
+! 2024-02-05 https://www.spiegel.de
+!mobile-only divider
+www.spiegel.de##div.sm\:mb-24

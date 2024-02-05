@@ -133,3 +133,24 @@ buyee.jp##.rcmd_title
 ! 2024-02-02 https://www.facebook.com
 !Statusbar at the top
 www.facebook.com##.x1ceravr.xgmub6v.x193iq5w
+
+! 2024-02.05 https://www.spiegel.de
+!pointless banner that pops up EVERY SINGLE TIME
+www.spiegel.de###spPlusBanner
+!next to logo
+www.spiegel.de##.whitespace-nowrap.tracking-wide
+!subscribe
+www.spiegel.de##.sm\:mr-24.text-s.py-12.font-sansUI.text-white.inline-block
+!removes navbar, resulting in a smaller topbar as well
+www.spiegel.de##.font-sans.shadow.w-full.dark\:bg-dm-shade-darkest
+!small headline
+www.spiegel.de##.sm\:mb-6.md\:mb-6.lg\:mb-4.sm\:text-base.md\:text-l.lg\:text-l
+!listen to article
+www.spiegel.de##.sm\:mt-32.md\:mt-40.lg\:mt-40.sm\:px-16.md\:px-24.lg\:px-24.md\:mx-auto
+!socialbar
+www.spiegel.de##.dark\:bg-dm-shade-darkest.bg-white.pointer-events-auto
+www.spiegel.de##.w-full.sm\:pb-32.md\:pb-40.lg\:pb-40.sm\:pt-20.md\:pt-20.lg\:pt-20
+!within article
+www.spiegel.de##.clear-both.sm\:px-16.md\:px-24.lg\:px-24.sm\:my-24.md\:my-32.lg\:my-32
+!simply removed the entire footer
+www.spiegel.de##.lg\:max-w-lg.md\:max-w-md.sm\:max-w-sm.mx-auto.lg\:px-6.w-full.dark\:text-shade-lightest

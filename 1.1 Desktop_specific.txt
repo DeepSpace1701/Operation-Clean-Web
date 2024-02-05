@@ -144,6 +144,8 @@ www.computerbild.de##.steam-react
 !from phone
 www.computerbild.de##.mrecContainer
 www.computerbild.de##.pageHeadline
+! 2024-01-24 https://www.computerbild.de
+www.computerbild.de##.superbannerContainer
 
 ! 2023-12-31 https://www.saechsische.de
 !pointless overlay
@@ -255,6 +257,7 @@ futurezone.at##.article-social
 futurezone.at##.relatedArticles
 futurezone.at##.comments
 futurezone.at##.siteFooter
+futurezone.at##.article-teaserText
 
 !usage of 0.0 both.txt from here on
 ! 2024-01-06 https://discord.com
@@ -263,6 +266,12 @@ futurezone.at##.siteFooter
 discord.com##.ready__61f2f
 !overview sidebar
 discord.com##.nowPlayingColumn_f5023f
+! 2024-01-31 https://discord.com
+||discord.com/assets/01864c39871ce619d855.svg$image
+discord.com##.iconContainer__65ce5
+||discord.com/assets/55b7a354cc2c75dc4b11.svg$image
+discord.com##.activity__24558
+||discord.com/assets/532f1d4582d881960783.svg$image
 
 ! 2024-01-06 https://www.golem.de
 www.golem.de##.link-search
@@ -311,3 +320,28 @@ www.druckerchannel.de##[href^="https://www.facebook.com/sharer/sharer.php"]
 www.druckerchannel.de###dcb_winnerlist
 www.druckerchannel.de###dcb_portal_stat
 ||www.druckerchannel.de/bilder/bg/olbg.png$image
+
+! 2024-01-12 https://www.kleinanzeigen.de
+!www.kleinanzeigen.de###vip-billboard
+!www.kleinanzeigen.de##.manageadbox
+!www.kleinanzeigen.de###vip-sky-atf-right-sidebar
+!meine Anzeigen, Upgrades
+www.kleinanzeigen.de##.manageaditem-featuretable.jsx-3213405593
+www.kleinanzeigen.de##.sticky-advertisement
+www.kleinanzeigen.de###viewad-sidebar-banner
+www.kleinanzeigen.de###vip-billboard
+www.kleinanzeigen.de##.manageadbox
+www.kleinanzeigen.de###my_ads-top-banner
+!share button
+www.kleinanzeigen.de##.j-share-ad
+!below listing
+www.kleinanzeigen.de##.buyer-protection-info
+!crap below write message box
+www.kleinanzeigen.de##.j-viewad-contact-legal
+
+! 2024-02-01 https://store.steampowered.com
+||cdn.cloudflare.steamstatic.com/steam/apps/*/page_bg_generated_v6b.jpg$image
+store.steampowered.com###registerkey_examples_text
+store.steampowered.com##.accountInfoBlock
+store.steampowered.com###registerkey_form > h2
+store.steampowered.com###receipt_form > div:nth-of-type(1)

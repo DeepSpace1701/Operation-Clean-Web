@@ -73,6 +73,7 @@ www.t-online.de###stickyfooter
 www.t-online.de##.css-qrqbal
 !co2 neutrale
 www.t-online.de##a.css-1mqt6yl > .css-zjik7 > .css-4zleql
+www.t-online.de##.css-170a2tk
 
 ! 2023-12-31 https://www.pcwelt.de
 www.pcwelt.de###mobileNav-open-button
@@ -111,6 +112,8 @@ www.computerbild.de##.steam-react
 !from phone
 www.computerbild.de##.mrecContainer
 www.computerbild.de##.pageHeadline
+www.computerbild.de##.specialBanner
+www.computerbild.de##.pageHeader
 
 ! 2023-12-31 https://www.saechsische.de
 !pointless overlay
@@ -127,6 +130,8 @@ www.saechsische.de##.related-articles
 www.saechsische.de##.footer__partner
 www.saechsische.de##.footer__navigation
 www.saechsische.de##.footer__socials
+www.saechsische.de##amp-ad
+www.saechsische.de##i-amphtml-sizer
 
 ! 2024-01-01 https://amp.focus.de
 amp.focus.de##.hamburger
@@ -200,6 +205,9 @@ futurezone.at##.article-social
 futurezone.at##.relatedArticles
 futurezone.at##.comments
 futurezone.at##.navFooter
+futurezone.at##.siteHeader
+futurezone.at##.noConsent
+futurezone.at##.article-teaserText
 
 !usage of 0.0 both.txt from here on
 ! 2024-01-06 https://wabetainfo.com, mobile only, rest in 0.0 both
@@ -222,7 +230,7 @@ www.golem.de###tusplit1
 www.golem.de###tusplit2
 www.golem.de##.highlight-box
 www.golem.de##.link-to-top
-
+www.golem.de##.social-sticky
 
 ! 2024-01-06 https://www.druckerchannel.de
 www.druckerchannel.de###DCGT_SEL > label:nth-of-type(1)

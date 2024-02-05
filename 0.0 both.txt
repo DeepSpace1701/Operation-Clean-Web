@@ -10,6 +10,9 @@ www.gog.com##.survey-banner__container
 www.gog.com##.additional-items__label
 www.gog.com##.order__wallet-info
 www.gog.com##.order-product-row__historical-price
+! 2024-01-16 https://www.gog.com
+www.gog.com##.game-details__galaxy-installer
+www.gog.com##.game-details__galaxy-message
 
 ! 2024-01-02 https://www.pokewiki.de
 www.pokewiki.de###gl-topbar-bg
@@ -29,6 +32,8 @@ pokewiki.de###editpage-copywarn > div:nth-of-type(2)
 pokewiki.de###editpage-copywarn > p
 !/images/tv
 www.pokewiki.de##.foot
+! 2024-02-03 https://www.pokewiki.de
+www.pokewiki.de###logo
 
 ! 2024-01-02 https://www.youtube.com
 www.youtube.com###country-code
@@ -39,7 +44,16 @@ www.youtube.com##.ytp-chrome-top
 www.youtube.com##.ytp-fullerscreen-edu-button
 www.youtube.com##.ytp-paid-content-overlay
 ! 2024-01-07 https://www.youtube.com
+!probably the Livestream badge next to the Subscription list on the left
 www.youtube.com##.ytd-guide-entry-renderer.style-scope.guide-entry-badge
+!YT Hashtags next to the upload date
+www.youtube.com##a.yt-formatted-string.style-scope.bold.yt-simple-endpoint
+www.youtube.com##.ytd-in-feed-ad-layout-renderer
+www.youtube.com##p.ytd-badge-supported-renderer
+www.youtube.com###donation-shelf
+www.youtube.com##.ytd-ad-slot-renderer
+www.youtube.com##.ytp-miniplayer-button
+www.youtube.com##.ytp-size-button
 
 ! 2024-01-02 https://wabetainfo.com
 wabetainfo.com###moove_gdpr_cookie_info_bar
@@ -99,3 +113,23 @@ www.pcmag.com###zdcFloatingBtn
 www.pcmag.com##.showConsentTool
 www.pcmag.com##[href^="//privacy.truste.com/privacy-seal/validation"]
 www.pcmag.com##.pb-20
+
+! 2024-01-31 https://buyee.jp
+buyee.jp##.bidInput__notes
+buyee.jp##li.bidInput__deliveryMethodItem:nth-of-type(2)
+buyee.jp##.inner_alert.red > p
+buyee.jp##.jump
+buyee.jp##div.bottom_bt_wrap:nth-of-type(3)
+buyee.jp##div.recommendItem--wide.recommendItem > .recommendItem__list
+buyee.jp##.bidInput__alipay
+buyee.jp##li:nth-of-type(3)
+buyee.jp##.complete-bid-reccommend
+buyee.jp##.item_caps
+buyee.jp##.googleTranslate
+buyee.jp##.selected.bidInput__deliveryMethodItem > .bidInput__radioText
+buyee.jp##.selected.bidInput__deliveryMethodItem > .bidInput__deliveryFeeTitle
+buyee.jp##.rcmd_title
+
+! 2024-02-02 https://www.facebook.com
+!Statusbar at the top
+www.facebook.com##.x1ceravr.xgmub6v.x193iq5w

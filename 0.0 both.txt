@@ -191,3 +191,13 @@ www.computerbase.de##.footer2-follow-links
 www.computerbase.de##.footer2-box-ads
 !mobile only
 www.computerbase.de##.mainmenu-button
+
+! 2024-02-06 https://www.smartdroid.de
+www.smartdroid.de##.site-header-primary-section-right
+www.smartdroid.de##.ast-terms-link
+www.smartdroid.de##.adsbygoogle
+www.smartdroid.de##.advorp1
+www.smartdroid.de##.has-small-font-size
+www.smartdroid.de###comments
+www.smartdroid.de##.ast-single-related-posts-container
+www.smartdroid.de##.ast-builder-grid-row-tablet-full

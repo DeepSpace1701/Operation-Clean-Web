@@ -377,3 +377,26 @@ www.gamestar.de###footer-bold
 www.gamestar.de##.plus-banner-top
 www.gamestar.de##.affiliate-buttons
 www.gamestar.de##.recirculation-box
+
+! 2024-02-06 https://mein-mmo.de
+mein-mmo.de###gp-top-header
+mein-mmo.de###gp-search-button
+mein-mmo.de###mmo-sub-header
+mein-mmo.de###reading-position-indicator
+mein-mmo.de##.jad-placeholder
+mein-mmo.de##.gp-sidebar
+mein-mmo.de###mmo-page-header-tags
+mein-mmo.de##.mmo-meta-rtime
+mein-mmo.de##.gp-meta-comments
+mein-mmo.de##.gp-meta-bookmark
+mein-mmo.de##.wpd-left-corner
+mein-mmo.de###gp-to-top
+mein-mmo.de##.wp-block-mmo-recirculation-box
+mein-mmo.de##.gp-voting-wrapper
+mein-mmo.de##.gp-related-wrapper
+mein-mmo.de##.mmo-related-hubs
+mein-mmo.de##.mashsb-box
+mein-mmo.de##.comments-area
+mein-mmo.de###mmo-promotion-footer
+mein-mmo.de##.gp-footer-logos
+||static.cgames.de/gs_cb/assets/core/images/webedia_logo_dark.svg$image

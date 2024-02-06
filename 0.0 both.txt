@@ -154,3 +154,23 @@ www.spiegel.de##.w-full.sm\:pb-32.md\:pb-40.lg\:pb-40.sm\:pt-20.md\:pt-20.lg\:pt
 www.spiegel.de##.clear-both.sm\:px-16.md\:px-24.lg\:px-24.sm\:my-24.md\:my-32.lg\:my-32
 !simply removed the entire footer
 www.spiegel.de##.lg\:max-w-lg.md\:max-w-md.sm\:max-w-sm.mx-auto.lg\:px-6.w-full.dark\:text-shade-lightest
+
+! 2024-02-06 https://www.gamepro.de
+www.gamepro.de##.nav-item:nth-of-type(1)
+www.gamepro.de##.dropdown.nav-item
+www.gamepro.de##.nav-item:nth-of-type(4)
+www.gamepro.de##.nav-item:nth-of-type(8)
+www.gamepro.de##.toggle-search
+www.gamepro.de##.rpi-progress-bar
+www.gamepro.de##.jad-placeholder
+www.gamepro.de##.intro
+www.gamepro.de###socialshare
+www.gamepro.de##.teaser
+www.gamepro.de##.recirculation-box
+www.gamepro.de##.taglist
+www.gamepro.de##.do-toggle-comments
+www.gamepro.de###backtotop
+www.gamepro.de##.grid
+www.gamepro.de###footer-bold
+||static.cgames.de/gp_cb/assets/core/images/webedia_logo_dark.svg$image
+||www.co2neutralwebsite.de/icons/logo/transparent_de.svg$image

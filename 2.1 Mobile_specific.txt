@@ -297,6 +297,7 @@ mein-mmo.de###mmo-page-header-tags
 mein-mmo.de##.mmo-meta-rtime
 mein-mmo.de##.gp-meta-comments
 mein-mmo.de##.gp-meta-bookmark
+mein-mmo.de##.gp-entry-content strong
 mein-mmo.de###mmo-sticky-footer
 mein-mmo.de##.wp-block-mmo-recirculation-box
 mein-mmo.de##.gp-voting-wrapper

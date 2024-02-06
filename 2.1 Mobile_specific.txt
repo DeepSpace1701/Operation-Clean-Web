@@ -265,3 +265,24 @@ www.spiegel.de##div.sm\:mb-24
 ! 2024-02-06 https://www.spiegel.de
 !second bar got lost
 www.spiegel.de##.shadow.dark\:bg-dm-shade-darkest.bg-white.dark\:border-black.border-shade-lighter.border-b.w-full
+
+! 2024-02-06 https://www.gamestar.de (Gamestar Tech)
+www.gamestar.de##.nav-search-icon
+www.gamestar.de###header-navi
+www.gamestar.de##.rpi-progress-bar
+www.gamestar.de##.jad-placeholder
+www.gamestar.de##.content-labels
+www.gamestar.de##.intro
+www.gamestar.de###socialshare
+www.gamestar.de##.taglist
+www.gamestar.de##.do-toggle-comments
+www.gamestar.de###comments
+www.gamestar.de##.contentteaser
+www.gamestar.de##.grid
+www.gamestar.de###footer-bold
+||static.cgames.de/gs_cb/assets/core/images/webedia_logo_dark.svg$image
+||www.co2neutralwebsite.de/icons/logo/transparent_de.svg$image
+! 2024-02-06 https://www.gamestar.de
+www.gamestar.de##.plus-banner-top
+www.gamestar.de##.affiliate-buttons
+www.gamestar.de##.recirculation-box

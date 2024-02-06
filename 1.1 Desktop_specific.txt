@@ -345,3 +345,35 @@ store.steampowered.com###registerkey_examples_text
 store.steampowered.com##.accountInfoBlock
 store.steampowered.com###registerkey_form > h2
 store.steampowered.com###receipt_form > div:nth-of-type(1)
+
+! 2024-02-06 https://www.gamestar.de (Gamestar Tech)
+!search
+www.gamestar.de##.col-xs-6
+!sub
+www.gamestar.de##.justify-content-xs-end
+!navbar without removing login function
+www.gamestar.de##.nav-tab.nav-item
+www.gamestar.de##.nav-menu.nav-link
+www.gamestar.de##.rpi-progress-bar
+www.gamestar.de##li.flex-separator
+www.gamestar.de##.jad-placeholder
+www.gamestar.de##.content-labels
+!subheadline
+www.gamestar.de##.intro
+www.gamestar.de###socialshare
+!sidebar
+www.gamestar.de##.teaser
+www.gamestar.de###backtotop
+www.gamestar.de##.header-slim
+www.gamestar.de##.taglist
+www.gamestar.de##.do-toggle-comments
+!read also below article
+www.gamestar.de##.grid
+!newsletter box
+www.gamestar.de###footer-bold
+||static.cgames.de/gs_cb/assets/core/images/webedia_logo_dark.svg$image
+||www.co2neutralwebsite.de/icons/logo/transparent_de.svg$image
+! 2024-02-06 https://www.gamestar.de
+www.gamestar.de##.plus-banner-top
+www.gamestar.de##.affiliate-buttons
+www.gamestar.de##.recirculation-box

@@ -174,3 +174,20 @@ www.gamepro.de##.grid
 www.gamepro.de###footer-bold
 ||static.cgames.de/gp_cb/assets/core/images/webedia_logo_dark.svg$image
 ||www.co2neutralwebsite.de/icons/logo/transparent_de.svg$image
+
+! 2024-02-06 https://www.computerbase.de
+www.computerbase.de##.mainmenu__a
+www.computerbase.de##search
+www.computerbase.de##.header-row > .tagnav
+www.computerbase.de##.adbox
+www.computerbase.de##.article-view__overline
+www.computerbase.de##.article-view__meta-right
+www.computerbase.de##.article-view__footer-links
+www.computerbase.de##.article-view__taglist
+www.computerbase.de##.pro-box2
+www.computerbase.de##.no-print.block1
+www.computerbase.de##.footer1
+www.computerbase.de##.footer2-follow-links
+www.computerbase.de##.footer2-box-ads
+!mobile only
+www.computerbase.de##.mainmenu-button

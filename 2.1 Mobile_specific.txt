@@ -133,32 +133,42 @@ www.saechsische.de##.footer__socials
 www.saechsische.de##amp-ad
 www.saechsische.de##i-amphtml-sizer
 
-! 2024-01-01 https://amp.focus.de
-amp.focus.de##.hamburger
-amp.focus.de##.special
-amp.focus.de###newsbreadcrumb
-amp.focus.de##.pageTitle
-amp.focus.de##.articleHead > h4
-amp.focus.de###player_1
-amp.focus.de##.ps-articlechild > .clearfix.caption
-amp.focus.de##.leadIn
-amp.focus.de##.ct_ampad
-amp.focus.de##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive
-amp.focus.de##.clearfix.caption
-amp.focus.de###AMP_scroll_to_top_wrapper
-amp.focus.de##.amp-flying-carpet-text-border
-amp.focus.de##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height
-amp.focus.de##.socialbar
-amp.focus.de##.nospace
-amp.focus.de##center
-amp.focus.de##.textBlock [href]
-amp.focus.de##.card > [href]
-amp.focus.de##article.liveticker
-amp.focus.de##.copyright
-amp.focus.de##.app_buttons
-amp.focus.de##.i-amphtml-layout.i-amphtml-built.i-amphtml-sticky-ad-layout
-amp.focus.de###smartbanner_amp
-amp.focus.de##i-amphtml-sizer
+! 2024-02-07 https://m.focus.de m.focus and amp.focus are slightly different for no reason, but removing m or amp makes it work on both sites
+focus.de##.hamburger
+focus.de###newsbreadcrumb
+focus.de##.socialbar
+focus.de##.fol_mew-flying-carpet-wrapper
+focus.de##.m-conclusion-box
+focus.de##.comments-load
+focus.de###rm
+focus.de##article.card:nth-of-type(2)
+focus.de##article.card:nth-of-type(3)
+focus.de##article.card:nth-of-type(4)
+focus.de##article.card:nth-of-type(5)
+focus.de##article.card:nth-of-type(6)
+focus.de##article.card:nth-of-type(7)
+focus.de##article.card:nth-of-type(8)
+focus.de##article.card:nth-of-type(9)
+focus.de##article.card:nth-of-type(10)
+focus.de##article.card:nth-of-type(11)
+focus.de###MEW_scroll_to_top_wrapper
+focus.de##.cls_hor_prnt
+focus.de###M_CONTENTAD3
+focus.de##.app_buttons
+focus.de##.copyright
+focus.de##[href="https://m.focus.de/intern/datenschutzerklaerung-datenschutzerklaerung-fuer-die-webseite-www-focus-de_id_6846331.html"]
+focus.de##[href="https://m.focus.de/intern/agb-von-focus-online-agb-von-focus-online_id_10064693.html"]
+focus.de###footer > ul > li:nth-of-type(5)
+
+! 2024-02-07 https://amp.focus.de
+focus.de##.i-amphtml-sticky-ad-layout
+focus.de###AMP_scroll_to_top_wrapper
+focus.de##.ct_ampad
+focus.de##[href="https://amp.focus.de/intern/agb-von-focus-online-agb-von-focus-online_id_10064693.html"]
+focus.de##[href="https://m.focus.de/intern/datenschutzerklaerung-datenschutzerklaerung-fuer-die-webseite-www-focus-de_id_6846331.html"]
+focus.de###consent-ui
+!comments with the hope of no overblocking
+focus.de##center
 
 ! 2023-12-31 https://www.scinexx.de
 www.scinexx.de##.herald-menu-popup-search

@@ -164,37 +164,23 @@ www.saechsische.de##.footer__partner
 www.saechsische.de##.footer__navigation
 www.saechsische.de##.footer__socials
 
-! 2023-12-31 https://www.focus.de
-www.focus.de##.elements
+! 2024-02-07 https://www.focus.de
+www.focus.de###headerIcons
+www.focus.de##.search
 www.focus.de###menu-wrapper
-www.focus.de###special-header-v2
-www.focus.de##.emarf_da_edih
+www.focus.de###top-banner
 www.focus.de###newsbreadcrumb
-!article partner
-www.focus.de##.pnsource
-!subheadline
-www.focus.de##.overhead
-www.focus.de###article-social-holder
 www.focus.de##.actions
 www.focus.de###sidebar
-www.focus.de##.mediaBlock
-!opinion
-www.focus.de###opinary-root
-www.focus.de##.cls_slot_xxoutstreamxx
-||cdn.pear.focus.de/clients/public/generated/deal_*.html$subdocument
-www.focus.de##div.textBlock [href]
+www.focus.de###article-social
+www.focus.de###singlepostSlideInBoxHoch
+www.focus.de##.teaserList3x1
 www.focus.de##.comments-banner
 www.focus.de##.teaserList2x2
-www.focus.de##.teaserList3x1
-www.focus.de##.created
-www.focus.de###tfm_admanagerTeaser
-www.focus.de##.cls_hor_prnt_am
+www.focus.de##.similarityBlock
 www.focus.de###footerv2-spacer
 www.focus.de###servicev2
-www.focus.de##.credits
 www.focus.de##.partners
-www.focus.de###footsearch
-www.focus.de##.small-logo
 
 ! 2023-12-31 https://www.scinexx.de
 www.scinexx.de##.header-meta

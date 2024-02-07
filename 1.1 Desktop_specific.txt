@@ -381,6 +381,7 @@ www.gamestar.de##.recirculation-box
 ! 2024-02-06 https://mein-mmo.de
 mein-mmo.de###gp-top-header
 mein-mmo.de###gp-search-button
+mein-mmo.de###menu-mmo-header-nav
 mein-mmo.de###mmo-sub-header
 mein-mmo.de###reading-position-indicator
 mein-mmo.de##.jad-placeholder

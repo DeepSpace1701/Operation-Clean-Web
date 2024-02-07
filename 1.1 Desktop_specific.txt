@@ -165,6 +165,7 @@ www.saechsische.de##.footer__navigation
 www.saechsische.de##.footer__socials
 
 ! 2024-02-07 https://www.focus.de
+!ok, for some reason the p6. pictures where visible on my PC but not on mobile... anyway, forgot to add that you should block cdn.pear.focus, that is an ad at the bottom of the page I haven't removed because I blocked it network wide with this
 www.focus.de###headerIcons
 www.focus.de##.search
 www.focus.de###menu-wrapper

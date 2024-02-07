@@ -134,6 +134,7 @@ www.saechsische.de##amp-ad
 www.saechsische.de##i-amphtml-sizer
 
 ! 2024-02-07 https://m.focus.de m.focus and amp.focus are slightly different for no reason, but removing m or amp makes it work on both sites
+!ok, for some reason the p6. pictures where visible on my PC but not on mobile... anyway, forgot to add that you should block cdn.pear.focus, that is an ad at the bottom of the page I haven't removed because I blocked it network wide with this
 focus.de##.hamburger
 focus.de###newsbreadcrumb
 focus.de##.socialbar

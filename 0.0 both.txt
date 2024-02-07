@@ -129,6 +129,8 @@ buyee.jp##.googleTranslate
 buyee.jp##.selected.bidInput__deliveryMethodItem > .bidInput__radioText
 buyee.jp##.selected.bidInput__deliveryMethodItem > .bidInput__deliveryFeeTitle
 buyee.jp##.rcmd_title
+!banner for "new" users showing despite I use it for months now and I am logged it
+buyee.jp##.guide
 
 ! 2024-02-02 https://www.facebook.com
 !Statusbar at the top

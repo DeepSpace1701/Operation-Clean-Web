@@ -201,3 +201,26 @@ www.smartdroid.de##.has-small-font-size
 www.smartdroid.de###comments
 www.smartdroid.de##.ast-single-related-posts-container
 www.smartdroid.de##.ast-builder-grid-row-tablet-full
+
+! 2024-02-06 https://www.filmstarts.de
+www.filmstarts.de###dailymotion-pip-large-viewport
+www.filmstarts.de###credential_picker_container
+www.filmstarts.de##.header-main-search
+www.filmstarts.de##.header-nav-holder
+www.filmstarts.de##.main-banner
+www.filmstarts.de##.breadcrumb
+www.filmstarts.de##.article-lead
+www.filmstarts.de##.rc-content
+www.filmstarts.de###back-top
+www.filmstarts.de##.cms-see-also
+www.filmstarts.de##p.bo-p > i
+www.filmstarts.de##.article-sharing-action
+www.filmstarts.de##.article-related-links
+www.filmstarts.de##.footer-cell
+www.filmstarts.de##.js-outbrain
+www.filmstarts.de##.info-logo
+!mobile only, the other stuff works as well but I didn't check manually because I am lazy
+www.filmstarts.de##.icon-hamburger
+www.filmstarts.de##.icon-search
+!removed the stupid popup, this also removes the normal video but leaves an empty box, so you know there is one and can disable Adblocker if you want to watch it
+www.filmstarts.de###dailymotion-pip-small-viewport

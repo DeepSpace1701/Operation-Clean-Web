@@ -323,3 +323,13 @@ mein-mmo.de##.gp-sidebar
 mein-mmo.de###mmo-promotion-footer
 mein-mmo.de##.gp-footer-logos
 mein-mmo.de###menu-mmo-social-nav-1
+
+! 2024-02-07 https://www.mdr.de, removed the navbar on mobile because I will never use it there
+www.mdr.de##.voice-reader-wrapper
+www.mdr.de##.sharing-menu-article
+www.mdr.de##.sharing-menu-default
+www.mdr.de##.amp-lazyLoad
+www.mdr.de##.mdr
+www.mdr.de##.footer-bottom
+www.mdr.de##.ButtonStyled__IconButton-sc-1d1718z-4
+www.mdr.de##.wrapperChannelNavigation

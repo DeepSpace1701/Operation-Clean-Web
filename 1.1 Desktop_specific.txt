@@ -389,3 +389,11 @@ mein-mmo.de##.comments-area
 mein-mmo.de###mmo-promotion-footer
 mein-mmo.de##.gp-footer-logos
 ||static.cgames.de/gs_cb/assets/core/images/webedia_logo_dark.svg$image
+
+! 2024-02-07 https://www.mdr.de, left the navbar intact because it can actually be useful
+www.mdr.de##.voice-reader-wrapper
+www.mdr.de##.sharing-menu-article
+www.mdr.de##.sharing-menu-default
+www.mdr.de##.amp-lazyLoad
+www.mdr.de##.mdr
+www.mdr.de##.footer-bottom

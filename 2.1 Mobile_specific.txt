@@ -333,3 +333,23 @@ www.mdr.de##.mdr
 www.mdr.de##.footer-bottom
 www.mdr.de##.ButtonStyled__IconButton-sc-1d1718z-4
 www.mdr.de##.wrapperChannelNavigation
+
+! 2024-02-07 https://t3n.de
+t3n.de##.c-header__campaign-mobile
+t3n.de##.c-hamburger__container
+t3n.de##.c-breadcrumb-wrapper
+t3n.de###bookmark
+t3n.de##.c-category-wrapper
+t3n.de##span.u-gap-right-extrasmall.u-color-mute.u-text-small:nth-of-type(2)
+t3n.de##.u-display-flex
+t3n.de##.c-ad-container
+t3n.de##.tg-crosslinks
+t3n.de##.embed-content-wrapper
+t3n.de##.tg-social-bottom
+t3n.de##.c-native-newsletterbox
+t3n.de##.c-suggestNews-container
+t3n.de##.tg-article-jobs
+t3n.de##.tg-article-comments
+t3n.de##.c-social
+t3n.de##.js-switch-to-desktop
+t3n.de##.o-list

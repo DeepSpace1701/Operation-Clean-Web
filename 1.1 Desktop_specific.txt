@@ -397,3 +397,29 @@ www.mdr.de##.sharing-menu-default
 www.mdr.de##.amp-lazyLoad
 www.mdr.de##.mdr
 www.mdr.de##.footer-bottom
+
+! 2024-02-07 https://t3n.de
+t3n.de##.c-header__campaign
+t3n.de##.c-metamenu__item:nth-of-type(2)
+t3n.de##.c-metamenu__item:nth-of-type(3)
+t3n.de##.tg-submenu
+t3n.de##.tg-menu
+t3n.de##.c-social
+t3n.de##.c-search
+t3n.de###bookmark
+t3n.de##.h3
+t3n.de##.c-breadcrumb
+t3n.de##.tg-sidebar
+t3n.de##.c-ad-container
+t3n.de##.tg-crosslinks
+t3n.de##.embed-content-wrapper
+t3n.de##.c-suggestNews-container
+t3n.de##.tg-social-bottom
+t3n.de##.c-native-newsletterbox
+t3n.de##.c-comment
+t3n.de##.-mission
+t3n.de##.c-header__sticky
+t3n.de##.c-footer__column:nth-of-type(2)
+t3n.de##.c-footer__column:nth-of-type(3)
+t3n.de##.c-footer__end > div.o-grid:nth-of-type(1)
+t3n.de##.u-gap-top-small

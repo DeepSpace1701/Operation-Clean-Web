@@ -353,3 +353,29 @@ t3n.de##.tg-article-comments
 t3n.de##.c-social
 t3n.de##.js-switch-to-desktop
 t3n.de##.o-list
+
+! 2024-02-08 https://www.pcgameshardware.de
+www.pcgameshardware.de##.gamesworld
+www.pcgameshardware.de##.p-2.sidebarMenu
+www.pcgameshardware.de##.quickLinkBar
+www.pcgameshardware.de##.breadcrumb
+www.pcgameshardware.de##.static_banner
+www.pcgameshardware.de##.introText
+www.pcgameshardware.de##.socialLinks
+www.pcgameshardware.de##.wadtag
+www.pcgameshardware.de##.articleTicker
+www.pcgameshardware.de##.rgTable
+www.pcgameshardware.de##.nextPageLinkAnchorsWrapper
+www.pcgameshardware.de##.footerButtons
+www.pcgameshardware.de##.comments
+www.pcgameshardware.de###article_comment_box
+www.pcgameshardware.de##.rec_box_bottom
+www.pcgameshardware.de##.strr_slot
+www.pcgameshardware.de##.footerHeader
+www.pcgameshardware.de##.footerFooter
+www.pcgameshardware.de##.footerLinks > :nth-of-type(1)
+www.pcgameshardware.de##.footerLinks > :nth-of-type(4)
+www.pcgameshardware.de##.footerLinks > :nth-of-type(6)
+www.pcgameshardware.de##.footerLinks > :nth-of-type(7)
+www.pcgameshardware.de##.footerLinks > :nth-of-type(8)
+www.pcgameshardware.de##.footerLinks > :nth-of-type(9)

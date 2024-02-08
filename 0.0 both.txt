@@ -228,3 +228,14 @@ www.filmstarts.de##.icon-hamburger
 www.filmstarts.de##.icon-search
 !removed the stupid popup, this also removes the normal video but leaves an empty box, so you know there is one and can disable Adblocker if you want to watch it
 www.filmstarts.de###dailymotion-pip-small-viewport
+
+! 2024-02-08 https://www.derstandard.de; sadly, the header is whole and it is not possible to remove the other parts
+www.derstandard.de##.app--header--breadcrumb
+www.derstandard.de##.story-tool
+www.derstandard.de##.story-community
+www.derstandard.de##.article-kicker
+www.derstandard.de##.site-sitebar
+!hopefully only removes the read later and podcast stuff at the end
+www.derstandard.de##.js-embed-output
+www.derstandard.de##dst-community-reactions
+www.derstandard.de##.site-footer-legalline > p

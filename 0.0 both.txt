@@ -239,3 +239,5 @@ www.derstandard.de##.site-sitebar
 www.derstandard.de##.js-embed-output
 www.derstandard.de##dst-community-reactions
 www.derstandard.de##.site-footer-legalline > p
+!Adboxes that I didn't get on PC because I have a blocklist enabled there
+www.derstandard.de##.ad-container-used

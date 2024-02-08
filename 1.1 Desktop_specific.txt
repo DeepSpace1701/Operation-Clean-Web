@@ -425,20 +425,20 @@ t3n.de##.c-footer__end > div.o-grid:nth-of-type(1)
 t3n.de##.u-gap-top-small
 
 ! 2024-02-08 https://www.pcgameshardware.de
-www.pcgameshardware.de##[src="/static/gfx/header/logo_gw.png"]
-www.pcgameshardware.de##.sidebarWrapper
-www.pcgameshardware.de##.new.header2
-www.pcgameshardware.de##.topFrameEddie
-www.pcgameshardware.de##.Breadcrumb
-www.pcgameshardware.de##.artSocialLinks
-www.pcgameshardware.de##.commentIcon
-www.pcgameshardware.de##.contentFrameEddie
-www.pcgameshardware.de##.right.column
-www.pcgameshardware.de##.totop
-www.pcgameshardware.de##.rgTable
-www.pcgameshardware.de##.nextPageLinkAnchorsWrapper
-www.pcgameshardware.de##.socialLinksFooter
-www.pcgameshardware.de##.articleCommentModule
-www.pcgameshardware.de##.pubperformAd
-www.pcgameshardware.de##.footer2
-www.pcgameshardware.de##.disrupterEnlargerBox
+www.pcgames.de,www.pcgameshardware.de##[src="/static/gfx/header/logo_gw.png"]
+www.pcgames.de,www.pcgameshardware.de##.sidebarWrapper
+www.pcgames.de,www.pcgameshardware.de##.new.header2
+www.pcgames.de,www.pcgameshardware.de##.topFrameEddie
+www.pcgames.de,www.pcgameshardware.de##.Breadcrumb
+www.pcgames.de,www.pcgameshardware.de##.artSocialLinks
+www.pcgames.de,www.pcgameshardware.de##.commentIcon
+www.pcgames.de,www.pcgameshardware.de##.contentFrameEddie
+www.pcgames.de,www.pcgameshardware.de##.right.column
+www.pcgames.de,www.pcgameshardware.de##.totop
+www.pcgames.de,www.pcgameshardware.de##.rgTable
+www.pcgames.de,www.pcgameshardware.de##.linkToHomePage
+www.pcgames.de,www.pcgameshardware.de##.socialLinksFooter
+www.pcgames.de,www.pcgameshardware.de##.articleCommentModule
+www.pcgames.de,www.pcgameshardware.de##.pubperformAd
+www.pcgames.de,www.pcgameshardware.de##.footer2
+www.pcgames.de,www.pcgameshardware.de##.disrupterEnlargerBox

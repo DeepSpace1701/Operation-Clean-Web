@@ -355,27 +355,27 @@ t3n.de##.js-switch-to-desktop
 t3n.de##.o-list
 
 ! 2024-02-08 https://www.pcgameshardware.de
-www.pcgameshardware.de##.gamesworld
-www.pcgameshardware.de##.p-2.sidebarMenu
-www.pcgameshardware.de##.quickLinkBar
-www.pcgameshardware.de##.breadcrumb
-www.pcgameshardware.de##.static_banner
-www.pcgameshardware.de##.introText
-www.pcgameshardware.de##.socialLinks
-www.pcgameshardware.de##.wadtag
-www.pcgameshardware.de##.articleTicker
-www.pcgameshardware.de##.rgTable
-www.pcgameshardware.de##.nextPageLinkAnchorsWrapper
-www.pcgameshardware.de##.footerButtons
-www.pcgameshardware.de##.comments
-www.pcgameshardware.de###article_comment_box
-www.pcgameshardware.de##.rec_box_bottom
-www.pcgameshardware.de##.strr_slot
-www.pcgameshardware.de##.footerHeader
-www.pcgameshardware.de##.footerFooter
-www.pcgameshardware.de##.footerLinks > :nth-of-type(1)
-www.pcgameshardware.de##.footerLinks > :nth-of-type(4)
-www.pcgameshardware.de##.footerLinks > :nth-of-type(6)
-www.pcgameshardware.de##.footerLinks > :nth-of-type(7)
-www.pcgameshardware.de##.footerLinks > :nth-of-type(8)
-www.pcgameshardware.de##.footerLinks > :nth-of-type(9)
+www.pcgames.de,www.pcgameshardware.de##.gamesworld
+www.pcgames.de,www.pcgameshardware.de##.p-2.sidebarMenu
+www.pcgames.de,www.pcgameshardware.de##.quickLinkBar
+www.pcgames.de,www.pcgameshardware.de##.breadcrumb
+www.pcgames.de,www.pcgameshardware.de##.static_banner
+www.pcgames.de,www.pcgameshardware.de##.introText
+www.pcgames.de,www.pcgameshardware.de##.socialLinks
+www.pcgames.de,www.pcgameshardware.de##.wadtag
+www.pcgames.de,www.pcgameshardware.de##.articleTicker
+www.pcgames.de,www.pcgameshardware.de##.rgTable
+www.pcgames.de,www.pcgameshardware.de##.linkToHomePage
+www.pcgames.de,www.pcgameshardware.de##.footerButtons
+www.pcgames.de,www.pcgameshardware.de##.comments
+www.pcgames.de,www.pcgameshardware.de###article_comment_box
+www.pcgames.de,www.pcgameshardware.de##.rec_box_bottom
+www.pcgames.de,www.pcgameshardware.de##.strr_slot
+www.pcgames.de,www.pcgameshardware.de##.footerHeader
+www.pcgames.de,www.pcgameshardware.de##.footerFooter
+www.pcgames.de,www.pcgameshardware.de##.footerLinks > :nth-of-type(1)
+www.pcgames.de,www.pcgameshardware.de##.footerLinks > :nth-of-type(4)
+www.pcgames.de,www.pcgameshardware.de##.footerLinks > :nth-of-type(6)
+www.pcgames.de,www.pcgameshardware.de##.footerLinks > :nth-of-type(7)
+www.pcgames.de,www.pcgameshardware.de##.footerLinks > :nth-of-type(8)
+www.pcgames.de,www.pcgameshardware.de##.footerLinks > :nth-of-type(9)

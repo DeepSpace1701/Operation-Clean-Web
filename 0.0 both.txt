@@ -133,8 +133,12 @@ buyee.jp##.rcmd_title
 buyee.jp##.guide
 
 ! 2024-02-02 https://www.facebook.com
-!Statusbar at the top
+!Statuses at the top
 www.facebook.com##.x1ceravr.xgmub6v.x193iq5w
+! 2024-02-11 https://www.facebook.com
+!Friend suggestions
+www.facebook.com##.xquyuld.x10wlt62.x6ikm8r.xh8yej3.xt3gfkd.xu5ydu1.xdney7k.x1qpq9i9.x2bj2ny.x1ja2u2z.x1n2onr6.x9f619 > .x10wlt62.x6ikm8r
+
 
 ! 2024-02.05 https://www.spiegel.de
 !pointless banner that pops up EVERY SINGLE TIME

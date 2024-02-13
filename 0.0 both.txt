@@ -245,3 +245,49 @@ www.derstandard.de##dst-community-reactions
 www.derstandard.de##.site-footer-legalline > p
 !Adboxes that I didn't get on PC because I have a blocklist enabled there
 www.derstandard.de##.ad-container-used
+
+! 2024-02-13 https://www.netzwelt.de
+www.netzwelt.de###tickerbg
+www.netzwelt.de###ticker
+www.netzwelt.de##.m > li:nth-of-type(3)
+www.netzwelt.de##.m > li:nth-of-type(4)
+www.netzwelt.de##.m > li:nth-of-type(5)
+www.netzwelt.de##.m > li:nth-of-type(6)
+www.netzwelt.de##.m > li:nth-of-type(7)
+www.netzwelt.de##.m > li:nth-of-type(8)
+www.netzwelt.de##.m > li:nth-of-type(9)
+www.netzwelt.de##.sf
+www.netzwelt.de##.ad
+www.netzwelt.de###leftaside
+www.netzwelt.de###aside
+www.netzwelt.de##.mfb--bl
+www.netzwelt.de##.Bottom._Bell
+www.netzwelt.de##.nl-share
+www.netzwelt.de##.bcl
+www.netzwelt.de##.bclil-so
+www.netzwelt.de##strong
+!in-article links to other articles
+www.netzwelt.de##.stack
+www.netzwelt.de##.glide--slider
+www.netzwelt.de##.buzzboard
+www.netzwelt.de##.subscribeboard
+www.netzwelt.de##.article-breaker
+www.netzwelt.de##.jobbioapp
+www.netzwelt.de##.mr--10.ml--10.fd-m-c.fd-r.d-f
+www.netzwelt.de##.lh-15.fsy-i.c-gr.fs-ms
+www.netzwelt.de##.zi-2.pos-r.aff.bgc-gb-02.c-w.lh-14.fs-ms.mr-20.ml-20.mb-20.mt--20.p-20
+||www.netzwelt.de/assets/redesign/logos/footer-logo.svg$image
+www.netzwelt.de##.zi-2.pos-r.about.ta-l.mr-20.ml-20.pt-20.pb-20
+www.netzwelt.de##[href="https://www.netzwelt.de/werbung.html"]
+www.netzwelt.de##[href="https://www.netzwelt.de/presse.html"]
+www.netzwelt.de##[href="https://www.netzwelt.de/stellenangebote.html"]
+www.netzwelt.de##[href="https://www.netzwelt.de/transparenz.html"]
+www.netzwelt.de##[href="https://www.netzwelt.de/team/index.html"]
+www.netzwelt.de##[href="https://www.netzwelt.de/diversitaet.html"]
+www.netzwelt.de##[href="https://www.netzwelt.de/nachhaltigkeit.html"]
+www.netzwelt.de##[href="https://www.netzwelt.de/rechtliches.html"]
+www.netzwelt.de##[href="https://www.netzwelt.de/datenschutz.html"]
+www.netzwelt.de##.mt-20 > [href="#"]
+www.netzwelt.de##[href="https://www.netzwelt.de/subscribe.html"]
+www.netzwelt.de##[href="https://www.netzwelt.de/jugendschutz.html"]
+www.netzwelt.de##.m-share

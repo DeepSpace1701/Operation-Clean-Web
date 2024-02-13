@@ -186,6 +186,14 @@ www.focus.de##.similarityBlock
 www.focus.de###footerv2-spacer
 www.focus.de###servicev2
 www.focus.de##.partners
+! 2024-02-13 https://www.focus.de
+www.focus.de###special-header-v2
+www.focus.de##.overhead
+www.focus.de##.leadIn
+www.focus.de##.nl_subscription_form
+www.focus.de##.cls_slot_xxoutstreamxx
+www.focus.de##.cls_hor_prnt_am
+www.focus.de###footerv2-head
 
 ! 2023-12-31 https://www.scinexx.de
 www.scinexx.de##.header-meta

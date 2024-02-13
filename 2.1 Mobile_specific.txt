@@ -152,8 +152,6 @@ focus.de##.copyright
 focus.de##[href="https://m.focus.de/intern/datenschutzerklaerung-datenschutzerklaerung-fuer-die-webseite-www-focus-de_id_6846331.html"]
 focus.de##[href="https://m.focus.de/intern/agb-von-focus-online-agb-von-focus-online_id_10064693.html"]
 focus.de###footer > ul > li:nth-of-type(5)
-
-! 2024-02-07 https://amp.focus.de
 focus.de##.i-amphtml-sticky-ad-layout
 focus.de###AMP_scroll_to_top_wrapper
 focus.de##.ct_ampad
@@ -164,6 +162,38 @@ focus.de###consent-ui
 focus.de##center
 !banner claiming the app is "better" (they can get more data with it than with the site I guess)
 focus.de###smartbanner_amp
+! 2024-02-13 https://m.focus.de
+focus.de##.top
+focus.de##.articleHead > h4
+focus.de##.leadIn
+focus.de##.social
+focus.de##.nl_subscription_form
+focus.de##.cls_slot_xxoutstreamxx
+focus.de##.cls_hor_prnt
+focus.de###MEW_scroll_to_top_wrapper
+!apparently, it was only because of (2), maybe from Desktop. If it still leads to overblocking, I will remove the individual items themselfes by using the stuff below.
+focus.de##.card:nth-of-type(3)
+focus.de##.card:nth-of-type(4)
+focus.de##.card:nth-of-type(5)
+focus.de##.card:nth-of-type(6)
+focus.de##.card:nth-of-type(7)
+focus.de##.card:nth-of-type(8)
+focus.de##.card:nth-of-type(9)
+focus.de##.card:nth-of-type(10)
+focus.de##.card:nth-of-type(11)
+focus.de##.card:nth-of-type(12)
+!focus.de##.seo
+!focus.de##.lazyloaded.imgMobileOverview
+!focus.de##.liveticker
+!focus.de##h3
+!focus.de##h4
+!focus.de##.play_m
+!focus.de##.reading
+!focus.de##.footer
+!focus.de##.xl_h1
+!pictures of the article teaser crap
+!focus.de###rm
+focus.de##.copyright > p
 
 ! 2023-12-31 https://www.scinexx.de
 www.scinexx.de##.herald-menu-popup-search

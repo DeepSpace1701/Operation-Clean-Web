@@ -1,2 +1,6 @@
 ##.outbrain
 ##.OUTBRAIN
+
+! 2024-02-13 https://amp.focus.de
+!should remove the no connection messages from Gads, maybe also some ads itself if you don't have a network Adblocker (full was /gampad/ads$subdocument)
+||securepubads.g.doubleclick.net

@@ -381,3 +381,23 @@ www.pcgames.de,www.pcgameshardware.de##.footerLinks > :nth-of-type(6)
 www.pcgames.de,www.pcgameshardware.de##.footerLinks > :nth-of-type(7)
 www.pcgames.de,www.pcgameshardware.de##.footerLinks > :nth-of-type(8)
 www.pcgames.de,www.pcgameshardware.de##.footerLinks > :nth-of-type(9)
+
+! 2024-02-13 https://www.inside-digital.de
+www.inside-digital.de##.closed
+www.inside-digital.de##.td-header-sub-menu-wrap
+www.inside-digital.de##.td-crumb-container
+www.inside-digital.de##.header-colorline
+www.inside-digital.de##.ih-share-links
+www.inside-digital.de##.content-contentad
+www.inside-digital.de##.article-teaser
+www.inside-digital.de##.affiliate-disclaimer
+www.inside-digital.de##.tags-and-voting-wrapper
+www.inside-digital.de##.td_block_ih_current_news
+www.inside-digital.de##.comments
+www.inside-digital.de##.td_block_ih_magazine
+www.inside-digital.de##.footer-logo
+www.inside-digital.de##.footer-menu-wrapper
+www.inside-digital.de##.ih-footer > .td-container
+www.inside-digital.de##.menu-footer-datenschutz-menu-container
+www.inside-digital.de##.header-progress-container
+www.inside-digital.de##.footer-colorline

@@ -144,16 +144,6 @@ focus.de##.fol_mew-flying-carpet-wrapper
 focus.de##.m-conclusion-box
 focus.de##.comments-load
 focus.de###rm
-focus.de##article.card:nth-of-type(2)
-focus.de##article.card:nth-of-type(3)
-focus.de##article.card:nth-of-type(4)
-focus.de##article.card:nth-of-type(5)
-focus.de##article.card:nth-of-type(6)
-focus.de##article.card:nth-of-type(7)
-focus.de##article.card:nth-of-type(8)
-focus.de##article.card:nth-of-type(9)
-focus.de##article.card:nth-of-type(10)
-focus.de##article.card:nth-of-type(11)
 focus.de###MEW_scroll_to_top_wrapper
 focus.de##.cls_hor_prnt
 focus.de###M_CONTENTAD3

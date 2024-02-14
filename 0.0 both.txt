@@ -418,6 +418,7 @@ www.welt.de##.c-themepages
 www.welt.de###Comments
 www.welt.de##.c-page-footer__section > [href]
 www.welt.de##.c-page-footer-navigation__link-main.c-page-footer-navigation__list:nth-of-type(1) > .c-page-footer-navigation__item.o-list__item:nth-of-type(2)
+www.welt.de##.c-page-footer-navigation__link-main.c-page-footer-navigation__list:nth-of-type(1) > .c-page-footer-navigation__item.o-list__item:nth-of-type(3)
 www.welt.de##.c-page-footer-navigation__link-main.c-page-footer-navigation__list:nth-of-type(2)
 www.welt.de##.c-page-footer__section:nth-of-type(2) > .c-page-footer-navigation__list
 www.welt.de##.c-page-footer__section--has-no-border

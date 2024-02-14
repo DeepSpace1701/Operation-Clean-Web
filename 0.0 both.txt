@@ -358,3 +358,14 @@ www.merkur.de##.id-Footer-el:nth-of-type(6)
 www.merkur.de##.id-HeaderWhiteWidow-element--pna
 www.merkur.de##.wv_story_el_insertedAd
 www.merkur.de##.id-StoryElement-embed
+
+! 2024-02-14 https://www.tagesschau.de
+www.tagesschau.de##.article-breadcrumb
+www.tagesschau.de##.label
+www.tagesschau.de##.teaser-absatz
+www.tagesschau.de##.copytext-element-wrapper--overlap
+www.tagesschau.de##.meldungsfooter
+www.tagesschau.de##aside
+www.tagesschau.de##.back-to-top
+www.tagesschau.de##.buttongroup
+www.tagesschau.de###ts_footer

@@ -426,3 +426,4 @@ www.welt.de##.c-oembed--is-podigee-tts
 www.welt.de###la-paperboy-widget
 !small line at bottom
 www.welt.de##.u-is-hidden-print
+www.welt.de##.c-oembed--is-shown

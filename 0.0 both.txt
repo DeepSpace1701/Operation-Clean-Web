@@ -411,6 +411,7 @@ www.welt.de##.c-readingtime
 www.welt.de##.c-reading-time-indicator
 www.welt.de##.c-page-header-tools__item--is-navigation.c-page-header-tools__item
 www.welt.de##.c-inline-teaser
+www.welt.de##.c-inline-teaser-list
 www.welt.de##.c-outbrain-widget__placeholders
 www.welt.de##em
 www.welt.de##.c-stage

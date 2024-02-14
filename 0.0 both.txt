@@ -291,3 +291,24 @@ www.netzwelt.de##.mt-20 > [href="#"]
 www.netzwelt.de##[href="https://www.netzwelt.de/subscribe.html"]
 www.netzwelt.de##[href="https://www.netzwelt.de/jugendschutz.html"]
 www.netzwelt.de##.m-share
+
+! 2024-02-14 https://www.anime2you.de
+www.anime2you.de##.cmpwrapper
+www.anime2you.de##.sf-menu
+www.anime2you.de##.td-icon-search
+www.anime2you.de##.td-category
+www.anime2you.de##.werbung
+www.anime2you.de##.socialbtns
+www.anime2you.de##.td-main-sidebar
+www.anime2you.de##.ad_banner
+www.anime2you.de##.td-post-sharing-bottom
+www.anime2you.de##.td_block_related_posts
+www.anime2you.de##.kommentare2
+www.anime2you.de###comments
+www.anime2you.de##.td-footer-container
+www.anime2you.de##[href="/datenschutzerklaerung/"]
+www.anime2you.de##.menu-item-privacy-policy
+!mobile
+www.anime2you.de###td-top-mobile-toggle
+www.anime2you.de##.tdc-zone
+www.anime2you.de###advertising

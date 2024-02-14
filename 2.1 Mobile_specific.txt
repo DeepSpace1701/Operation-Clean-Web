@@ -439,7 +439,7 @@ www.heise.de##.nav-bottom
 www.heise.de###js-gdpr-pm-link
 www.heise.de##.footer__text
 www.heise.de##.footer__item:nth-of-type(1)
-!www.heise.de##.footer__item:nth-of-type(2)
+www.heise.de##.footer__item:nth-of-type(2)
 www.heise.de##.footer__item:nth-of-type(5)
 www.heise.de##.footer__item:nth-of-type(6)
 www.heise.de##.footer__item:nth-of-type(7)

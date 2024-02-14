@@ -443,3 +443,14 @@ www.heise.de##.footer__item:nth-of-type(2)
 www.heise.de##.footer__item:nth-of-type(5)
 www.heise.de##.footer__item:nth-of-type(6)
 www.heise.de##.footer__item:nth-of-type(7)
+
+! 2024-02-14 https://winaero.com
+winaero.com##.site-description
+winaero.com##.cat-links
+winaero.com##.supportus
+winaero.com##.illa
+winaero.com##.author-info
+winaero.com##.comments-area
+winaero.com##.post-navigation
+winaero.com##.site-footer
+winaero.com###amp-mobile-version-switcher

@@ -506,3 +506,23 @@ www.heise.de##.footer__item:nth-of-type(1)
 www.heise.de##.footer__item:nth-of-type(5)
 www.heise.de##.footer__item:nth-of-type(6)
 www.heise.de##.footer__item:nth-of-type(7)
+
+! 2024-02-14 https://winaero.com
+winaero.com##.fixtop
+winaero.com##.site-description
+winaero.com##.main-navigation
+winaero.com###cookie-law-info-bar
+winaero.com##.adsbygoogle
+winaero.com###content > div:nth-of-type(1) > p
+winaero.com##.cat-links
+winaero.com##.windiv
+winaero.com##.sidebar
+winaero.com##.supportus
+winaero.com##.illa
+winaero.com##.gad-gads
+winaero.com##.author-info
+winaero.com##.comments-area
+winaero.com##.post-navigation
+winaero.com##.site-footer
+winaero.com##.footer_ad
+winaero.com###qcihrbv5

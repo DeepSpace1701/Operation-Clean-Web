@@ -369,3 +369,25 @@ www.tagesschau.de##aside
 www.tagesschau.de##.back-to-top
 www.tagesschau.de##.buttongroup
 www.tagesschau.de###ts_footer
+
+! 2024-02-14 https://stadt-bremerhaven.de
+stadt-bremerhaven.de##.site-description
+stadt-bremerhaven.de##.pad.group > .social-links
+stadt-bremerhaven.de##.toggle-search
+stadt-bremerhaven.de##.post-category
+stadt-bremerhaven.de##.comments-link
+stadt-bremerhaven.de##.sidebar
+stadt-bremerhaven.de##.aawp
+stadt-bremerhaven.de##.aawp-disclaimer
+stadt-bremerhaven.de##h2
+stadt-bremerhaven.de###shr-btns
+stadt-bremerhaven.de##.post-nav
+stadt-bremerhaven.de##.recent-posts__heading
+stadt-bremerhaven.de##.recent-posts
+stadt-bremerhaven.de###comments
+stadt-bremerhaven.de##.comment-abo
+stadt-bremerhaven.de###footer-widgets
+stadt-bremerhaven.de###back-to-top
+stadt-bremerhaven.de###footer-logo
+stadt-bremerhaven.de##.social-links
+stadt-bremerhaven.de##.psw-container

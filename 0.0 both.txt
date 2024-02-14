@@ -377,6 +377,7 @@ stadt-bremerhaven.de##.toggle-search
 stadt-bremerhaven.de##.post-category
 stadt-bremerhaven.de##.comments-link
 stadt-bremerhaven.de##.sidebar
+stadt-bremerhaven.de##.video-container
 stadt-bremerhaven.de##.aawp
 stadt-bremerhaven.de##.aawp-disclaimer
 stadt-bremerhaven.de##h2

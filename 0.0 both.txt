@@ -337,3 +337,24 @@ www.notebookcheck.com##[href="https://www.notebookcheck.com/Datenschutzerklaerun
 !mobile
 www.notebookcheck.com##.moremenu
 www.notebookcheck.com##.first_incontent
+
+! 2024-02-14 https://www.merkur.de
+www.merkur.de##.id-HeaderWhiteWidow-featured-item
+www.merkur.de##.id-HeaderWhiteWidow-element--search
+www.merkur.de##.id-HeaderWhiteWidow-element--ippenMedia
+www.merkur.de##.idjs-MainNavigation-trigger
+www.merkur.de##.id-TBeepSlot
+www.merkur.de##.id-DonaldBreadcrumb
+www.merkur.de##.id-Story-interactionBar
+www.merkur.de##.wv_story_el_glomex
+www.merkur.de##.id-StoryElement-leadText
+www.merkur.de##.id-Comments
+www.merkur.de##.id-Recommendation
+www.merkur.de##.id-Footer-el:nth-of-type(3)
+www.merkur.de##.id-Footer-el:nth-of-type(4)
+www.merkur.de##.id-Footer-el:nth-of-type(5)
+www.merkur.de##.id-Footer-el:nth-of-type(6)
+!mobile
+www.merkur.de##.id-HeaderWhiteWidow-element--pna
+www.merkur.de##.wv_story_el_insertedAd
+www.merkur.de##.id-StoryElement-embed

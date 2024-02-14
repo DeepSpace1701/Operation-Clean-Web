@@ -312,3 +312,28 @@ www.anime2you.de##.menu-item-privacy-policy
 www.anime2you.de###td-top-mobile-toggle
 www.anime2you.de##.tdc-zone
 www.anime2you.de###advertising
+
+! 2024-02-14 https://www.notebookcheck.com
+www.notebookcheck.com##.mainmenu
+www.notebookcheck.com###nbc_searchbar
+www.notebookcheck.com##.introa_content
+www.notebookcheck.com###nbc_bb
+www.notebookcheck.com###nbc_skys
+www.notebookcheck.com###nbc_leftb
+www.notebookcheck.com##.intro-tags
+www.notebookcheck.com##.intro-author > [href="#"]
+www.notebookcheck.com##.ttcl_3
+www.notebookcheck.com##.journalist_bottom
+www.notebookcheck.com##.forum_comment_button
+www.notebookcheck.com##.prev_next_news
+www.notebookcheck.com##.csc-frame-invisible
+www.notebookcheck.com##.socialarea
+www.notebookcheck.com###nbc_forum_comments
+www.notebookcheck.com###nbc_belowcontent > div:nth-of-type(1)
+www.notebookcheck.com##.affiliate-info
+www.notebookcheck.com##a[href="#"]:nth-of-type(2)
+www.notebookcheck.com##a[href="#"]:nth-of-type(3)
+www.notebookcheck.com##[href="https://www.notebookcheck.com/Datenschutzerklaerung.748336.0.html"]
+!mobile
+www.notebookcheck.com##.moremenu
+www.notebookcheck.com##.first_incontent

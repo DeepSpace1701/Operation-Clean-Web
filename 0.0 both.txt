@@ -422,3 +422,7 @@ www.welt.de##.c-page-footer-navigation__link-main.c-page-footer-navigation__list
 www.welt.de##.c-page-footer-navigation__link-main.c-page-footer-navigation__list:nth-of-type(2)
 www.welt.de##.c-page-footer__section:nth-of-type(2) > .c-page-footer-navigation__list
 www.welt.de##.c-page-footer__section--has-no-border
+www.welt.de##.c-oembed--is-podigee-tts
+www.welt.de###la-paperboy-widget
+!small line at bottom
+www.welt.de##.u-is-hidden-print

@@ -3,5 +3,6 @@
 ##.amp-outbrain
 
 ! 2024-02-13 https://amp.focus.de
-!should remove the no connection messages from GAds, maybe also some ads itself if you don't have a network Adblocker (full was /gampad/ads$subdocument)
-||securepubads.g.doubleclick.net
+!should remove the no connection messages from GAds, maybe also some ads itself if you don't have a network Adblocker (full was /gampad/ads$subdocument) (was securepubads.g.)
+!there where two different URLs and just doubleclick seems to work for both of them, although I networked blocked it I will leave it be here
+||doubleclick.net

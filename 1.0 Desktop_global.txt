@@ -5,3 +5,6 @@
 !should remove the no connection messages from Gads, maybe also some ads itself if you don't have a network Adblocker (full was /gampad/ads$subdocument) (was securepubads.g.)
 !there where two different URLs and just doubleclick seems to work for both of them, although I networked blocked it I will leave it be here
 ||doubleclick.net
+
+!Some newssites are based on the same layout and have the BeepSlot stuff for their ads, including some that are not possible to network-block because they have the same URL as the site itself. So I'm including it here now, but check the sites later for other things.
+##.id-TBeepSlot

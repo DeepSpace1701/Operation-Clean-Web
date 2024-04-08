@@ -19,6 +19,7 @@ www.pokewiki.de###gl-topbar-bg
 ||www.pokewiki.de/skins/PokeWiki/resources/skins.pokewiki.styles.legacy/images/monsterball.png$image
 ||www.pokewiki.de/skins/PokeWiki/resources/skins.pokewiki.styles.legacy/images/encypoke.png$image
 ||www.pokewiki.de/skins/PokeWiki/resources/skins.pokewiki.styles.legacy/images/logo.png$image
+!www.pokewiki.de###pw-logobg
 www.pokewiki.de###siteNotice
 www.pokewiki.de###ad1
 www.pokewiki.de###ad2
@@ -31,9 +32,9 @@ www.pokewiki.de###ca-ve-edit
 pokewiki.de###editpage-copywarn > div:nth-of-type(2)
 pokewiki.de###editpage-copywarn > p
 !/images/tv
-www.pokewiki.de##.foot
+!www.pokewiki.de##.foot
 ! 2024-02-03 https://www.pokewiki.de
-www.pokewiki.de###logo
+!www.pokewiki.de###logo
 
 ! 2024-01-02 https://www.youtube.com
 www.youtube.com###country-code

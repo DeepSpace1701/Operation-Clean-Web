@@ -16,7 +16,7 @@ www.gog.com##.game-details__galaxy-message
 
 ! 2024-01-02 https://www.pokewiki.de
 www.pokewiki.de###gl-topbar-bg
-!||www.pokewiki.de/skins/PokeWiki/resources/skins.pokewiki.styles.legacy/images/monsterball.png$image
+||www.pokewiki.de/skins/PokeWiki/resources/skins.pokewiki.styles.legacy/images/monsterball.png
 !||www.pokewiki.de/skins/PokeWiki/resources/skins.pokewiki.styles.legacy/images/encypoke.png$image
 !||www.pokewiki.de/skins/PokeWiki/resources/skins.pokewiki.styles.legacy/images/logo.png$image
 www.pokewiki.de###pw-logobg

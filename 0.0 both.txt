@@ -33,6 +33,12 @@ pokewiki.de###editpage-copywarn > div:nth-of-type(2)
 pokewiki.de###editpage-copywarn > p
 !/images/tv
 pokewiki.de##.foot
+pokewiki.de##.mw-editsection-visualeditor
+pokewiki.de##.mw-editsection-divider
+pokewiki.de##.mw-pager-tools.mw-changeslist-links
+pokewiki.de##.mw-changeslist-separator:nth-of-type(5)
+pokewiki.de##.mw-changeslist-links .mw-usertoollinks-talk
+pokewiki.de##.mw-changeslist-links.mw-usertoollinks
 
 ! 2024-01-02 https://www.youtube.com
 www.youtube.com###country-code
@@ -121,15 +127,17 @@ buyee.jp##.jump
 buyee.jp##div.bottom_bt_wrap:nth-of-type(3)
 buyee.jp##div.recommendItem--wide.recommendItem > .recommendItem__list
 buyee.jp##.bidInput__alipay
-buyee.jp##li:nth-of-type(3)
+!buyee.jp##li:nth-of-type(3) (this removed the my account button as well)
 buyee.jp##.complete-bid-reccommend
 buyee.jp##.item_caps
-buyee.jp##.googleTranslate
+!buyee.jp##.googleTranslate (ok why did I include this when it removes the ability to translate listings)
 buyee.jp##.selected.bidInput__deliveryMethodItem > .bidInput__radioText
 buyee.jp##.selected.bidInput__deliveryMethodItem > .bidInput__deliveryFeeTitle
 buyee.jp##.rcmd_title
 !banner for "new" users showing despite I use it for months now and I am logged it
 buyee.jp##.guide
+buyee.jp##.sns_list
+buyee.jp##.payment_list
 
 ! 2024-02-02 https://www.facebook.com
 !Statuses at the top

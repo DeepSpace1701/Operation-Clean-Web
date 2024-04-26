@@ -9,3 +9,6 @@
 
 !Some newssites are based on the same layout and have the BeepSlot stuff for their ads, including some that are not possible to network-block because they have the same URL as the site itself. So I'm including it here now, but check the sites later for other things.
 ##.id-TBeepSlot
+
+*ads.js$script
+*pagead.js$script

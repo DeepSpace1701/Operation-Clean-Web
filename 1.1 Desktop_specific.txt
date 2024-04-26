@@ -79,33 +79,33 @@ www.businessinsider.de##.bi-sp-reject-all
 
 ! 2023-12-31 https://www.t-online.de
 !top bar
-www.t-online.de##.css-1x2681d
+!www.t-online.de##.css-1x2681d
 !search bar
-www.t-online.de##form
+!www.t-online.de##form
 !navigation crap
-www.t-online.de##.css-9uu57o
+!www.t-online.de##.css-9uu57o
 !magenta line
-www.t-online.de##.css-1alt6ib
+!www.t-online.de##.css-1alt6ib
 !breadcrumbs
-www.t-online.de##.css-imcp1n
+!www.t-online.de##.css-imcp1n
 !ad fields, top ad field
-www.t-online.de##.sdgSlotContainer
-www.t-online.de##.css-2k2lok
+!www.t-online.de##.sdgSlotContainer
+!www.t-online.de##.css-2k2lok
 !ticker
-www.t-online.de##.css-yk5lvi
+!www.t-online.de##.css-yk5lvi
 !sidebar
-www.t-online.de##.css-1vtmyv2
+!www.t-online.de##.css-1vtmyv2
 !subheadline
-www.t-online.de##.css-4i5130
+!www.t-online.de##.css-4i5130
 !social bar
-www.t-online.de##.css-16w7hqw
+!www.t-online.de##.css-16w7hqw
 !ads below article
-www.t-online.de##.css-1sqgcdq
-www.t-online.de##.css-1fnsikk
-www.t-online.de##.css-e85yjp
-www.t-online.de##.css-qrqbal
+!www.t-online.de##.css-1sqgcdq
+!www.t-online.de##.css-1fnsikk
+!www.t-online.de##.css-e85yjp
+!www.t-online.de##.css-qrqbal
 !co2 neutrale
-www.t-online.de##.css-14kyj6h > a.css-1mqt6yl:nth-of-type(2)
+!www.t-online.de##.css-14kyj6h > a.css-1mqt6yl:nth-of-type(2)
 
 ! 2023-12-31 https://www.pcwelt.de
 www.pcwelt.de##.subscribers-modal-container

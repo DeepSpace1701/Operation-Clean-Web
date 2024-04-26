@@ -50,30 +50,30 @@ www.businessinsider.de##.bi-sp-reject-all
 
 ! 2023-12-31 https://www.t-online.de
 !search
-www.t-online.de##.css-lstucw
+!www.t-online.de##.css-lstucw
 !header stuff
-www.t-online.de##.css-imcp1n
+!www.t-online.de##.css-imcp1n
 !magenta line
-www.t-online.de##.css-1i9epqp
+!www.t-online.de##.css-1i9epqp
 !ticker
-www.t-online.de##.css-yk5lvi
+!www.t-online.de##.css-yk5lvi
 !subheadline
-www.t-online.de##.css-4i5130
+!www.t-online.de##.css-4i5130
 !time to read
-www.t-online.de##span.css-1qrq0jm:nth-of-type(2)
+!www.t-online.de##span.css-1qrq0jm:nth-of-type(2)
 !socialbar
-www.t-online.de##.css-16w7hqw
+!www.t-online.de##.css-16w7hqw
 !adfield
-www.t-online.de##.css-12xre5y
+!www.t-online.de##.css-12xre5y
 !ads below article
-www.t-online.de##.css-1fnsikk
-www.t-online.de##.css-1sqgcdq
-www.t-online.de##.css-e85yjp
-www.t-online.de###stickyfooter
-www.t-online.de##.css-qrqbal
+!www.t-online.de##.css-1fnsikk
+!www.t-online.de##.css-1sqgcdq
+!www.t-online.de##.css-e85yjp
+!www.t-online.de###stickyfooter
+!www.t-online.de##.css-qrqbal
 !co2 neutrale
-www.t-online.de##a.css-1mqt6yl > .css-zjik7 > .css-4zleql
-www.t-online.de##.css-170a2tk
+!www.t-online.de##a.css-1mqt6yl > .css-zjik7 > .css-4zleql
+!www.t-online.de##.css-170a2tk
 
 ! 2023-12-31 https://www.pcwelt.de
 www.pcwelt.de###mobileNav-open-button

@@ -138,6 +138,7 @@ buyee.jp##.rcmd_title
 buyee.jp##.guide
 buyee.jp##.sns_list
 buyee.jp##.payment_list
+buyee.jp##.cookiePolicyPopup
 
 ! 2024-02-02 https://www.facebook.com
 !Statuses at the top
@@ -525,3 +526,37 @@ www.amazon.de###sc-secondary-list
 www.amazon.de###cart-about-cart-warning > p
 www.amazon.de###sc-about > p
 www.amazon.de##.a-link-expander.no-link.a-expander-inline-header.a-declarative.a-expander-header
+
+! 2024-03-17 https://www.paypal.com
+www.paypal.com##.PayWith_bnplBannerContainer_nYPB0
+www.paypal.com##.PayWith_header_3w1y1
+www.paypal.com##.PayLater_container_1dobj
+www.paypal.com##.GiveAtCheckout_gacContainer_TcmAd
+
+! 2024-02-26 https://www.reddit.com
+www.reddit.com##.promotedlink
+
+! 2024-04-26 https://www.fr.de
+||www.fr.de/bilder*.jpg$image
+www.fr.de##.lp_featured
+www.fr.de##.id-HeaderDoubleGum-element--home
+www.fr.de##.id-HeaderDoubleGum-element--search
+www.fr.de##.id-HeaderDoubleGum-element--ippenMedia
+www.fr.de##.id-HeaderDoubleGum-element--navigationTrigger
+www.fr.de##.id-DonaldBreadcrumb
+www.fr.de##.id-Story-interactionBar
+www.fr.de##.id-StoryElement-leadText
+www.fr.de##.id-StoryElement-embed
+!||disqus.com$subdocument (disabled because the folliwing rule removes it anyways)
+www.fr.de##.id-Comments
+!app is mobile only
+www.fr.de##.id-HeaderDoubleGum-element--app
+www.fr.de##.wv_story_el_insertedAd
+www.fr.de##.id-StoryElement-intestitialLink
+www.fr.de##.id-Footer-el:nth-of-type(3)
+www.fr.de##.id-Footer-el:nth-of-type(4)
+www.fr.de##.id-Footer-el:nth-of-type(7)
+www.fr.de##.id-Footer-el:nth-of-type(8)
+www.fr.de##.id-Footer-el:nth-of-type(9)
+www.fr.de##.id-Footer-el:nth-of-type(10)
+www.fr.de##.id-Recommendation

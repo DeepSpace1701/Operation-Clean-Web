@@ -435,3 +435,93 @@ www.welt.de###la-paperboy-widget
 !small line at bottom
 www.welt.de##.u-is-hidden-print
 www.welt.de##.c-oembed--is-shown
+
+! 2022-07-13 https://www.amazon.de (blunt copy of everything I had in my previous local list, because I am lazy)
+www.amazon.de##.maple-banner
+www.amazon.de##.a-spacing-small.a-alert-warning.a-alert.a-box
+www.amazon.de###sellYoursHere_feature_div
+!www.amazon.de##.a-span-last.a-span5.a-column das ist zurückschicken Auswahl!
+www.amazon.de##.a-divider-section.a-divider
+www.amazon.de###averageCustomerReviews_feature_div
+www.amazon.de###imageBlock_feature_div > .a-declarative
+www.amazon.de##.a-text-center.page-container.a-grid-center.a-grid-vertical-align.a-row > .a-span-last.a-span2.a-column
+www.amazon.de##.a-col-left.a-fixed-right-grid-col > .celwidget.cacheable-spp-section.a-row
+www.amazon.de##.nav-locked.nav-flyout.nav-ewcFlyout.nav-ewc-lazy-align
+www.amazon.de###nav-flyout-anchor
+www.amazon.de###percolate-ui-ilm_div
+www.amazon.de###amsDetailRight_feature_div
+www.amazon.de###dp-ads-center-promo_feature_div
+www.amazon.de##.reviews-display-ad.a-section
+www.amazon.de###ape_Detail_desktop-detail-ilm_desktop_iframe
+www.amazon.de##.pd_rd_r-4a9504b7-c13d-4483-866b-34057a2a0d7e.pd_rd_wg-socsh.pf_rd_r-BSPEDF6VS47KQ0XAT9X0.pf_rd_p-2c5d4650-9f71-4dc8-96a7-1185c8ebedf8.content-id-amzn1\.sym\.2c5d4650-9f71-4dc8-96a7-1185c8ebedf8.pd_rd_w-ssPji.celwidget
+www.amazon.de##.a-spacing-medium-plus.celwidget.a-alert-warning.a-alert.a-box
+!www.amazon.de##.sg-col-4-of-20.sg-col.sg-col-4-of-16.s-matching-dir.sg-col-4-of-12
+www.amazon.de###proceed-to-checkout-desktop-container > .sc-java-remote-feature.a-section
+www.amazon.de##.place-order-condition
+www.amazon.de##.condensed-line-height.a-text-center.a-spacing-small.a-row
+www.amazon.de##.a-text-center.page-container.a-grid-center.a-grid-vertical-align.a-row > div.a-span2
+!www.amazon.de##.a-spacing-large.a-section Das ist Inputfeld in Rückgabe
+www.amazon.de##.a-col-right.rightAdsSection.a-fixed-right-grid-col > .celwidget > div#marketing.a-spacing-base.a-section
+www.amazon.de###a-page > .copilot-secure-display
+www.amazon.de###navBackToTop
+www.amazon.de##.spUl.a-padding-none.a-spacing-mini.a-section
+www.amazon.de##.a-box-inner > div.a-row > .a-span-last.a-span4.a-column
+!blendet bestellung aus Hocker
+!www.amazon.de##div.a-box:nth-of-type(3) > .a-box-inner
+!www.amazon.de##div.a-box:nth-of-type(3)
+www.amazon.de##.amzn-safe-frame-container
+www.amazon.de##.widgetId\=feedback.template\=FEEDBACK.slot\=MAIN.celwidget.s-widget-container-height-medium.s-spacing-medium.s-widget-container
+!www.amazon.de###dp > table
+www.amazon.de###nav-main > .nav-right
+www.amazon.de###hero-quick-promo
+www.amazon.de###sfsbLegalMessage_feature_div > .a-spacing-base.a-section
+!www.amazon.de##.js-episode-offers
+www.amazon.de##._10rk8T._Oe4Xf
+www.amazon.de##.dv-dp-node-watchparty
+www.amazon.de##.dv-dp-node-download
+!www.amazon.de##._3sJF7y
+www.amazon.de##div._2hn8r7:nth-of-type(1)
+www.amazon.de##[href="#customer-review-section"]
+www.amazon.de##._3sJF7y > ._36qUej
+www.amazon.de##._3ris48.js-deeplinkable
+www.amazon.de##._2tr-LP
+www.amazon.de##._19ueOW
+www.amazon.de##.FDDgZI
+www.amazon.de###ewc-content
+www.amazon.de##.dv-signup-terms
+www.amazon.de##div#SmallPrint > p
+www.amazon.de##.ac-badge-wrapper
+www.amazon.de###centerCol > hr
+www.amazon.de###vatMessage_feature_div
+www.amazon.de###deliveryPriceBadging_feature_div
+www.amazon.de###freeReturns_feature_div
+www.amazon.de###alternativeOfferEligibilityMessaging_feature_div
+www.amazon.de###secureTransaction_feature_div
+www.amazon.de###spc-order-summary > .break-word
+!www.amazon.de##.a-divider-normal.a-spacing-small
+www.amazon.de###subtotals-marketplace-table > tbody > .order-summary-grand-total > .cell-separator
+!www.amazon.de##div.a-size-mini.a-spacing-mini.a-row:nth-of-type(6)
+www.amazon.de###terms-of-condition-section
+www.amazon.de###cbcc_banner
+www.amazon.de##.sc-gift-option-container
+www.amazon.de##.ssf-share-trigger
+www.amazon.de###suggested-qna
+www.amazon.de##.ewc-beacon
+www.amazon.de###ad-endcap-1_feature_div
+www.amazon.de##.ewc-beacon
+www.amazon.de##.sc-gift
+www.amazon.de##ms3-selection
+www.amazon.de##.B2FHQm._3TpUE3
+www.amazon.de##.typ-upsell-slot-styling
+www.amazon.de###percolate-ui-lpo_div
+www.amazon.de###creturns-return-policy-content
+www.amazon.de##.simpleBundleFeatureContainer
+www.amazon.de###detailPageGifting_feature_div
+www.amazon.de###contextualIngressPtPin
+www.amazon.de###ape_YourOrders_desktop-yo-footer-1_desktop_iframe
+www.amazon.de###ape_YourOrders_desktop-yo-footer-1_desktop_placement
+www.amazon.de###payment-options-expander-header
+www.amazon.de###sc-secondary-list
+www.amazon.de###cart-about-cart-warning > p
+www.amazon.de###sc-about > p
+www.amazon.de##.a-link-expander.no-link.a-expander-inline-header.a-declarative.a-expander-header

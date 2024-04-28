@@ -124,7 +124,7 @@ buyee.jp##.bidInput__notes
 buyee.jp##li.bidInput__deliveryMethodItem:nth-of-type(2)
 buyee.jp##.inner_alert.red > p
 buyee.jp##.jump
-buyee.jp##div.bottom_bt_wrap:nth-of-type(3)
+buyee.jp##.btn_wrap
 buyee.jp##div.recommendItem--wide.recommendItem > .recommendItem__list
 buyee.jp##.bidInput__alipay
 !buyee.jp##li:nth-of-type(3) (this removed the my account button as well)

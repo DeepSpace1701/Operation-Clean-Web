@@ -189,6 +189,7 @@ www.gamepro.de##.grid
 www.gamepro.de###footer-bold
 ||static.cgames.de/gp_cb/assets/core/images/webedia_logo_dark.svg$image
 ||www.co2neutralwebsite.de/icons/logo/transparent_de.svg$image
+www.gamepro.de##.wbd-toolbox
 
 ! 2024-02-06 https://www.computerbase.de
 www.computerbase.de##.mainmenu__a

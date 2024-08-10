@@ -20,25 +20,25 @@ pokewiki.de###gl-topbar-bg
 ||pokewiki.de/skins/PokeWiki/resources/skins.pokewiki.styles.legacy/images/encypoke.png$image
 ||pokewiki.de/skins/PokeWiki/resources/skins.pokewiki.styles.legacy/images/logo.png$image
 !pokewiki.de###pw-logobg
-pokewiki.de###siteNotice
-pokewiki.de###ad1
-pokewiki.de###ad2
-pokewiki.de###footer-socialshare
-pokewiki.de###footer-icons
-pokewiki.de###footer-info-copyright
-pokewiki.de###discord-online
-pokewiki.de###uploadtext
-pokewiki.de###ca-ve-edit
-pokewiki.de###editpage-copywarn > div:nth-of-type(2)
-pokewiki.de###editpage-copywarn > p
+pokewiki.de##^#siteNotice
+pokewiki.de##^#ad1
+pokewiki.de##^#ad2
+pokewiki.de##^#footer-socialshare
+pokewiki.de##^#footer-icons
+pokewiki.de##^#footer-info-copyright
+pokewiki.de##^#discord-online
+pokewiki.de##^#uploadtext
+pokewiki.de##^#ca-ve-edit
+pokewiki.de##^#editpage-copywarn > div:nth-of-type(2)
+pokewiki.de##^#editpage-copywarn > p
 !/images/tv
-pokewiki.de##.foot
-pokewiki.de##.mw-editsection-visualeditor
-pokewiki.de##.mw-editsection-divider
-pokewiki.de##.mw-pager-tools.mw-changeslist-links
-pokewiki.de##.mw-changeslist-separator:nth-of-type(5)
-pokewiki.de##.mw-changeslist-links .mw-usertoollinks-talk
-pokewiki.de##.mw-changeslist-links.mw-usertoollinks
+pokewiki.de##^.foot
+pokewiki.de##^.mw-editsection-visualeditor
+pokewiki.de##^.mw-editsection-divider
+pokewiki.de##^.mw-pager-tools.mw-changeslist-links
+pokewiki.de##^.mw-changeslist-separator:nth-of-type(5)
+pokewiki.de##^.mw-changeslist-links .mw-usertoollinks-talk
+pokewiki.de##^.mw-changeslist-links.mw-usertoollinks
 
 ! 2024-01-02 https://www.youtube.com
 www.youtube.com###country-code

@@ -41,24 +41,24 @@ pokewiki.de##^.mw-changeslist-links .mw-usertoollinks-talk
 pokewiki.de##^.mw-changeslist-links.mw-usertoollinks
 
 ! 2024-01-02 https://www.youtube.com
-www.youtube.com##^#country-code
-www.youtube.com##^#voice-search-button
-www.youtube.com##^#search-icon-legacy
-www.youtube.com##^.ryd-tooltip
-www.youtube.com##^.ytp-chrome-top
-www.youtube.com##^.ytp-fullerscreen-edu-button
-www.youtube.com##^.ytp-paid-content-overlay
+www.youtube.com###country-code
+www.youtube.com###voice-search-button
+www.youtube.com###search-icon-legacy
+www.youtube.com##.ryd-tooltip
+www.youtube.com##.ytp-chrome-top
+www.youtube.com##.ytp-fullerscreen-edu-button
+www.youtube.com##.ytp-paid-content-overlay
 ! 2024-01-07 https://www.youtube.com
 !probably the Livestream badge next to the Subscription list on the left
-www.youtube.com##^.ytd-guide-entry-renderer.style-scope.guide-entry-badge
+www.youtube.com##.ytd-guide-entry-renderer.style-scope.guide-entry-badge
 !YT Hashtags next to the upload date
-www.youtube.com##^.yt-formatted-string.style-scope.bold.yt-simple-endpoint
-www.youtube.com##^.ytd-in-feed-ad-layout-renderer
-www.youtube.com##^.ytd-badge-supported-renderer
-www.youtube.com##^#donation-shelf
-www.youtube.com##^.ytd-ad-slot-renderer
-www.youtube.com##^.ytp-miniplayer-button
-www.youtube.com##^.ytp-size-button
+www.youtube.com##.yt-formatted-string.style-scope.bold.yt-simple-endpoint
+www.youtube.com##.ytd-in-feed-ad-layout-renderer
+www.youtube.com##.ytd-badge-supported-renderer
+www.youtube.com###donation-shelf
+www.youtube.com##.ytd-ad-slot-renderer
+www.youtube.com##.ytp-miniplayer-button
+www.youtube.com##.ytp-size-button
 
 ! 2024-01-02 https://wabetainfo.com
 wabetainfo.com###moove_gdpr_cookie_info_bar

@@ -1,6 +1,12 @@
 This is a semi-private hosting of filterlists for uBlock Origin.
 The lists will only contain UI elements, not Ads because I use a network Adblocker.
 
+_____ 
+Update (01.10.2024): After learing about things like :has-text() and ^, I decided to start over yet again. Because not only will these two make it more precice, I also noticed that I blocked content on start pages of some sites, instead of only the article itself. That is because I simply opened the site, added stuff I want to block and then went my way. But I never checked if any of these things also block thins on other pages, like the main page. And with :has-text() making stuff more precice instead of only using nth-of-type in some cases, and ^ allowing to circumvent some things loading in the first place, it is better to start from scratch. I will move the current lists into a subdirectory and then create new ones. So everyone who wants to use stuff from there can still do so. I am not sure when I will start, it might take another month or two.
+Oh, and I will also shrink it down to two lists: Desktop and Mobile with the "both" list removed. Even if some sites still end up having the same rules on both devices, no more searching in both and mobile. Instead, I will move more extensive things to mobile-extensive or something like that. For exaample, when I remove a header that is bugging around when scrolling, not everyone might want to have that removed. Even though it's lagging.
+_____
+
+Old text (unchanged):
 I wanted to put it online for easier synching between devices. However, the link to the RAW file has a token/key added to it when the repository is set to private. So I had do make it public to avoid the need to always change the link when I pushed an update.
 
 The lists will contain german and english websites I visit personally and also sites other people and friends send me. Feel free to use (part of) the list for yourself (no need to ask, just give credit) or to suggest a site you want me to take care of (if I can, more to that later). However, this was intended to be private and I am not going to add support for every site 100 people send in. If there are a few I will take a look, but not if it gets overwhelming. In that case, you can just create your own list and use it along with your normal Adblocker or the lists in this repository.

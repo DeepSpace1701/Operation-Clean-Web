@@ -1,0 +1,44 @@
+! 11.03.2025 https://www.pokewiki.de
+! side-wide
+||pokewiki.de/skins/PokeWiki/resources/pw/logo_desktop*$image
+||pokewiki.de/skins/PokeWiki/resources/pw/logo_desktop_hd.png$image
+pokewiki.de##^.sitenotice
+! Footer Inhaltslizenz
+pokewiki.de##^#footer-info-copyright
+pokewiki.de##^#footer-icons
+||pokewiki.de/resources/assets/poweredby_mediawiki.svg$image
+||pokewiki.de/images/pw/cc-by-sa.svg$image
+||pokewiki.de/images/arrow-up.svg$image
+pokewiki.de##^[href="/Pok%C3%A9Wiki:Datenschutz"]
+
+! LÄ
+pokewiki.de##^i:has-text(Es finden derzeit keine Abstimmungen statt.)
+pokewiki.de##^i:has-text(Es liegen derzeit keine Nominierungen vor.)
+pokewiki.de##^div.c:has-text(Auf dieser Seite kannst du die letzten Änderungen im PokéWiki nachverfolgen.)
+pokewiki.de##div.c:has-text(Legende: Administrator | Redakteur)
+pokewiki.de##^.mw-changeslist-legend
+! | in Unterschied/Versionen; "Versionen"
+pokewiki.de##^.mw-changeslist-links:nth-of-type(1) > span:nth-of-type(2)
+pokewiki.de##^.mw-changeslist-history
+! zurücksetzen/danken
+pokewiki.de##^.mw-pager-tools
+
+! Prev-next und LÄ (Diskussion | Beiträge)
+pokewiki.de##^.mw-usertoollinks
+
+! Beitragszähler
+pokewiki.de##^p:has-text(Mit diesem Tool kannst du die Bearbeitungsanzahl eines bestimmten Benutzers in allen Namensräumen anzeigen.)
+
+! Editor
+!Lizenzhinweise
+pokewiki.de##^#editpage-copywarn > :nth-of-type(2)
+pokewiki.de##^#editpage-copywarn > p
+! "Zusammenfassung"
+pokewiki.de##^#wpSummaryLabel .oo-ui-fieldLayout-header:has-text(Zusammenfassung)
+! Dateiupload
+pokewiki.de##^#uploadtext
+pokewiki.de##^.htmlform-tip:has-text(Maximale Dateigröße:)
+pokewiki.de##^label:has-text(Beschreibung/Quelle:)
+
+! .css, .js
+pokewiki.de##^#mw-clearyourcache

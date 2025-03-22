@@ -1,19 +1,21 @@
 ! 11.03.2025 https://www.pokewiki.de
-!Ads
+! Ads
 pokewiki.de##^.wrb-desktop
 
-!Ui
+! Ui
 ! side-wide
 ||pokewiki.de/skins/PokeWiki/resources/pw/logo_desktop*$image
 ||pokewiki.de/skins/PokeWiki/resources/pw/logo_desktop_hd.png$image
+||pokewiki.de/skins/PokeWiki/resources/pw/greenchu_navigation.png$image
 pokewiki.de##^.sitenotice
+pokewiki.de##^.searchButton
 ! Footer Inhaltslizenz
 pokewiki.de##^#footer-info-copyright
+pokewiki.de##^#footer-places
 pokewiki.de##^#footer-icons
 ||pokewiki.de/resources/assets/poweredby_mediawiki.svg$image
 ||pokewiki.de/images/pw/cc-by-sa.svg$image
 ||pokewiki.de/images/arrow-up.svg$image
-pokewiki.de##^[href="/Pok%C3%A9Wiki:Datenschutz"]
 
 ! LÄ
 pokewiki.de##^i:has-text(Es finden derzeit keine Abstimmungen statt.)
@@ -29,6 +31,12 @@ pokewiki.de##^.mw-pager-tools
 
 ! Prev-next und LÄ (Diskussion | Beiträge)
 pokewiki.de##^.mw-usertoollinks
+! Versionsgeschichte
+pokewiki.de##^.mw-history-legend
+! Prev-next: Version bearbeiten
+pokewiki.de##^.mw-diff-edit
+! Mehrere Versionen zurücksetzen
+pokewiki.de##^mw-rollback-link
 
 ! Beitragszähler
 pokewiki.de##^p:has-text(Mit diesem Tool kannst du die Bearbeitungsanzahl eines bestimmten Benutzers in allen Namensräumen anzeigen.)
@@ -43,6 +51,8 @@ pokewiki.de##^#wpSummaryLabel .oo-ui-fieldLayout-header:has-text(Zusammenfassung
 pokewiki.de##^#uploadtext
 pokewiki.de##^.htmlform-tip:has-text(Maximale Dateigröße:)
 pokewiki.de##^label:has-text(Beschreibung/Quelle:)
+! Neuer Artikel
+pokewiki.de##^.mw-newarticletext
 
 ! .css, .js
 pokewiki.de##^#mw-clearyourcache

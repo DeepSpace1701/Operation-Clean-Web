@@ -1,6 +1,11 @@
 ! 11.03.2025 https://www.pokewiki.de
+!Ads
+pokewiki.de##^.wrb-desktop
+
+!Ui
 ! side-wide
-||pokewiki.de/skins/PokeWiki/resources/pw/logo_mobile.png$image
+||pokewiki.de/skins/PokeWiki/resources/pw/logo_desktop*$image
+||pokewiki.de/skins/PokeWiki/resources/pw/logo_desktop_hd.png$image
 pokewiki.de##^.sitenotice
 ! Footer Inhaltslizenz
 pokewiki.de##^#footer-info-copyright

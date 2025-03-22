@@ -1,27 +1,18 @@
-This is a semi-private hosting of filterlists for uBlock Origin.
-The lists will only contain UI elements, not Ads because I use a network Adblocker.
+And I revamped it yet again. I realized it makes no sense to have UI and Ads split into two lists. The idea made sense at first, but after some thoughts, it doesn't. Some sites don't have any ads, so I would just update one. And with some things it's difficult to decide if it's an ad or UI. The names got shorter (removing the weird `%20` from `1.2%20-%20Desktop%20UI`), so now it's just `Desktop.txt` and `Mobile.txt` (yes, I also forgot to add the `.txt`).
+Meaning it's only a list for Desktop and one for Mobile, instead of four. Some things only appear when you are on mobile (mobile-sized ad-fields) and some only appear on Desktop. So I will not mix them. The new `Ads.txt` will be for things like `ads.js`, image-based ads a DNS blocker cannot get rid of (because they come from the same URL as the main page) or things I blocked in my DNS. The Desktop/Mobile lists are only UI elements. And this time, I will make a proper dokumentation (comments), as I already planned before.
 
-_____ 
-Update (01.10.2024): After learing about things like :has-text() and ^, I decided to start over yet again. Because not only will these two make it more precice, I also noticed that I blocked content on start pages of some sites, instead of only the article itself. That is because I simply opened the site, added stuff I want to block and then went my way. But I never checked if any of these things also block thins on other pages, like the main page. And with :has-text() making stuff more precice instead of only using nth-of-type in some cases, and ^ allowing to circumvent some things loading in the first place, it is better to start from scratch. I will move the current lists into a subdirectory and then create new ones. So everyone who wants to use stuff from there can still do so. I am not sure when I will start, it might take another month or two.
-Oh, and I will also shrink it down to two lists: Desktop and Mobile with the "both" list removed. Even if some sites still end up having the same rules on both devices, no more searching in both and mobile. Instead, I will move more extensive things to mobile-extensive or something like that. For exaample, when I remove a header that is bugging around when scrolling, not everyone might want to have that removed. Even though it's lagging.
-_____
-
-Old text (unchanged):
-I wanted to put it online for easier synching between devices. However, the link to the RAW file has a token/key added to it when the repository is set to private. So I had do make it public to avoid the need to always change the link when I pushed an update.
-
-The lists will contain german and english websites I visit personally and also sites other people and friends send me. Feel free to use (part of) the list for yourself (no need to ask, just give credit) or to suggest a site you want me to take care of (if I can, more to that later). However, this was intended to be private and I am not going to add support for every site 100 people send in. If there are a few I will take a look, but not if it gets overwhelming. In that case, you can just create your own list and use it along with your normal Adblocker or the lists in this repository.
-
-As for "if I can", I haven't taken a single look into any documentation or have much knowledge about placeholders. So you might find the established lists from uBlock, AdGuard and co. more sophisitcated or whatever. However, since I use a network Adblocker and the other lists don't cover elements I want to get rid of, I always had my own collection. But synching it between various devices, especially if they are not my own, is tedious. So I decided to put it online (and rework it from scratch) where I only have to paste the links and can always sync it with one click, instead of uploading it to Google Drive etc.
-
-Also, I decided to split it up. Not only into desktop/mobile, but also into general and specific filters. The reason is pretty simple. When I had them as custom entrys in the extension itself, I just had to ! an entry and reload the site to see if it caused any trouble. But I still had to search the entire list and I never sorted it (put all entrys of one site together). So by splitting it, I can do two things:
-First, I can just uncheck one list (for example, the general filters) to see if it contains the troublemaker. Second, I can (maybe) save a bit of performance and filesize by excluding things that are only triggered on mobile devices (remember, Firefox for Android can run extensions, which includes uBlock). So my PC doesn't have to check for things that it doesn't even get and my phone doesn't have to waste any performance on stuff I don't need there. And due to screenspace, I will remove some footers or headers that are annoying on the phone because they waste half the screen or more, or are non-sticky headers that constantly pop in and out again when scrolling up and down, but are no problem on the PC. And it will make it a bit more easier to narrow down an issue because it's a bit more spread-out.
+Yes, you might ask, why don't split `Ads.txt` as well. But I don't want to. In fact, I can't, since there is no console on mobile and I can't check if some .js things get loaded there or not. And when I blocked it in my DNS, it will get blocked on all devices anyways.
 
 
-Now, an explanation for what global, specific and test are going to be:
-Global rules are obviously global rules. Things will go into specific first, but when I notice that some elements pop up again and again, like breadcrumbs, social bars, share bars (you can just copy the URL), id-beepspot, .ad etc (the Ad fields), then I consider making it a global rule. That will not only avoid adding multiple sites, but also automatically apply on non-supported sites. That will be a livesaver when only visiting them once since it means reduced eye-bleed without the need to do anything.
-A little note here, when I visited the uBlock repository to check the .gitattributes file for language marking, I saw that it is possible to make a rule apply to two or more sites by seperating them via comma. So instead of making it a global rule, it might already be enough to do it that way if it's just two or three sites. But things like breadcrumbs are on many sites, so unless a specific version only applys to one site, it will be made a global rule.
+As before, there will be three labels for Commits:
+`Added`: A site has been added the first time
+`Improved`: More rules for an existing site
+`Fixed`: Something didn't work
 
-With that, I pretty much explained what specific is going to be: The normal list that contains rules that only apply to one site.
 
-Test is going to include things I am uncertain about, for example there is a thing with amphtml-layout on some news-sites I haven't taken a closer look yet. It is just an seemingly endless list of amphtml stuff that appears to be without a pattern. So that will go into test first to see if it works always, if it changes and to make it quicker to find it when I want to compare that entry with the entry from another site.
-And because that is just for testing and confirmation, it will not bother the others who won't even have these lists active.
+But why am I even doing this in the first place, when there are plenty of lists out there? Well, they are mostly for ads. I use a DNS for blocking these and even without I already had a ton of rules for removing clutter. But it proved to be difficult to sync it to mobile Firefox, so I decided to put it here and just add the links. Then I only need to refresh them using the little clock button.
+`https://raw.githubusercontent.com/DeepSpace1701/Operation-Clean-Web/main/Ads.txt`
+`https://raw.githubusercontent.com/DeepSpace1701/Operation-Clean-Web/main/Desktop.txt`
+`https://raw.githubusercontent.com/DeepSpace1701/Operation-Clean-Web/main/Mobile.txt`
+
+That aside, I only use two lists for Cookies: `AdGuard – Cookie Notices` and `uBlock filters – Cookie Notices`.

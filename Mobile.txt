@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Mobile.txt
-! TimeUpdated: 2025-03-30T20:44:00+01:00
-! Version: 1.0.1.2
+! TimeUpdated: 2025-03-30T20:48:00+01:00
+! Version: 1.0.1.3
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -111,8 +111,9 @@ www.golem.de##^.topictags
 www.golem.de##^[id^="tusplit"]
 
 ! Unnesessary navigation Clutter (Prev/Next Buttons, prev-headline) (only appears on articles with more than one site)
-www.golem.de##^.gsnw-link__list-pages:has-text(›)
-www.golem.de##^.gsnw-link__list-pages:has-text(‹)
+! cannot have ^
+www.golem.de##.gsnw-link__list-pages:has-text(›)
+www.golem.de##.gsnw-link__list-pages:has-text(‹)
 
 ! Part of Paywall (Used site: https://www.golem.de/news/temporal-tables-zeitreisen-in-datenbanken-2503-194781.html)
 www.golem.de##^.paywall-footer

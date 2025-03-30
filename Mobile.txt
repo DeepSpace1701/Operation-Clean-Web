@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Mobile.txt
 ! TimeUpdated: 2025-03-30T20:44:00+01:00
-! Version: 1.0.1.1
+! Version: 1.0.1.2
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -84,7 +84,7 @@ www.golem.de##^.subscribe-newsletter
 ! Footer, Topic Collection
 www.golem.de##^.specialletters
 ||cpx.golem.de/cpx.php$image
-www.golem.de##^##.social-links
+www.golem.de##^.social-links
 www.golem.de##^#footer li:has-text(Themen)
 www.golem.de##^#footer li:has-text(Home)
 www.golem.de##^#footer li:has-text(RSS)

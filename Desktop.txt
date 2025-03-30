@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
-! TimeUpdated: 2025-03-30T09:51:00+01:00
-! Version: 1.0.0.0
+! TimeUpdated: 2025-03-30T20:32:00+01:00
+! Version: 1.0.1.0
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -61,3 +61,63 @@ pokewiki.de##^.mw-newarticletext
 
 ! .css, .js
 pokewiki.de##^#mw-clearyourcache
+
+
+
+! 30.03.2025 https://www.golem.de
+! Ads (.iqadlinetop is Desktop-only)
+www.golem.de##^[id^="iqadtile"]
+www.golem.de##^.iqadlinetop
+
+! UI (Homepage)
+! Header
+www.golem.de##^#header-nav-1
+www.golem.de##^#header-nav-2
+www.golem.de##^#gservices
+! Comments, Save Article
+www.golem.de##^.icons-wrapper
+! Golem-side Ads like Jobmarket, also applies to individual articles
+www.golem.de##^.supplementary
+! Recent comments
+www.golem.de##^#recently
+! Golem-side Picture-like Ads (Verlagsangebot)
+www.golem.de##^.li-reset
+www.golem.de##^.subscribe-newsletter
+! Footer, Topic Collection
+www.golem.de##^.specialletters
+www.golem.de##^.topics
+www.golem.de##^#footer li:has-text(Home)
+www.golem.de##^#footer li:has-text(RSS)
+www.golem.de##^#footer li:has-text(Zusatzdienste)
+www.golem.de##^#footer li:has-text(Stellenmarkt)
+www.golem.de##^#footer li:has-text(Karrierewelt)
+www.golem.de##^#footer li:has-text(Impressum)
+www.golem.de##^#footer li:has-text(Leitbild)
+www.golem.de##^#footer li:has-text(Jobs)
+www.golem.de##^#footer li:has-text(Datenschutz)
+www.golem.de##^#footer li:has-text(Cookies & Tracking)
+www.golem.de##^#footer li:has-text(Werbung)
+www.golem.de##^#footer li:has-text(Abo kündigen)
+||cpx.golem.de/cpx.php$image
+
+! Article (used: https://www.golem.de/news/vor-30-jahren-als-die-naechste-generation-von-star-trek-ins-kino-aufbrach-2502-193123.html)
+! Stuff below article, Social Tools both above and below
+www.golem.de##^.social-tools
+! Reklame
+www.golem.de##^.tags
+www.golem.de##^.topictags
+! the entire other article section
+www.golem.de##^.wraptusplit
+
+! Unnesessary navigation Clutter (Prev/Next Buttons, prev-headline) (only appears on articles with more than one site)
+! jatocb is headline arrow, jtoc is number arrow. atoc-prev is prev-headline)
+www.golem.de##^[id^="jtocb_next"]
+www.golem.de##^[id^="jtoc_next"]
+www.golem.de##^[id^="jtocb_prev"]
+www.golem.de##^[id^="jtoc_prev"]
+www.golem.de##^[id^="atoc_prev"]
+
+! Part of Paywall (Used site: https://www.golem.de/news/temporal-tables-zeitreisen-in-datenbanken-2503-194781.html)
+www.golem.de##^.paywall-footer
+! Other Paywall articles
+www.golem.de##^.promos

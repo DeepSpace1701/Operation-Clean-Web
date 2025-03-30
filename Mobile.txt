@@ -1,3 +1,8 @@
+! Title: DeepSpace/Mobile.txt
+! TimeUpdated: 2025-03-30T09:51:00+01:00
+! Version: 1.0.0.0
+! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
+
 ! 11.03.2025 https://www.pokewiki.de
 ! Ads
 pokewiki.de##^.wrb-mobile
@@ -40,7 +45,7 @@ pokewiki.de##^mw-rollback-link
 pokewiki.de##^p:has-text(Mit diesem Tool kannst du die Bearbeitungsanzahl eines bestimmten Benutzers in allen Namensräumen anzeigen.)
 
 ! Editor
-!Lizenzhinweise
+! Lizenzhinweise
 pokewiki.de##^#editpage-copywarn > :nth-of-type(2)
 pokewiki.de##^#editpage-copywarn > p
 ! "Zusammenfassung"

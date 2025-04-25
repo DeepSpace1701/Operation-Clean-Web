@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
 ! TimeUpdated: 2025-03-30T20:32:00+01:00
-! Version: 1.0.1.0
+! Version: 1.0.1.5
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -63,6 +63,56 @@ pokewiki.de##^.mw-newarticletext
 pokewiki.de##^#mw-clearyourcache
 
 
+! 24.04.2025 https://www.youtube.com
+! Main page
+! Logo Top left
+www.youtube.com###country-code
+! Searchbar | yes, it looks a bit ugly without the Search Button, but I always press Enter
+www.youtube.com###voice-search-button
+www.youtube.com##.ytSearchboxComponentSearchButton
+! Upload a video, I have it as a bookmark
+www.youtube.com##ytd-button-renderer:has-text(Erstellen)
+! The small red "islive" icons in the channel list on the left
+www.youtube.com##.guide-entry-badge
+! I can see that they are Shorts, no need to tell me
+www.youtube.com###rich-shelf-header-container:has-text(Shorts)
+! A row, prompting to rate a watched video with 1-5 stars
+www.youtube.com##ytd-rich-section-renderer:has-text(Wie hat dir dieses Video gefallen?)
+! The three-dot action menu content that all videos have, also works for the videopage itself (watch?v=)
+www.youtube.com##ytd-menu-service-item-renderer:has-text(In die Wiedergabeliste)
+www.youtube.com##ytd-menu-service-item-renderer:has-text(Teilen)
+www.youtube.com##ytd-menu-service-item-renderer:has-text(Melden)
+www.youtube.com##ytd-menu-service-item-renderer:has-text(Thanks)
+www.youtube.com##ytd-menu-service-item-renderer:has-text(Clip)
+
+! Video page:
+! was not placed inside the three-dot menu, but Save to Playlist always is for no reason...
+www.youtube.com##.yt-spec-button-shape-next:has-text(Teilen)
+! white line below the like/dislike counter
+www.youtube.com##.ryd-tooltip
+! If the video had a Chat
+www.youtube.com###teaser-carousel:has-text(Chatwiedergabe)
+! Shop row below video description
+www.youtube.com##ytd-merch-shelf-renderer
+! Channels like Crunchyroll have paid Subs, made has-text in case it also matches buy movie/episode
+www.youtube.com###purchase-button:has-text(Testzeitraum beginnen)
+! Hastags in the video description, didn't manage to make a better rule
+www.youtube.com##a.bold.yt-formatted-string.style-scope.yt-simple-endpoint
+
+! Videoplayer
+! "Enthält bezahlte Werbung" top left corner
+www.youtube.com##.ytp-paid-content-overlay
+! Fullscreen: small downward arrow
+www.youtube.com##.ytp-fullerscreen-edu-button
+! Fullscreen: Icons top right
+www.youtube.com##.ytp-chrome-top-buttons
+! Playlist (used Watch Later)
+www.youtube.com##.immersive-header-background-wrapper
+www.youtube.com###alerts:has-text(Nicht verfügbare Videos werden nicht angezeigt)
+
+
+
+! Everything below is a news-like site
 
 ! 30.03.2025 https://www.golem.de
 ! Ads (.iqadlinetop is Desktop-only)

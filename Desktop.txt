@@ -1,5 +1,5 @@
 ! Title: DeepSpace/Desktop.txt
-! Version: 1.0.1.6
+! Version: 1.0.1.7
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -77,12 +77,17 @@ www.youtube.com##.guide-entry-badge
 www.youtube.com###rich-shelf-header-container:has-text(Shorts)
 ! A row, prompting to rate a watched video with 1-5 stars
 www.youtube.com##ytd-rich-section-renderer:has-text(Wie hat dir dieses Video gefallen?)
-! Buttons I don't need (Videopage only)
+! Buttons I don't need (Videopage only) (spec is outside the menu, service item is stuff hidden inside the three-dot menu)
 www.youtube.com##.yt-spec-button-view-model:has-text(In die Wiedergabeliste)
 www.youtube.com##.yt-spec-button-view-model:has-text(Teilen)
 www.youtube.com##.yt-spec-button-view-model:has-text(Melden)
 www.youtube.com##.yt-spec-button-view-model:has-text(Thanks)
 www.youtube.com##.yt-spec-button-view-model:has-text(Clip)
+www.youtube.com##.ytd-menu-service-item-renderer:has-text(In die Wiedergabeliste)
+www.youtube.com##.ytd-menu-service-item-renderer:has-text(Teilen)
+www.youtube.com##.ytd-menu-service-item-renderer:has-text(Melden)
+www.youtube.com##.ytd-menu-service-item-renderer:has-text(Thanks)
+www.youtube.com##.ytd-menu-service-item-renderer:has-text(Clip)
 
 ! Video page:
 ! was not placed inside the three-dot menu, but Save to Playlist always is for no reason...

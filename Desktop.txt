@@ -1,6 +1,5 @@
 ! Title: DeepSpace/Desktop.txt
-! TimeUpdated: 2025-03-30T20:32:00+01:00
-! Version: 1.0.1.5
+! Version: 1.0.1.6
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -78,12 +77,12 @@ www.youtube.com##.guide-entry-badge
 www.youtube.com###rich-shelf-header-container:has-text(Shorts)
 ! A row, prompting to rate a watched video with 1-5 stars
 www.youtube.com##ytd-rich-section-renderer:has-text(Wie hat dir dieses Video gefallen?)
-! The three-dot action menu content that all videos have, also works for the videopage itself (watch?v=)
-www.youtube.com##ytd-menu-service-item-renderer:has-text(In die Wiedergabeliste)
-www.youtube.com##ytd-menu-service-item-renderer:has-text(Teilen)
-www.youtube.com##ytd-menu-service-item-renderer:has-text(Melden)
-www.youtube.com##ytd-menu-service-item-renderer:has-text(Thanks)
-www.youtube.com##ytd-menu-service-item-renderer:has-text(Clip)
+! Buttons I don't need (Videopage only)
+www.youtube.com##.yt-spec-button-view-model:has-text(In die Wiedergabeliste)
+www.youtube.com##.yt-spec-button-view-model:has-text(Teilen)
+www.youtube.com##.yt-spec-button-view-model:has-text(Melden)
+www.youtube.com##.yt-spec-button-view-model:has-text(Thanks)
+www.youtube.com##.yt-spec-button-view-model:has-text(Clip)
 
 ! Video page:
 ! was not placed inside the three-dot menu, but Save to Playlist always is for no reason...
@@ -109,6 +108,40 @@ www.youtube.com##.ytp-chrome-top-buttons
 ! Playlist (used Watch Later)
 www.youtube.com##.immersive-header-background-wrapper
 www.youtube.com###alerts:has-text(Nicht verfügbare Videos werden nicht angezeigt)
+! KI crap below Video player
+www.youtube.com###expandable-metadata:has-text(Zusammenfassung)
+
+! 01.05.2025 https://mail.google.com
+! Loading screen
+mail.google.com###loading
+! Logo top left
+||ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_*x_r5.png$image
+mail.google.com##.gb_Cc
+! Sidebar
+mail.google.com##.aUx
+! Part of storage usage below mails
+! ||ssl.gstatic.com/ui/v1/icons/mail/rfr/*.png$image
+mail.google.com##.aiC
+mail.google.com##.bcy
+||www.gstatic.com/images/icons/material/system_gm/2x/launch_white_18dp.png$image
+! Terms of Service
+mail.google.com##.aeU:has-text(Nutzungsbedingungen)
+! last account activity
+mail.google.com###\:18:has-text(Kontoaktivität)
+! Cancel Sub button in Mail Overview, at the right
+mail.google.com##.aJ6
+! Seems to be an unnecessary spacer below any mail
+mail.google.com##.iY.a98.nH > div.nH:nth-of-type(3)
+! Buttons for reply and forwarding mails below mail, also in context menu (except the emoji reaction)
+mail.google.com##.acV
+
+
+! 13.04.2025 https://discord.com
+! Makes the button at the bottom unnecessarily big
+discord.com##.barButtonBase__0f481:has-text(Du liest ältere Nachrichten)
+! Prevents you from accidentaly closing PMs and cleans UI, still works by right-clicking them
+discord.com##.closeButton__972a0
+
 
 
 

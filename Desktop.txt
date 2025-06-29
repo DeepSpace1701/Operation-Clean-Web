@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
 ! TimeUpdated: 2025-06-29
-! Version: 1.0.2.1
+! Version: 1.0.2.2
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -154,9 +154,12 @@ discord.com##div[class^="barButtonMain_"]
 discord.com##div[class^="closeButton_"]
 ! Splashscreen
 discord.com##.content_a2f514
-! Button in input bar
+! Button in input bar (the [class] stuff originated from https://www.reddit.com/r/uBlockOrigin/comments/1id4z1s/comment/m9xwwep/)
 discord.com##div[class^="channelTextArea_"] button[aria-label="Ein Geschenk senden"]
-
+! Doubled, doesn't need to be in the context menu as well. Wrapper is the row of emojis at the top, add-reaction a line
+discord.com##.wrapper_f563df
+discord.com###message-actions-add-reaction
+discord.com###message-actions-tts
 
 
 

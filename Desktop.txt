@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
-! TimeUpdated: 2025-06-22
-! Version: 1.0.1.7
+! TimeUpdated: 2025-06-29
+! Version: 1.0.2.0
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -64,6 +64,7 @@ pokewiki.de##^.mw-newarticletext
 pokewiki.de##^#mw-clearyourcache
 
 
+
 ! 24.04.2025 https://www.youtube.com
 ! Main page
 ! Logo Top left
@@ -118,6 +119,8 @@ www.youtube.com###alerts:has-text(Nicht verfügbare Videos werden nicht angezeig
 ! KI crap below Video player
 www.youtube.com###expandable-metadata:has-text(Zusammenfassung)
 
+
+
 ! 01.05.2025 https://mail.google.com
 ! Loading screen
 mail.google.com###loading
@@ -141,6 +144,7 @@ mail.google.com##.aJ6
 mail.google.com##.iY.a98.nH > div.nH:nth-of-type(3)
 ! Buttons for reply and forwarding mails below mail, also in context menu (except the emoji reaction)
 mail.google.com##.acV
+
 
 
 ! 13.04.2025 https://discord.com
@@ -211,3 +215,45 @@ www.golem.de##^[id^="atoc_prev"]
 www.golem.de##^.paywall-footer
 ! Other Paywall articles
 www.golem.de##^.promos
+
+
+
+! 25.05.2025 https://stadt-bremerhaven.de
+! Main Page
+! Indicator how many comments the article has
+stadt-bremerhaven.de##^.post-comments
+! "Technik und mehr" next to the logo. Hidden on mobile, but still works
+stadt-bremerhaven.de##^.site-description
+! Social Acoount Icons
+stadt-bremerhaven.de##^.social-links
+! Ad below sidebar stuff, also hidden on mobile
+stadt-bremerhaven.de##^.sidebar-content > p
+! Since I only kept a few things, I decided to remove the entire block and disable the blocker if ever needed
+stadt-bremerhaven.de##^#footer-widgets
+stadt-bremerhaven.de##^#back-to-top
+stadt-bremerhaven.de##^#footer-logo
+! Ad at the bottom
+stadt-bremerhaven.de##^.psw-container
+
+! individual articles, tested on "https://stadt-bremerhaven.de/windows-11-version-25h2-angekuendigt/"
+! Ad slot above headline, seems to be universal even though there is that number. Worked mobile and Icognito
+stadt-bremerhaven.de##^#div-gpt-ad-468478718952317814-1
+stadt-bremerhaven.de##^.post-category
+! Link to comment section next to article date
+stadt-bremerhaven.de##^.comments-link
+! Amazon ad wrapper below article
+stadt-bremerhaven.de##^.aawp
+stadt-bremerhaven.de##^.aawp-disclaimer
+! Share article crap
+stadt-bremerhaven.de##^h2:has-text(Gefällt dir der Artikel?)
+stadt-bremerhaven.de##^#shr-btns
+! Prev-next article links
+stadt-bremerhaven.de##^.post-nav
+stadt-bremerhaven.de##^.recent-posts
+stadt-bremerhaven.de##^.recent-posts__heading
+stadt-bremerhaven.de##^#comments
+stadt-bremerhaven.de##^.comment-abo
+! Sidebar content
+stadt-bremerhaven.de##^.adsbygoogle
+stadt-bremerhaven.de##^.wp-block-categories
+stadt-bremerhaven.de##^.widget_alx_tabs

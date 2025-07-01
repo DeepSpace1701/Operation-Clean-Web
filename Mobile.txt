@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Mobile.txt
-! TimeUpdated: 2025-06-29
-! Version: 1.0.2.0
+! TimeUpdated: 2025-07-01
+! Version: 1.0.3.0
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -162,3 +162,26 @@ stadt-bremerhaven.de##^.comment-abo
 stadt-bremerhaven.de##^.adsbygoogle
 stadt-bremerhaven.de##^.wp-block-categories
 stadt-bremerhaven.de##^.widget_alx_tabs
+
+
+
+! 29.06.2025 https://www.deskmodder.de
+www.deskmodder.de##^#gwerbung
+www.deskmodder.de##^#scroll-up
+! Sidebar
+www.deskmodder.de##^#secondary
+
+! https://www.deskmodder.de/blog/2025/06/27/firefox-140-0-1-korrigiert-moeglichen-absturz-beim-start-und-textkontrast-probleme/
+! comments on main page as well. Mobile has it next to the searchbar, invisible on PC.
+www.deskmodder.de##^.fa-comments
+www.deskmodder.de##^.fa-comment-o
+! Back to Homepage, hidden on mobile but working
+www.deskmodder.de##^#start_button
+www.deskmodder.de##^#comments
+www.deskmodder.de##^.ahnliche
+www.deskmodder.de##^.ahnlicheartikel
+! Alle News anzeigen
+www.deskmodder.de##^#startunten_button
+www.deskmodder.de##^a:has-text(HOME)
+www.deskmodder.de##^a:has-text(DATENSCHUTZ)
+www.deskmodder.de##^a:has-text(COOKIES)

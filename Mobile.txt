@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Mobile.txt
-! TimeUpdated: 2025-07-01
-! Version: 1.0.3.0
+! TimeUpdated: 2025-07-03
+! Version: 1.0.4.0
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -185,3 +185,27 @@ www.deskmodder.de##^#startunten_button
 www.deskmodder.de##^a:has-text(HOME)
 www.deskmodder.de##^a:has-text(DATENSCHUTZ)
 www.deskmodder.de##^a:has-text(COOKIES)
+
+
+
+! 01.07.2025 https://futurezone.at, used article: https://futurezone.at/science/groesste-kamera-welt-erstes-bild-lsst-chile-rubin-observatorium-sternenbeobachtung/403054580
+futurezone.at##^.ad
+futurezone.at##^.adContainer
+futurezone.at##^.fuzoBox--newsletter
+futurezone.at##^.tag
+! Sidebar hidden on mobile
+futurezone.at##^.article-sidebar
+futurezone.at##^.article-social
+! not all sites have related articles, https://futurezone.at/produkte/google-suche-ai-mode-doodle-logo-ki-zusammenfassungen/403054823
+futurezone.at##^.relatedArticles
+futurezone.at##^.comments
+futurezone.at##^.navFooter-item--channels
+! following three hidden on mobile, still works as well
+futurezone.at##^.navFooter-item--specials
+futurezone.at##^.navFooter-item--fuzofeatures
+futurezone.at##^.navFooter-item--community
+futurezone.at##^.portalParent > span:has-text(futurezone.at ist ein Medium)
+futurezone.at##^.navFooter-item-link:has-text(Allgemeine Nutzungsbedingungen)
+futurezone.at##^.navFooter-item-link:has-text(Datenschutzrichtlinie)
+futurezone.at##^.navFooter-item-link:has-text(Werben auf futurezone.at)
+futurezone.at##^.navFooter-item-link:has-text(Cookie Einstellungen)

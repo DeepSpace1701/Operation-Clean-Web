@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
 ! TimeUpdated: 2025-07-03
-! Version: 1.0.4.0
+! Version: 1.0.4.1
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -150,8 +150,8 @@ mail.google.com##.acV
 ! 13.04.2025 https://discord.com
 ! Makes the button at the bottom unnecessarily big
 discord.com##div[class^="barButtonMain_"]
-! Prevents you from accidentaly closing PMs and cleans UI, still works by right-clicking them
-discord.com##div[class^="closeButton_"]
+! Prevents you from accidentaly closing PMs and cleans UI, still works by right-clicking them. "class=closeButton_" also removes the closebutton_ from the notification center
+discord.com##[aria-label="Direktnachricht schließen"]
 ! Splashscreen
 discord.com##.content_a2f514
 ! Button in input bar (the [class] stuff originated from https://www.reddit.com/r/uBlockOrigin/comments/1id4z1s/comment/m9xwwep/)

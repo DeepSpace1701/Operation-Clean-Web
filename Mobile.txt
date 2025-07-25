@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Mobile.txt
 ! TimeUpdated: 2025-07-25
-! Version: 1.0.5.0
+! Version: 1.0.5.2
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -95,7 +95,6 @@ www.gog.com##^.footer-microservice-download__button
 
 www.gog.com##^.footer-microservice-secondary__link:has-text(Rechtliches)
 www.gog.com##^.footer-microservice-secondary__link:has-text(Datenschutzrichtlinie)
-www.gog.com##^.footer-microservice-secondary__link:has-text(Rechtliches)
 www.gog.com##^.footer-microservice-secondary__link:has-text(Wir sagen Danke!)
 www.gog.com##^.footer-microservice-secondary__link:has-text(Erklärung zu Cookies)
 www.gog.com##^.footer-microservice-secondary__copyrights
@@ -138,7 +137,7 @@ www.gog.com##^.success-go-to-account-container
 
 
 
-----------------------------------------
+! ----------------------------------------
 ! Everything below is a news-like site
 
 ! 30.03.2025 https://www.golem.de

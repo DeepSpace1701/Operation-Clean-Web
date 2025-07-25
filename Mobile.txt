@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Mobile.txt
-! TimeUpdated: 2025-07-03
-! Version: 1.0.4.0
+! TimeUpdated: 2025-07-25
+! Version: 1.0.5.0
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -62,6 +62,84 @@ pokewiki.de##^.mw-newarticletext
 pokewiki.de##^#mw-clearyourcache
 
 
+
+! 24.07.2025 https://www.gog.com
+! the small purple lines
+||menu-static.gog-statics.com/assets/img/bg.jpg$image
+||menu-static.gog-statics.com/assets/img/footer-border.jpg$image
+
+! Banner on main page, something like "About us", only works without ^
+www.gog.com##usp-banner
+
+! "Show all games" at the bottom of main page, always accessible via the menu at the top, only works without ^
+www.gog.com##explore-catalog
+
+
+! Footer
+www.gog.com##^.footer-microservice-socials
+
+||menu-static.gog-statics.com/assets/img/gog-vertical-logo.svg$image
+www.gog.com##^.footer-microservice__logo
+
+! still available via the menu at the top, your profile name.
+www.gog.com##^[ng-click="language.changeLanguage('en-US')"]
+www.gog.com##^[ng-click="language.changeLanguage('fr-FR')"]
+www.gog.com##^[ng-click="language.changeLanguage('pl-PL')"]
+www.gog.com##^[ng-click="language.changeLanguage('ru-RU')"]
+www.gog.com##^[ng-click="language.changeLanguage('zh-Hans')"]
+www.gog.com##^[ng-click="currency.changeCurrency('USD')"]
+
+! "has-text" instead of the way the currency is, it would likely also match on the support site, since they are https://support.gog.com links
+||menu-static.gog-statics.com/assets/img/galaxy_button_bg.jpg$image
+www.gog.com##^.footer-microservice-download__button
+
+www.gog.com##^.footer-microservice-secondary__link:has-text(Rechtliches)
+www.gog.com##^.footer-microservice-secondary__link:has-text(Datenschutzrichtlinie)
+www.gog.com##^.footer-microservice-secondary__link:has-text(Rechtliches)
+www.gog.com##^.footer-microservice-secondary__link:has-text(Wir sagen Danke!)
+www.gog.com##^.footer-microservice-secondary__link:has-text(Erklärung zu Cookies)
+www.gog.com##^.footer-microservice-secondary__copyrights
+
+! Copyright ©, to make the site fit without a scrollbar
+www.gog.com##^.footer-microservice-secondary__legal
+
+
+! https://www.gog.com/redeem
+! only works without ^
+www.gog.com##.captchaText
+
+
+! https://www.gog.com/de/checkout
+www.gog.com##^.promo-code-label
+! removes the "Mehrwehrtsteuer"
+www.gog.com##^.form__row-key--small-print
+
+! disable this if you need to use the GOG-wallet
+www.gog.com##^.wallet-payment-container
+! CC Thumbnail, I only use one payment method, so I don't need the others
+||www4-static.gog-statics.com/bundles/gogwebsiteorder/img/cards/2x/scode.png$image
+www.gog.com##^.additional-items:has-text(MEHR BEZAHLMETHODEN)
+
+www.gog.com##^.order__related-games
+! Small Print crap betweet related and footer. ".form__small-print" is also inside ".form__row-key--small-print"
+www.gog.com##^.form__small-print.form--description
+
+! Additional payment form, only works without ^
+www.gog.com###temp-support
+
+! some weird empty space
+www.gog.com##^.footer-spacer
+
+! Completed Orders
+! Contains button to install it via Galaxy
+www.gog.com##^.product-row__install-button-container
+www.gog.com##^.success-go-to-account-container
+
+
+
+
+----------------------------------------
+! Everything below is a news-like site
 
 ! 30.03.2025 https://www.golem.de
 ! Ads

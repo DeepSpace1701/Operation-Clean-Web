@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
 ! TimeUpdated: 2025-07-25
-! Version: 1.0.5.0
+! Version: 1.0.5.1
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -118,7 +118,10 @@ www.youtube.com##.immersive-header-background-wrapper
 www.youtube.com###alerts:has-text(Nicht verfügbare Videos werden nicht angezeigt)
 ! KI crap below Video player
 www.youtube.com###expandable-metadata:has-text(Zusammenfassung)
-
+! 02.07.2025 https://www.youtube.com
+www.youtube.com##^.ytd-download-button-renderer
+www.youtube.com##^#middle-row:has-text(ist Teil)
+www.youtube.com##^ytd-badge-supported-renderer:has-text(Automatisch synchronisiert)
 
 
 ! 01.05.2025 https://mail.google.com
@@ -127,6 +130,9 @@ mail.google.com###loading
 ! Logo top left
 ||ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_*x_r5.png$image
 mail.google.com##.gb_Cc
+! 06.07.2025 https://mail.google.com
+! [aria-label^="Gemini testen"] top right
+mail.google.com##.e5IPTd.r4vW1e
 ! Sidebar
 mail.google.com##.aUx
 ! Part of storage usage below mails
@@ -148,12 +154,15 @@ mail.google.com##.acV
 
 
 ! 13.04.2025 https://discord.com
-! Makes the button at the bottom unnecessarily big
-discord.com##div[class^="barButtonMain_"]
-! Prevents you from accidentaly closing PMs and cleans UI, still works by right-clicking them. "class=closeButton_" also removes the closebutton_ from the notification center
-discord.com##[aria-label="Direktnachricht schließen"]
 ! Splashscreen
 discord.com##.content_a2f514
+! Prevents you from accidentaly closing PMs and cleans UI, still works by right-clicking them. "class=closeButton_" also removes the closebutton_ from the notification center
+discord.com##[aria-label="Direktnachricht schließen"]
+! 01.07.2025 https://discord.com
+discord.com##div[class^="listItemWrapper_"] [aria-label="Entdecken"]
+discord.com##div[class^="listItemWrapper_"] [aria-label="Apps herunterladen"]
+! Makes the button at the bottom unnecessarily big
+discord.com##div[class^="barButtonMain_"]
 ! Button in input bar (the [class] stuff originated from https://www.reddit.com/r/uBlockOrigin/comments/1id4z1s/comment/m9xwwep/)
 discord.com##div[class^="channelTextArea_"] button[aria-label="Ein Geschenk senden"]
 ! Doubled, doesn't need to be in the context menu as well. Wrapper is the row of emojis at the top, add-reaction a line
@@ -238,7 +247,7 @@ www.gog.com##^.success-go-to-account-container
 
 
 
-----------------------------------------
+! ----------------------------------------
 ! Everything below is a news-like site
 
 ! 30.03.2025 https://www.golem.de

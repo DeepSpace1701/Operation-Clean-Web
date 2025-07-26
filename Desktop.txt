@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
-! TimeUpdated: 2025-07-25
-! Version: 1.0.5.2
+! TimeUpdated: 2025-07-26
+! Version: 1.0.5.3
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -119,9 +119,9 @@ www.youtube.com###alerts:has-text(Nicht verfügbare Videos werden nicht angezeig
 ! KI crap below Video player
 www.youtube.com###expandable-metadata:has-text(Zusammenfassung)
 ! 02.07.2025 https://www.youtube.com
-www.youtube.com##^.ytd-download-button-renderer
-www.youtube.com##^#middle-row:has-text(ist Teil)
-www.youtube.com##^ytd-badge-supported-renderer:has-text(Automatisch synchronisiert)
+www.youtube.com##.ytd-download-button-renderer
+www.youtube.com###middle-row:has-text(ist Teil)
+www.youtube.com##ytd-badge-supported-renderer:has-text(Automatisch synchronisiert)
 
 
 ! 01.05.2025 https://mail.google.com

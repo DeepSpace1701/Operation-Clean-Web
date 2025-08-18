@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
-! TimeUpdated: 2025-07-26
-! Version: 1.0.5.3
+! TimeUpdated: 2025-08-18
+! Version: 1.0.6.0
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -243,6 +243,19 @@ www.gog.com##^.footer-spacer
 www.gog.com##^.product-row__install-button-container
 www.gog.com##^.success-go-to-account-container
 
+! 24.07.2025 https://www.apkmirror.com
+! Ad
+www.apkmirror.com##^.ains
+www.apkmirror.com##^#sidebar
+! to hide the WhatsApp betas that get listed along normal updates. Will also hide other apps if they include "beta"
+www.apkmirror.com##^.appRow:has-text(beta)
+! Hide Temu
+www.apkmirror.com##^.appRow:has-text(Temu)
+! APKMirror Premium advertisement bottom right corner
+www.apkmirror.com##^#bottom-slider:has-text(No ads)
+! Footer
+www.apkmirror.com##^[href="/apkmirror-com-privacy-policy/"]
+www.apkmirror.com##^[href="/dmca-copyright-infringement-notification/"]
 
 
 

@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Mobile.txt
 ! TimeUpdated: 2025-07-25
-! Version: 1.0.6.0
+! Version: 1.0.7.0
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -134,6 +134,8 @@ www.gog.com##^.footer-spacer
 www.gog.com##^.product-row__install-button-container
 www.gog.com##^.success-go-to-account-container
 
+
+
 ! 24.07.2025 https://www.apkmirror.com
 ! Ad
 www.apkmirror.com##^.ains
@@ -147,6 +149,53 @@ www.apkmirror.com##^#bottom-slider:has-text(No ads)
 ! Footer
 www.apkmirror.com##^[href="/apkmirror-com-privacy-policy/"]
 www.apkmirror.com##^[href="/dmca-copyright-infringement-notification/"]
+
+
+
+! 01.08.2025 https://buyee.jp/item/jdirectitems/auction/1171286040
+buyee.jp##^.header-banner
+! next to logo
+buyee.jp##^.description
+
+buyee.jp##^#itemDetail_data > li:has-text(Anzahl der Gebote)
+buyee.jp##^#itemDetail_data > li:has-text(Höchstbietender)
+buyee.jp##^#itemDetail_data > li:has-text(Versand bezahlt von)
+
+! keep if you want to check the shipping fees first
+buyee.jp##^.itemInformation__simulator
+! only explains what a sniper bid is
+buyee.jp##^.bidButton [href="/helpcenter/guide/sniper-bid"]
+buyee.jp##^dt:has-text(Bewertung)
+buyee.jp##^.rating
+
+! hint that some pictures of information might be missing
+buyee.jp##^.detail_to_shopping
+
+! Footer
+! back to top
+buyee.jp##^.jump
+! Socials
+buyee.jp##^.sns_list
+buyee.jp##^.f_navi_inner > li:has-text(Datenschutzrichtlinie)
+buyee.jp##^.f_navi_inner > li:has-text(Cookie Policy)
+buyee.jp##^.f_navi_inner > li:has-text(The Act on Specified)
+
+! Payment
+buyee.jp##^.payment_list
+buyee.jp##^.radio_list > li:has-text(Alipay)
+buyee.jp##^.bidInput__alipay
+buyee.jp##^.internationalDeliveryMessage
+buyee.jp##^.bidInput__notes
+
+! completed Order/Bid
+buyee.jp##^.trustpilot-widget
+buyee.jp##^.complete-bid-reccommend
+
+! after successfull bid
+buyee.jp##^.rcmd_title
+
+! https://buyee.jp/myorders/watchlist
+buyee.jp##^.my_orders > p.g-paragraph
 
 
 

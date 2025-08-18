@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
 ! TimeUpdated: 2025-08-18
-! Version: 1.0.7.0
+! Version: 1.0.7.1
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -212,6 +212,12 @@ www.gog.com##^.footer-microservice-secondary__copyrights
 www.gog.com##^.footer-microservice-secondary__legal
 
 
+! Game page
+www.gog.com##^.productcard-background
+www.gog.com##^.recommended-products
+www.gog.com##^.layout-container:has-text(Das könnte dir auch gefallen)
+
+
 ! https://www.gog.com/redeem
 ! only works without ^
 www.gog.com##.captchaText
@@ -305,6 +311,10 @@ buyee.jp##^.rcmd_title
 
 ! https://buyee.jp/myorders/watchlist
 buyee.jp##^.my_orders > p.g-paragraph
+
+! when shipping a package to yourself
+buyee.jp##^.bidInput__radioText
+buyee.jp##^#alipay_check
 
 
 

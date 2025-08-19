@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
-! TimeUpdated: 2025-08-18
-! Version: 1.0.7.1
+! TimeUpdated: 2025-08-19
+! Version: 1.0.8.1
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -518,13 +518,14 @@ www.heise.de##^div[data-content-id="4774877"]
 www.heise.de##^.article-layout__header-wrbng
 www.heise.de##^.article-sidebar
 
-! Supposed to only remove ad-desktop-group-2 and ad-mobile-group-3
-www.heise.de##^.a-layout--bg-grey.a-layout
-
 www.heise.de##^.notification-links
 www.heise.de##^.footer__top
 www.heise.de##^.footer__text
 
+! Desktop only
+www.heise.de##^ad-desktop-group-1
+www.heise.de##^ad-desktop-group-2
+www.heise.de##^ad-desktop-group-3
 
 ! https://www.heise.de/ratgeber/Sonnenschutzfolien-Einfacher-Hitzeschutz-fuer-jedes-Fenster-10500109.html
 ! slimming the heise+ ad. curtain-module is a collection of heise plus articles

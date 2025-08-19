@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Mobile.txt
-! TimeUpdated: 2025-07-25
-! Version: 1.0.7.1
+! TimeUpdated: 2025-08-19
+! Version: 1.0.8.1
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -270,6 +270,9 @@ www.golem.de##^.paywall-footer
 ! Other Paywall articles
 www.golem.de##^.minihp__mobile
 
+! Seems to be Mobile only
+www.golem.de##^.clearfix
+
 
 
 ! 25.05.2025 https://stadt-bremerhaven.de
@@ -358,6 +361,8 @@ futurezone.at##^.navFooter-item-link:has-text(Allgemeine Nutzungsbedingungen)
 futurezone.at##^.navFooter-item-link:has-text(Datenschutzrichtlinie)
 futurezone.at##^.navFooter-item-link:has-text(Werben auf futurezone.at)
 futurezone.at##^.navFooter-item-link:has-text(Cookie Einstellungen)
+! Mobile only
+futurezone.at##^.cleverpush-bell
 
 
 
@@ -409,13 +414,15 @@ www.heise.de##^div[data-content-id="4774877"]
 www.heise.de##^.article-layout__header-wrbng
 www.heise.de##^.article-sidebar
 
-! Supposed to only remove ad-desktop-group-2 and ad-mobile-group-3
-www.heise.de##^.a-layout--bg-grey.a-layout
-
 www.heise.de##^.notification-links
 www.heise.de##^.footer__top
 www.heise.de##^.footer__text
 
+! Mobile only
+www.heise.de##^ad-mobile-group-1
+www.heise.de##^ad-mobile-group-2
+www.heise.de##^ad-mobile-group-3
+www.heise.de##^cleverpush-bell
 
 ! https://www.heise.de/ratgeber/Sonnenschutzfolien-Einfacher-Hitzeschutz-fuer-jedes-Fenster-10500109.html
 ! slimming the heise+ ad. curtain-module is a collection of heise plus articles

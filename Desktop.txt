@@ -467,3 +467,69 @@ futurezone.at##^.navFooter-item-link:has-text(Allgemeine Nutzungsbedingungen)
 futurezone.at##^.navFooter-item-link:has-text(Datenschutzrichtlinie)
 futurezone.at##^.navFooter-item-link:has-text(Werben auf futurezone.at)
 futurezone.at##^.navFooter-item-link:has-text(Cookie Einstellungen)
+
+
+
+! 18.08.2025 https://www.heise.de, simply copied to Mobile.txt without checking because of the amount
+! below the row of latest articles at the top
+www.heise.de##^.ad-microsites
+www.heise.de##^.perf-cls-reduc-leaderboard
+! annoying, permanent banner at the bottom, especially on mobile
+www.heise.de##^.theme-heiseplus
+
+www.heise.de##^.shadow-modules:has-text(Eigenwerbung)
+! www.heise.de##^.us_ad
+! removes a ton of (emtpy) ad fields, even if they don't visibily have "Anzeige", does not remove the need for "Eigenwerbung"
+www.heise.de##^.bg-gray-50:has-text(Anzeige)
+! "Spiele" row
+www.heise.de##^div[data-content-id="4556350"]
+
+! Footer
+||www.heise.de/icons/ho/h96-logo.svg$image
+www.heise.de##^.sitemap-group__img--h96
+! below navbar, for some reason uBlock also highlights something at the top of the site, that does nothing
+www.heise.de##^.md\:gap-3:has-text(Newsletter)
+www.heise.de##^li:has-text(Barriere melden)
+www.heise.de##^li:has-text(Cookies & Tracking)
+www.heise.de##^li:has-text(Datenschutz)
+www.heise.de##^.p-3:has-text(Mediadaten)
+www.heise.de##^li:has-text(Hosted by Plus.line)
+www.heise.de##^li:has-text(Content Management by InterRed)
+www.heise.de##^[href="https://www.heisegroup.de/"]
+||www.heise.de/assets/components/images/hauptpartner-heise-hannover-96.png$image
+www.heise.de##^a-color-scheme
+
+
+! https://www.heise.de/news/Firefox-bringt-KI-Assistent-fuer-Tab-Gruppen-10496799.html
+! Social Bar
+www.heise.de##^.a-article-header__service
+! what magazine it belongs to
+www.heise.de##^.a-article-branding
+! Video, DNS blocked. .ad removes the video along with other stuff
+! ||cdn.target-video.com/live/partners/28579/*
+www.heise.de##^.ad
+! article branding below article
+www.heise.de##^#wtma_teaser_ho_vertrieb_inline_branding
+www.heise.de##^.article-layout__footer
+! Beliebte Bestenlisten
+www.heise.de##^div[data-content-id="4774877"]
+
+! Sidebar
+www.heise.de##^.article-layout__header-wrbng
+www.heise.de##^.article-sidebar
+
+! Supposed to only remove ad-desktop-group-2 and ad-mobile-group-3
+www.heise.de##^.a-layout--bg-grey.a-layout
+
+www.heise.de##^.notification-links
+www.heise.de##^.footer__top
+www.heise.de##^.footer__text
+
+
+! https://www.heise.de/ratgeber/Sonnenschutzfolien-Einfacher-Hitzeschutz-fuer-jedes-Fenster-10500109.html
+! slimming the heise+ ad. curtain-module is a collection of heise plus articles
+www.heise.de##^.heiseplus-slogan__kicker
+www.heise.de##^.heiseplus-slogan
+www.heise.de##^.heiseplus-benefits
+www.heise.de##^.curtain__login-title
+www.heise.de##^.curtain-module

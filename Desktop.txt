@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
 ! TimeUpdated: 2025-08-19
-! Version: 1.0.9.0
+! Version: 1.0.9.1
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -352,7 +352,7 @@ www.golem.de##.go-button-bar
 www.golem.de##.go-alink-list
 www.golem.de##.go-article__related-topics
 www.golem.de##.go-newsletter-box-container
-www.golem.de##.go-grid--full-content:has-text(Kommentare)
+www.golem.de##.go-teaser-block--nextread:has-text(Kommentare)
 www.golem.de##.go-pagination__item--prev
 
 ! Part of Paywall (Used site: https://www.golem.de/news/temporal-tables-zeitreisen-in-datenbanken-2503-194781.html)

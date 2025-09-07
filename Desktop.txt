@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
-! TimeUpdated: 2025-08-19
-! Version: 1.0.9.1
+! TimeUpdated: 2025-09-07
+! Version: 1.0.9.2
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -514,3 +514,7 @@ www.heise.de##^.heiseplus-slogan
 www.heise.de##^.heiseplus-benefits
 www.heise.de##^.curtain__login-title
 www.heise.de##^.curtain-module
+
+! "Lesen Sie auch", only a few sites have it. Both Desktop and Mobile - https://www.heise.de/news/Marokko-zieht-gegen-deutsche-Spyware-Berichterstattung-vor-BGH-10544635.html
+! Also removes the newsletter field on https://www.heise.de/news/Der-Personalausweis-wird-teurer-10539445.html
+www.heise.de##^.a-u-inline

@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
-! TimeUpdated: 2025-09-21
-! Version: 1.0.9.3
+! TimeUpdated: 2025-10-03
+! Version: 1.1.0.0
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -518,3 +518,54 @@ www.heise.de##^.curtain-module
 ! "Lesen Sie auch", only a few sites have it. Both Desktop and Mobile - https://www.heise.de/news/Marokko-zieht-gegen-deutsche-Spyware-Berichterstattung-vor-BGH-10544635.html
 ! Also removes the newsletter field on https://www.heise.de/news/Der-Personalausweis-wird-teurer-10539445.html
 www.heise.de##^.a-u-inline
+
+
+! 02.10.2025 https://winaero.com
+! the big red annoying banner that appears every time
+winaero.com##^[id^="ddpa"]
+winaero.com##^p:has-text(Advertisement)
+winaero.com##^.adsbygoogle
+winaero.com##^.widget:has-text(PCRepair)
+! Ad for Winaero Tweaker that is above every article
+winaero.com##^.windiv:has-text(Click here to fix)
+winaero.com##^.comments-link
+
+! https://winaero.com/how-to-disable-defender-in-windows-11/
+winaero.com##^.supportus
+winaero.com##^.illa:has-text(If you like this article, please share it)
+winaero.com##^.comments-area
+winaero.com##^.navigation
+winaero.com##^.site-info > p
+winaero.com##^.footer_ad
+
+
+! 03.10.2025 https://www.computerbild.de
+! Nothing works when ^
+www.computerbild.de##.toTopButton__sticky
+www.computerbild.de##.cleverpush-banner
+www.computerbild.de##.footer__socialBar
+www.computerbild.de##.serviceLinkList
+www.computerbild.de##.footerLinkItem:has-text(AGB)
+www.computerbild.de##.footerLinkItem:has-text(Widerruf)
+www.computerbild.de##.footerLinkItem:has-text(Utiq)
+www.computerbild.de##.footerLinkItem:has-text(Datenschutz)
+www.computerbild.de##.footerLinkItem:has-text(Barrierefreiheit)
+www.computerbild.de##.footerLinkItem:has-text(Jugendschutz)
+www.computerbild.de##.footerLinkItem:has-text(Transparenz)
+www.computerbild.de##.footerLinkItem:has-text(Verantwortung)
+www.computerbild.de##.footerLinkItem:has-text(Privacy-Manager)
+www.computerbild.de##.footerLinkItem:has-text(Media)
+www.computerbild.de##.footerLinkItem:has-text(Einfach werben)
+www.computerbild.de##.cmsLink
+
+! https://www.computerbild.de/artikel/cb-Heft-Aktuelle-Ausgabe-COMPUTER-BILD-Ausgabe-21-2025-Inhalt-Uebersicht-14550239.html
+! Ads (Desktop only)
+www.computerbild.de##[class^="superbanner"]
+www.computerbild.de##.skyscraperContainer
+www.computerbild.de##[class^="billboard"]
+! VIP-Club ads
+www.computerbild.de##.ecommerceButton
+
+! https://www.computerbild.de/bestenlisten/FritzBox-Test-8737500.html
+! Disclaimer crap
+www.computerbild.de##.TransparencyBox

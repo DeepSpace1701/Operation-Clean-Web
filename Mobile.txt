@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Mobile.txt
 ! TimeUpdated: 2025-10-03
-! Version: 1.1.0.0
+! Version: 1.1.0.1
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -457,7 +457,7 @@ www.computerbild.de##.cmsLink
 ! https://www.computerbild.de/artikel/cb-Heft-Aktuelle-Ausgabe-COMPUTER-BILD-Ausgabe-21-2025-Inhalt-Uebersicht-14550239.html
 ! Ads (mobile only)
 www.computerbild.de##.bannerContainer
-www.computerbild.de##.mrecBtfContaier
+www.computerbild.de##.mrecBtfContainer
 ! VIP-Club ads
 www.computerbild.de##.ecommerceButton
 

@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
-! TimeUpdated: 2025-10-03
-! Version: 1.1.0.0
+! TimeUpdated: 2025-10-05
+! Version: 1.1.0.2
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -35,17 +35,22 @@ pokewiki.de##^.mw-changeslist-history
 ! zurücksetzen/danken
 pokewiki.de##^.mw-pager-tools
 
-! Prev-next und LÄ (Diskussion | Beiträge)
+! &diff: Buttons to switch between VE and Code
+pokewiki.de##^.mw-diff-table-prefix
+! &diff: und LÄ (Diskussion | Beiträge)
 pokewiki.de##^.mw-usertoollinks
-! Versionsgeschichte
-pokewiki.de##^.mw-history-legend
-! Prev-next: Version bearbeiten
+! &diff: Version bearbeiten
 pokewiki.de##^.mw-diff-edit
 ! Mehrere Versionen zurücksetzen
 pokewiki.de##^mw-rollback-link
 
+! Versionsgeschichte (&action=history)
+pokewiki.de##^.mw-history-legend
+
 ! Beitragszähler
 pokewiki.de##^p:has-text(Mit diesem Tool kannst du die Bearbeitungsanzahl eines bestimmten Benutzers in allen Namensräumen anzeigen.)
+! just some empty space
+pokewiki.de##^#editcount > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
 
 ! Editor
 ! Lizenzhinweise
@@ -80,7 +85,16 @@ www.youtube.com##.guide-entry-badge
 www.youtube.com###rich-shelf-header-container:has-text(Shorts)
 ! A row, prompting to rate a watched video with 1-5 stars
 www.youtube.com##ytd-rich-section-renderer:has-text(Wie hat dir dieses Video gefallen?)
-! Buttons I don't need (Videopage only) (spec is outside the menu, service item is stuff hidden inside the three-dot menu)
+
+! three-dot menu each video in the grid has
+www.youtube.com##.yt-list-item-view-model:has-text(In die Wiedergabeliste)
+www.youtube.com##.ytDownloadListItemViewModelHost
+www.youtube.com##.yt-list-item-view-model:has-text(Teilen)
+www.youtube.com##.yt-list-item-view-model:has-text(Melden)
+
+
+! Video page:
+! Buttons I don't need (spec is outside the menu, service item is stuff hidden inside the three-dot menu)
 www.youtube.com##.yt-spec-button-view-model:has-text(In die Wiedergabeliste)
 www.youtube.com##.yt-spec-button-view-model:has-text(Teilen)
 www.youtube.com##.yt-spec-button-view-model:has-text(Melden)
@@ -91,10 +105,12 @@ www.youtube.com##.ytd-menu-service-item-renderer:has-text(Teilen)
 www.youtube.com##.ytd-menu-service-item-renderer:has-text(Melden)
 www.youtube.com##.ytd-menu-service-item-renderer:has-text(Thanks)
 www.youtube.com##.ytd-menu-service-item-renderer:has-text(Clip)
-
-! Video page:
 ! was not placed inside the three-dot menu, but Save to Playlist always is for no reason...
 www.youtube.com##.yt-spec-button-shape-next:has-text(Teilen)
+
+www.youtube.com##.ytd-menu-renderer:has-text(Thanks)
+www.youtube.com###sponsor-button
+
 ! white line below the like/dislike counter
 www.youtube.com##.ryd-tooltip
 ! If the video had a Chat
@@ -104,7 +120,15 @@ www.youtube.com##ytd-merch-shelf-renderer
 ! Channels like Crunchyroll have paid Subs, made has-text in case it also matches buy movie/episode
 www.youtube.com###purchase-button:has-text(Testzeitraum beginnen)
 ! Hastags in the video description, didn't manage to make a better rule
-www.youtube.com##a.bold.yt-formatted-string.style-scope.yt-simple-endpoint
+www.youtube.com###info > a.yt-formatted-string.style-scope.yt-simple-endpoint
+! KI crap below Video player
+www.youtube.com###expandable-metadata:has-text(Zusammenfassung)
+! two fields below video description, most of the time for the game featured in the video
+www.youtube.com##.ytd-metadata-row-container-renderer
+! If the channel is part of a network
+www.youtube.com###middle-row:has-text(ist Teil)
+! If the video has been destroyed by YT
+www.youtube.com##ytd-badge-supported-renderer:has-text(Automatisch synchronisiert)
 
 ! Videoplayer
 ! "Enthält bezahlte Werbung" top left corner
@@ -116,12 +140,12 @@ www.youtube.com##.ytp-chrome-top-buttons
 ! Playlist (used Watch Later)
 www.youtube.com##.immersive-header-background-wrapper
 www.youtube.com###alerts:has-text(Nicht verfügbare Videos werden nicht angezeigt)
-! KI crap below Video player
-www.youtube.com###expandable-metadata:has-text(Zusammenfassung)
+
 ! 02.07.2025 https://www.youtube.com
 www.youtube.com##.ytd-download-button-renderer
-www.youtube.com###middle-row:has-text(ist Teil)
-www.youtube.com##ytd-badge-supported-renderer:has-text(Automatisch synchronisiert)
+
+
+
 
 
 ! 01.05.2025 https://mail.google.com
@@ -169,6 +193,14 @@ discord.com##div[class^="channelTextArea_"] button[aria-label="Ein Geschenk send
 discord.com##.wrapper_f563df
 discord.com###message-actions-add-reaction
 discord.com###message-actions-tts
+
+! 21.09.2025 https://discord.com/discovery/quests
+! Bad translation (Future, but is Past tense), the Quest is already gone so why keep it
+discord.com##[id^="quest-tile"]:has-text(Quest endet am)
+! Finished Quest that offers to watch the ad again
+discord.com##[id^="quest-tile"]:has-text(Erneut ansehen):has-text(Erkunde den Shop)
+! I do not want to download or install a game for this
+discord.com##[id^="quest-tile"]:has-text(Spiele)
 
 
 
@@ -354,10 +386,12 @@ www.golem.de##.go-article__related-topics
 www.golem.de##.go-newsletter-box-container
 www.golem.de##.go-teaser-block--nextread:has-text(Kommentare)
 www.golem.de##.go-pagination__item--prev
+www.golem.de##.go-teaser-container:has-text(Die besten Deals des Tages)
 
 ! Part of Paywall (Used site: https://www.golem.de/news/temporal-tables-zeitreisen-in-datenbanken-2503-194781.html)
 www.golem.de##.go-paywall > .go-plus-sign
 www.golem.de##.go-paywall__footer > p:has-text(Sie sind bereits Abonnent?)
+www.golem.de##.go-pc-teaser
 
 
 
@@ -479,7 +513,6 @@ www.heise.de##^[href="https://www.heisegroup.de/"]
 ||www.heise.de/assets/components/images/hauptpartner-heise-hannover-96.png$image
 www.heise.de##^a-color-scheme
 
-
 ! https://www.heise.de/news/Firefox-bringt-KI-Assistent-fuer-Tab-Gruppen-10496799.html
 ! Social Bar
 www.heise.de##^.a-article-header__service
@@ -502,10 +535,9 @@ www.heise.de##^.notification-links
 www.heise.de##^.footer__top
 www.heise.de##^.footer__text
 
-! Desktop only
-www.heise.de##^.ad-desktop-group-1
-www.heise.de##^.ad-desktop-group-2
-www.heise.de##^.ad-desktop-group-3
+! both Desktop and Mobile for some reason, just empty
+www.heise.de##^[class^="ad-desktop-group"]
+www.heise.de##^[class^="ad-mobile-group"]
 
 ! https://www.heise.de/ratgeber/Sonnenschutzfolien-Einfacher-Hitzeschutz-fuer-jedes-Fenster-10500109.html
 ! slimming the heise+ ad. curtain-module is a collection of heise plus articles
@@ -518,6 +550,7 @@ www.heise.de##^.curtain-module
 ! "Lesen Sie auch", only a few sites have it. Both Desktop and Mobile - https://www.heise.de/news/Marokko-zieht-gegen-deutsche-Spyware-Berichterstattung-vor-BGH-10544635.html
 ! Also removes the newsletter field on https://www.heise.de/news/Der-Personalausweis-wird-teurer-10539445.html
 www.heise.de##^.a-u-inline
+
 
 
 ! 02.10.2025 https://winaero.com
@@ -537,6 +570,10 @@ winaero.com##^.comments-area
 winaero.com##^.navigation
 winaero.com##^.site-info > p
 winaero.com##^.footer_ad
+
+! https://winaero.com/google-introduces-limited-unverified-developer-registration-for-android-apps/
+winaero.com##^.gad-gads
+
 
 
 ! 03.10.2025 https://www.computerbild.de

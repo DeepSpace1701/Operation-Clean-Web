@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Mobile.txt
-! TimeUpdated: 2025-10-03
-! Version: 1.1.0.1
+! TimeUpdated: 2025-10-05
+! Version: 1.1.0.2
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -33,17 +33,22 @@ pokewiki.de##^.mw-changeslist-history
 ! zurücksetzen/danken
 pokewiki.de##^.mw-pager-tools
 
-! Prev-next und LÄ (Diskussion | Beiträge)
+! &diff: Buttons to switch between VE and Code
+pokewiki.de##^.mw-diff-table-prefix
+! &diff: und LÄ (Diskussion | Beiträge)
 pokewiki.de##^.mw-usertoollinks
-! Versionsgeschichte
-pokewiki.de##^.mw-history-legend
-! Prev-next: Version bearbeiten
+! &diff: Version bearbeiten
 pokewiki.de##^.mw-diff-edit
 ! Mehrere Versionen zurücksetzen
 pokewiki.de##^mw-rollback-link
 
+! Versionsgeschichte (&action=history)
+pokewiki.de##^.mw-history-legend
+
 ! Beitragszähler
 pokewiki.de##^p:has-text(Mit diesem Tool kannst du die Bearbeitungsanzahl eines bestimmten Benutzers in allen Namensräumen anzeigen.)
+! just some empty space
+pokewiki.de##^#editcount > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
 
 ! Editor
 ! Lizenzhinweise
@@ -245,10 +250,12 @@ www.golem.de##.go-article__related-topics
 www.golem.de##.go-newsletter-box-container
 www.golem.de##.go-teaser-block--nextread:has-text(Kommentare)
 www.golem.de##.go-pagination__item--prev
+www.golem.de##.go-teaser-container:has-text(Die besten Deals des Tages)
 
 ! Part of Paywall (Used site: https://www.golem.de/news/temporal-tables-zeitreisen-in-datenbanken-2503-194781.html)
 www.golem.de##.go-paywall > .go-plus-sign
 www.golem.de##.go-paywall__footer > p:has-text(Sie sind bereits Abonnent?)
+www.golem.de##.go-pc-teaser
 
 
 
@@ -372,7 +379,6 @@ www.heise.de##^[href="https://www.heisegroup.de/"]
 ||www.heise.de/assets/components/images/hauptpartner-heise-hannover-96.png$image
 www.heise.de##^a-color-scheme
 
-
 ! https://www.heise.de/news/Firefox-bringt-KI-Assistent-fuer-Tab-Gruppen-10496799.html
 ! Social Bar
 www.heise.de##^.a-article-header__service
@@ -395,10 +401,11 @@ www.heise.de##^.notification-links
 www.heise.de##^.footer__top
 www.heise.de##^.footer__text
 
+! both Desktop and Mobile for some reason, just empty
+www.heise.de##^[class^="ad-desktop-group"]
+www.heise.de##^[class^="ad-mobile-group"]
+
 ! Mobile only
-www.heise.de##^.ad-mobile-group-1
-www.heise.de##^.ad-mobile-group-2
-www.heise.de##^.ad-mobile-group-3
 www.heise.de##.cleverpush-bell
 ! recommend articles, below article content - https://www.heise.de/news/Firefox-bringt-KI-Assistent-fuer-Tab-Gruppen-10496799.html
 www.heise.de##^.a-u-grid-pullout-mobile
@@ -414,6 +421,7 @@ www.heise.de##^.curtain-module
 ! "Lesen Sie auch", only a few sites have it. Both Desktop and Mobile - https://www.heise.de/news/Marokko-zieht-gegen-deutsche-Spyware-Berichterstattung-vor-BGH-10544635.html
 ! Also removes the newsletter field on https://www.heise.de/news/Der-Personalausweis-wird-teurer-10539445.html
 www.heise.de##^.a-u-inline
+
 
 
 ! 02.10.2025 https://winaero.com
@@ -433,6 +441,10 @@ winaero.com##^.comments-area
 winaero.com##^.navigation
 winaero.com##^.site-info > p
 winaero.com##^.footer_ad
+
+! https://winaero.com/google-introduces-limited-unverified-developer-registration-for-android-apps/
+winaero.com##^.gad-gads
+
 
 
 ! 03.10.2025 https://www.computerbild.de
@@ -457,7 +469,8 @@ www.computerbild.de##.cmsLink
 ! https://www.computerbild.de/artikel/cb-Heft-Aktuelle-Ausgabe-COMPUTER-BILD-Ausgabe-21-2025-Inhalt-Uebersicht-14550239.html
 ! Ads (mobile only)
 www.computerbild.de##.bannerContainer
-www.computerbild.de##.mrecBtfContainer
+! Covers .mrecBtfContainer and .mrecContainer
+www.computerbild.de##div[class^="mrec"]
 ! VIP-Club ads
 www.computerbild.de##.ecommerceButton
 

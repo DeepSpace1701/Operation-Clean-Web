@@ -1,8 +1,4 @@
 ! Title: DeepSpace/Test.txt
 ! TimeUpdated: 2025-07-25
-! Version: 0.0.0.4
+! Version: 0.0.0.5
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
-
-! "has-text" instead of the way the currency is, it would likely also match on the support site, since they are https://support.gog.com links
-||menu-static.gog-statics.com/assets/img/galaxy_button_bg.jpg$image
-www.gog.com##^.footer-microservice-download__button

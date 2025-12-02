@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
 ! TimeUpdated: 2025-12-02
-! Version: 1.1.0.3
+! Version: 1.1.1.0
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -597,9 +597,9 @@ www.computerbild.de##.cmsLink
 
 ! https://www.computerbild.de/artikel/cb-Heft-Aktuelle-Ausgabe-COMPUTER-BILD-Ausgabe-21-2025-Inhalt-Uebersicht-14550239.html
 ! Ads (Desktop only)
-www.computerbild.de##[class^="superbanner"]
+www.computerbild.de##[id^="superbanner"]
 www.computerbild.de##.skyscraperContainer
-www.computerbild.de##[class^="billboard"]
+www.computerbild.de##[id^="billboard"]
 www.computerbild.de##.addelivered
 www.computerbild.de##.oneTag
 
@@ -613,3 +613,36 @@ www.computerbild.de##.cnx-float-wrapper
 ! https://www.computerbild.de/bestenlisten/FritzBox-Test-8737500.html
 ! Disclaimer crap
 www.computerbild.de##.TransparencyBox
+
+
+
+! 02.12.2025 https://www.gamestar.de
+! DNS blocked: toolbox.webediagaming.de, images-toolbox.webediagaming.de, www.co2neutralwebsite.de
+www.gamepro.de,www.gamestar.de##^.jad-placeholder
+www.gamepro.de,www.gamestar.de##^.plus-202508-banner-content
+www.gamepro.de,www.gamestar.de##^.ads-row
+! URL toolbox.webedia
+www.gamepro.de,www.gamestar.de##^.wbd-toolbox
+||www.gamestar.de/kalender/gamestar/actionwidget.html$subdocument
+
+www.gamepro.de,www.gamestar.de##^.teaser:has-text(Aktuelle News)
+www.gamepro.de,www.gamestar.de##.rpi-progress-bar
+www.gamepro.de,www.gamestar.de##^.btn-social
+www.gamepro.de,www.gamestar.de##^.scrollto
+! Read also
+www.gamepro.de,www.gamestar.de##^.recirculation-box
+! Hastags
+www.gamepro.de,www.gamestar.de##^.tag
+www.gamepro.de,www.gamestar.de##^#comments
+www.gamepro.de,www.gamestar.de##^#footer-bold:has-text(Newsletter bestellen)
+
+! Footer
+www.gamepro.de,www.gamestar.de##^a:has-text(Unser Kodex)
+www.gamepro.de,www.gamestar.de##^a:has-text(Über Webedia)
+www.gamepro.de,www.gamestar.de##^a:has-text(Nutzungsbestimmungen)
+www.gamepro.de,www.gamestar.de##^a:has-text(Mediadaten)
+www.gamepro.de,www.gamestar.de##^a:has-text(Datenschutzerklärung)
+www.gamepro.de,www.gamestar.de##^a:has-text(Cookies & Tracking)
+www.gamepro.de,www.gamestar.de##^a:has-text(Transparenzbericht)
+||static.cgames.de/gs_cb/assets/core/images/webedia_logo_dark.svg$image
+||www.co2neutralwebsite.de/icons/logo/transparent_de.svg$image

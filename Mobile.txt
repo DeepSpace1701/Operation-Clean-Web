@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Mobile.txt
-! TimeUpdated: 2025-10-05
-! Version: 1.1.0.2
+! TimeUpdated: 2025-12-02
+! Version: 1.1.0.3
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -468,11 +468,18 @@ www.computerbild.de##.cmsLink
 
 ! https://www.computerbild.de/artikel/cb-Heft-Aktuelle-Ausgabe-COMPUTER-BILD-Ausgabe-21-2025-Inhalt-Uebersicht-14550239.html
 ! Ads (mobile only)
-www.computerbild.de##.bannerContainer
+! www.computerbild.de##.bannerContainer
 ! Covers .mrecBtfContainer and .mrecContainer
-www.computerbild.de##div[class^="mrec"]
+www.computerbild.de##.addelivered
+www.computerbild.de##[id^="banner"]
+www.computerbild.de##[id^="mrec"]
+
 ! VIP-Club ads
 www.computerbild.de##.ecommerceButton
+
+! Found on https://www.computerbild.de/artikel/News-Handy-Samsung-Galaxy-Z-TriFold-Samsung-Falthandy-mit-10-Zoll-Display-Tabletersatz-40566597.html
+! VideoPlayer left bottom corner, even though it might be Desktop only
+www.computerbild.de##.cnx-float-wrapper
 
 ! https://www.computerbild.de/bestenlisten/FritzBox-Test-8737500.html
 ! Disclaimer crap

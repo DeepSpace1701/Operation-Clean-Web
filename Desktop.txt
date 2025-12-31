@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
-! TimeUpdated: 2025-12-02
-! Version: 1.1.1.0
+! TimeUpdated: 2025-12-31
+! Version: 1.1.2.0
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -143,8 +143,6 @@ www.youtube.com###alerts:has-text(Nicht verfügbare Videos werden nicht angezeig
 
 ! 02.07.2025 https://www.youtube.com
 www.youtube.com##.ytd-download-button-renderer
-
-
 
 
 
@@ -296,6 +294,47 @@ www.apkmirror.com##^#bottom-slider:has-text(No ads)
 ! Footer
 www.apkmirror.com##^[href="/apkmirror-com-privacy-policy/"]
 www.apkmirror.com##^[href="/dmca-copyright-infringement-notification/"]
+
+
+
+! 31.12.2025 https://apkpure.com
+! https://apkpure.com/de/search?q=Firefox
+apkpure.com##^.ad-container
+! https://apkpure.com/de/feedflow-rss-reader/com.prof18.feedflow/versions
+apkpure.com##^.ad-box
+! Description of the old version site
+apkpure.com##^.ver-title
+
+! Small popup, promoting loging
+apkpure.com##^.nav-download-management
+! Share bar on the right
+apkpure.com##^.share-fixed
+! bell, bottom right corner
+apkpure.com##^.float-request-notification-permission-button
+! Star ratings, in the right box
+apkpure.com##^.stars-box
+
+! below the old versions list
+apkpure.com##^.aegon-down-item:has-text(Use APKPure App)
+apkpure.com##^.dt-discover
+
+! Footer, site description below logo
+apkpure.com##^.group.item > p:has-text(Ein plattformübergreifender App-Store)
+
+apkpure.com##^[href="https://apkpure.com/de/privacy-policy.html"]
+apkpure.com##^[href="https://apkpure.com/de/copyright-policy.html"]
+apkpure.com##^[href="https://apkpure.com/de/terms.html"]
+apkpure.com##^[href="https://apkpure.com/de/eu-amau.html"]
+
+! Main Page
+! Search, on the right
+apkpure.com##^.trending-title
+apkpure.com##^.trending-content
+! Ratings
+apkpure.com##^.score
+
+! Ad
+apkpure.com##.editor-choice
 
 
 
@@ -644,5 +683,5 @@ www.gamepro.de,www.gamestar.de##^a:has-text(Mediadaten)
 www.gamepro.de,www.gamestar.de##^a:has-text(Datenschutzerklärung)
 www.gamepro.de,www.gamestar.de##^a:has-text(Cookies & Tracking)
 www.gamepro.de,www.gamestar.de##^a:has-text(Transparenzbericht)
-||static.cgames.de/gs_cb/assets/core/images/webedia_logo_dark.svg$image
-||www.co2neutralwebsite.de/icons/logo/transparent_de.svg$image
+||static.cgames.de/gs_cb/assets/core/images/webedia_logo_*.svg$image
+||www.co2neutralwebsite.de/icons/logo/*.svg$image

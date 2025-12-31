@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
 ! TimeUpdated: 2025-12-31
-! Version: 1.1.2.0
+! Version: 1.1.2.1
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -390,9 +390,22 @@ buyee.jp##^#alipay_check
 
 
 ! 03.08.2025 https://act.hoyolab.com
-act.hoyolab.com##^.components-home-assets-__sign-recom-test_---recommend---1CKbTa
-act.hoyolab.com##^.components-home-assets-__home_---qr-code---iYG7z9
-||act.hoyolab.com/ys/event/signin-sea-v3/images/index-bg.1c31f3bf.png$image
+! https://act.hoyolab.com/ys/event/signin-sea-v3/index.html
+! BG
+||act.hoyolab.com/ys/event/signin-sea-v3/images/index-bg.*.png$image
+! next to headline
+||act.hoyolab.com/ys/event/signin-sea-v3/images/paimon.*.png$image
+act.hoyolab.com##[class*="desc"]:has-text(Die Statistiken der Eintragung richten sich nach Zeitzone UTC+8)
+! side
+act.hoyolab.com##[class*="qr-code"]
+! below calender
+act.hoyolab.com##[class*="sign-recom-test_---recommend"]
+! claim success popup
+||act.hoyolab.com/ys/event/signin-sea-v3/images/light-bg.*.png$image
+act.hoyolab.com##[class*="reward-tips"]:has-text(Die Belohnungen weisen eine Verzögerung von ungefähr 10 Minuten auf)
+act.hoyolab.com##[class*="modal-line"]
+act.hoyolab.com##[class*="next-wrapper"]
+act.hoyolab.com##[class*="banner-wrapper"]
 
 
 
@@ -683,5 +696,9 @@ www.gamepro.de,www.gamestar.de##^a:has-text(Mediadaten)
 www.gamepro.de,www.gamestar.de##^a:has-text(Datenschutzerklärung)
 www.gamepro.de,www.gamestar.de##^a:has-text(Cookies & Tracking)
 www.gamepro.de,www.gamestar.de##^a:has-text(Transparenzbericht)
-||static.cgames.de/gs_cb/assets/core/images/webedia_logo_*.svg$image
+||static.cgames.de/*/assets/core/images/webedia_logo_*.svg$image
 ||www.co2neutralwebsite.de/icons/logo/*.svg$image
+
+! https://www.gamepro.de/artikel/assassins-creed-shadows-eine-der-besten-waffen-unsterblich,3430358.html
+! not clue what it does, empty for me
+www.gamepro.de##^.js-observe.do-load-embed.box

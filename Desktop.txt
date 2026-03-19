@@ -1,6 +1,6 @@
 ! Title: DeepSpace/Desktop.txt
-! TimeUpdated: 2025-12-31
-! Version: 1.1.2.1
+! TimeUpdated: 2026-03-19
+! Version: 1.1.2.2
 ! Homepage: https://github.com/DeepSpace1701/Operation-Clean-Web
 
 ! 11.03.2025 https://www.pokewiki.de
@@ -95,21 +95,19 @@ www.youtube.com##.yt-list-item-view-model:has-text(Melden)
 
 ! Video page:
 ! Buttons I don't need (spec is outside the menu, service item is stuff hidden inside the three-dot menu)
-www.youtube.com##.yt-spec-button-view-model:has-text(In die Wiedergabeliste)
-www.youtube.com##.yt-spec-button-view-model:has-text(Teilen)
-www.youtube.com##.yt-spec-button-view-model:has-text(Melden)
-www.youtube.com##.yt-spec-button-view-model:has-text(Thanks)
-www.youtube.com##.yt-spec-button-view-model:has-text(Clip)
+www.youtube.com##yt-button-view-model:has-text(In die Wiedergabeliste)
+www.youtube.com##yt-button-view-model:has-text(Teilen)
+www.youtube.com##yt-button-view-model:has-text(Melden)
+www.youtube.com##yt-button-view-model:has-text(Thanks)
+www.youtube.com##yt-button-view-model:has-text(Clip)
 www.youtube.com##.ytd-menu-service-item-renderer:has-text(In die Wiedergabeliste)
 www.youtube.com##.ytd-menu-service-item-renderer:has-text(Teilen)
 www.youtube.com##.ytd-menu-service-item-renderer:has-text(Melden)
 www.youtube.com##.ytd-menu-service-item-renderer:has-text(Thanks)
 www.youtube.com##.ytd-menu-service-item-renderer:has-text(Clip)
-! was not placed inside the three-dot menu, but Save to Playlist always is for no reason...
-www.youtube.com##.yt-spec-button-shape-next:has-text(Teilen)
 
-www.youtube.com##.ytd-menu-renderer:has-text(Thanks)
 www.youtube.com###sponsor-button
+www.youtube.com##.ytd-download-button-renderer
 
 ! white line below the like/dislike counter
 www.youtube.com##.ryd-tooltip
@@ -129,6 +127,9 @@ www.youtube.com##.ytd-metadata-row-container-renderer
 www.youtube.com###middle-row:has-text(ist Teil)
 ! If the video has been destroyed by YT
 www.youtube.com##ytd-badge-supported-renderer:has-text(Automatisch synchronisiert)
+! (Description)
+www.youtube.com##.ytwHowThisWasMadeSectionViewModelBodyHeader:has-text(Automatisch synchronisiert)
+www.youtube.com##.ytwHowThisWasMadeSectionViewModelBodyText:has-text(Audiotracks für einige Sprachen wurden automatisch erstellt.)
 
 ! Videoplayer
 ! "Enthält bezahlte Werbung" top left corner
@@ -140,9 +141,20 @@ www.youtube.com##.ytp-chrome-top-buttons
 ! Playlist (used Watch Later)
 www.youtube.com##.immersive-header-background-wrapper
 www.youtube.com###alerts:has-text(Nicht verfügbare Videos werden nicht angezeigt)
+! Endscreen
+www.youtube.com##[class^="ytp-ce"]:has-text(Ausblenden)
+! not sure what this was
+www.youtube.com##.ytp-fullscreen-grid
+www.youtube.com##.ytp-fullscreen-quick-actions
+www.youtube.com##.yt-list-item-view-model:has-text(Anzeigen entfernen)
+! Made the livestream only use half the screen size
+www.youtube.com###chat-container
+www.youtube.com###panels-full-bleed-container
 
-! 02.07.2025 https://www.youtube.com
-www.youtube.com##.ytd-download-button-renderer
+! if the video does not load due to Adblocker
+www.youtube.com##.paper-toast-open:has-text(Kommt es zu Unterbrechungen?)
+! YouTube Premium maybe? Can't remember
+www.youtube.com###teaser-carousel:has-text(Möglichkeiten für Familien)
 
 
 
